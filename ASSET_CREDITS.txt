@@ -1,6 +1,6 @@
-STUDENTBNB PL - CREDITI CARTOGRAFICI
+STUDENTBNB DE - CREDITI CARTOGRAFICI
 
-Cartina nazionale: https://commons.wikimedia.org/wiki/File:Poland_location_map.svg
+Cartina nazionale: https://commons.wikimedia.org/wiki/File:Germany_location_map.svg
 Autore: NordNordWest / Wikimedia Commons
 Licenza: CC BY-SA 3.0 / GFDL, secondo la pagina sorgente.
 Utilizzo nel portale: file country-map.svg visualizzato con indicatori HTML separati per le città universitarie.

@@ -1,4 +1,4 @@
-CHECKLIST PRE-LANCIO - STUDENTBNB PL
+CHECKLIST PRE-LANCIO - STUDENTBNB DE
 
 [ ] Dominio, DNS, HTTPS, redirect www/non-www
 [ ] Dati legali del titolare e contatto privacy
@@ -9,7 +9,7 @@ CHECKLIST PRE-LANCIO - STUDENTBNB PL
 [ ] Test registrazione -> conferma -> moderazione -> pubblicazione
 [ ] Test richiesta studente -> conferma -> moderazione -> pubblicazione
 [ ] Test segnalazioni e sospensione contenuti
-[ ] Isolamento server-side country_code = PL
+[ ] Isolamento server-side country_code = DE
 [ ] Backup, log accessi e piano di cancellazione dati
 [ ] Controllo link rete StudentBnB in tutti i domini
 [ ] Test responsive e accessibilità tastiera

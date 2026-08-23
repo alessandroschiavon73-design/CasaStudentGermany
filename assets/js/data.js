@@ -1,7777 +1,8587 @@
 window.STUDENTBNB_DATA = {
   "cities": [
     {
-      "id": "de-berlin",
-      "country_code": "DE",
-      "slug": "berlin",
-      "name": "Berlin",
-      "region": "Berlin",
-      "description": "Berlin: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-warszawa",
+      "country_code": "PL",
+      "slug": "warszawa",
+      "name": "Warszawa",
+      "region": "Mazowieckie",
+      "description": "Warszawa: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-1.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-berlin-1",
-          "slug": "adlershof",
-          "name": "Adlershof"
+          "id": "pl-warszawa-1",
+          "slug": "aleksandrow",
+          "name": "Aleksandrów"
         },
         {
-          "id": "de-berlin-2",
-          "slug": "adlershof-nord",
-          "name": "Adlershof-Nord"
+          "id": "pl-warszawa-2",
+          "slug": "aleksandrow-pierwszy",
+          "name": "Aleksandrów Pierwszy"
         },
         {
-          "id": "de-berlin-3",
-          "slug": "adlershof-sud",
-          "name": "Adlershof-Süd"
+          "id": "pl-warszawa-3",
+          "slug": "anecin",
+          "name": "Anecin"
         },
         {
-          "id": "de-berlin-4",
-          "slug": "aeg-siedlung",
-          "name": "AEG-Siedlung"
+          "id": "pl-warszawa-4",
+          "slug": "anin",
+          "name": "Anin"
         },
         {
-          "id": "de-berlin-5",
-          "slug": "afrikanisches-viertel",
-          "name": "Afrikanisches Viertel"
+          "id": "pl-warszawa-5",
+          "slug": "annopol",
+          "name": "Annopol"
         },
         {
-          "id": "de-berlin-6",
-          "slug": "akazienkiez",
-          "name": "Akazienkiez"
+          "id": "pl-warszawa-6",
+          "slug": "antoninow",
+          "name": "Antoninów"
         },
         {
-          "id": "de-berlin-7",
-          "slug": "albrechts-teerofen",
-          "name": "Albrechts Teerofen"
+          "id": "pl-warszawa-7",
+          "slug": "augustow",
+          "name": "Augustów"
         },
         {
-          "id": "de-berlin-8",
-          "slug": "albrechtshof",
-          "name": "Albrechtshof"
+          "id": "pl-warszawa-8",
+          "slug": "augustowek",
+          "name": "Augustówek"
         },
         {
-          "id": "de-berlin-9",
-          "slug": "alt-biesdorf",
-          "name": "Alt-Biesdorf"
+          "id": "pl-warszawa-9",
+          "slug": "augustowka",
+          "name": "Augustówka"
         },
         {
-          "id": "de-berlin-10",
-          "slug": "alt-blankenburg",
-          "name": "Alt-Blankenburg"
+          "id": "pl-warszawa-10",
+          "slug": "bartyki",
+          "name": "Bartyki"
         },
         {
-          "id": "de-berlin-11",
-          "slug": "alt-bohnsdorf",
-          "name": "Alt-Bohnsdorf"
+          "id": "pl-warszawa-11",
+          "slug": "bemowo",
+          "name": "Bemowo"
         },
         {
-          "id": "de-berlin-12",
-          "slug": "alt-buch",
-          "name": "Alt-Buch"
+          "id": "pl-warszawa-12",
+          "slug": "bemowo-i",
+          "name": "Bemowo I"
         },
         {
-          "id": "de-berlin-13",
-          "slug": "alt-buckow",
-          "name": "Alt-Buckow"
+          "id": "pl-warszawa-13",
+          "slug": "bemowo-ii",
+          "name": "Bemowo II"
         },
         {
-          "id": "de-berlin-14",
-          "slug": "alt-friedrichsfelde",
-          "name": "Alt-Friedrichsfelde"
+          "id": "pl-warszawa-14",
+          "slug": "bemowo-iii",
+          "name": "Bemowo III"
         },
         {
-          "id": "de-berlin-15",
-          "slug": "alt-gatow",
-          "name": "Alt-Gatow"
+          "id": "pl-warszawa-15",
+          "slug": "bemowo-iv",
+          "name": "Bemowo IV"
         },
         {
-          "id": "de-berlin-16",
-          "slug": "alt-heiligensee",
-          "name": "Alt-Heiligensee"
+          "id": "pl-warszawa-16",
+          "slug": "bemowo-v",
+          "name": "Bemowo V"
         },
         {
-          "id": "de-berlin-17",
-          "slug": "alt-heinersdorf",
-          "name": "Alt-Heinersdorf"
+          "id": "pl-warszawa-17",
+          "slug": "bemowo-lotnisko",
+          "name": "Bemowo-Lotnisko"
         },
         {
-          "id": "de-berlin-18",
-          "slug": "alt-hellersdorf",
-          "name": "Alt-Hellersdorf"
+          "id": "pl-warszawa-18",
+          "slug": "biaoeka",
+          "name": "Białołęka"
         },
         {
-          "id": "de-berlin-19",
-          "slug": "alt-hermsdorf",
-          "name": "Alt-Hermsdorf"
+          "id": "pl-warszawa-19",
+          "slug": "biaoeka-dworska",
+          "name": "Białołęka Dworska"
         },
         {
-          "id": "de-berlin-20",
-          "slug": "alt-hohenschonhausen",
-          "name": "Alt-Hohenschönhausen"
+          "id": "pl-warszawa-20",
+          "slug": "biaoeka-szlachecka",
+          "name": "Białołęka Szlachecka"
         },
         {
-          "id": "de-berlin-21",
-          "slug": "alt-johannisthal",
-          "name": "Alt-Johannisthal"
+          "id": "pl-warszawa-21",
+          "slug": "bielany",
+          "name": "Bielany"
         },
         {
-          "id": "de-berlin-22",
-          "slug": "alt-karow",
-          "name": "Alt-Karow"
+          "id": "pl-warszawa-22",
+          "slug": "bielany-i",
+          "name": "Bielany I"
         },
         {
-          "id": "de-berlin-23",
-          "slug": "alt-kaulsdorf",
-          "name": "Alt-Kaulsdorf"
+          "id": "pl-warszawa-23",
+          "slug": "bielany-i-skalbmierska",
+          "name": "Bielany I – Skalbmierska"
         },
         {
-          "id": "de-berlin-24",
-          "slug": "alt-kladow",
-          "name": "Alt-Kladow"
+          "id": "pl-warszawa-24",
+          "slug": "bielany-ii",
+          "name": "Bielany II"
         },
         {
-          "id": "de-berlin-25",
-          "slug": "alt-lankwitz",
-          "name": "Alt-Lankwitz"
+          "id": "pl-warszawa-25",
+          "slug": "bielany-ii-serek",
+          "name": "Bielany II – Serek"
         },
         {
-          "id": "de-berlin-26",
-          "slug": "alt-lichtenrade",
-          "name": "Alt-Lichtenrade"
+          "id": "pl-warszawa-26",
+          "slug": "bielany-iii-magiera",
+          "name": "Bielany III – Magiera"
         },
         {
-          "id": "de-berlin-27",
-          "slug": "alt-lichterfelde",
-          "name": "Alt-Lichterfelde"
+          "id": "pl-warszawa-27",
+          "slug": "bielany-iii-przedwiosnie",
+          "name": "Bielany III – Przedwiośnie"
         },
         {
-          "id": "de-berlin-28",
-          "slug": "alt-lietzow",
-          "name": "Alt-Lietzow"
+          "id": "pl-warszawa-28",
+          "slug": "bielany-iv",
+          "name": "Bielany IV"
         },
         {
-          "id": "de-berlin-29",
-          "slug": "alt-lubars",
-          "name": "Alt-Lübars"
+          "id": "pl-warszawa-29",
+          "slug": "boernerowo",
+          "name": "Boernerowo"
         },
         {
-          "id": "de-berlin-30",
-          "slug": "alt-mariendorf",
-          "name": "Alt-Mariendorf"
+          "id": "pl-warszawa-30",
+          "slug": "borkow",
+          "name": "Borków"
         },
         {
-          "id": "de-berlin-31",
-          "slug": "alt-marienfelde",
-          "name": "Alt-Marienfelde"
+          "id": "pl-warszawa-31",
+          "slug": "brodno",
+          "name": "Bródno"
         },
         {
-          "id": "de-berlin-32",
-          "slug": "alt-marzahn",
-          "name": "Alt-Marzahn"
+          "id": "pl-warszawa-32",
+          "slug": "brodno-podgrodzie",
+          "name": "Bródno-Podgrodzie"
         },
         {
-          "id": "de-berlin-33",
-          "slug": "alt-moabit",
-          "name": "Alt-Moabit"
+          "id": "pl-warszawa-33",
+          "slug": "brzeziny",
+          "name": "Brzeziny"
         },
         {
-          "id": "de-berlin-34",
-          "slug": "alt-muggelheim",
-          "name": "Alt-Müggelheim"
+          "id": "pl-warszawa-34",
+          "slug": "buchnik",
+          "name": "Buchnik"
         },
         {
-          "id": "de-berlin-35",
-          "slug": "alt-pankow",
-          "name": "Alt-Pankow"
+          "id": "pl-warszawa-35",
+          "slug": "buczynek",
+          "name": "Buczynek"
         },
         {
-          "id": "de-berlin-36",
-          "slug": "alt-reinickendorf",
-          "name": "Alt-Reinickendorf"
+          "id": "pl-warszawa-36",
+          "slug": "budki-szczesliwickie",
+          "name": "Budki Szczęśliwickie"
         },
         {
-          "id": "de-berlin-37",
-          "slug": "alt-siemensstadt",
-          "name": "Alt-Siemensstadt"
+          "id": "pl-warszawa-37",
+          "slug": "bukow",
+          "name": "Buków"
         },
         {
-          "id": "de-berlin-38",
-          "slug": "alt-staaken",
-          "name": "Alt-Staaken"
+          "id": "pl-warszawa-38",
+          "slug": "bonia-wilanowskie",
+          "name": "Błonia Wilanowskie"
         },
         {
-          "id": "de-berlin-39",
-          "slug": "alt-tegel",
-          "name": "Alt-Tegel"
+          "id": "pl-warszawa-39",
+          "slug": "bota",
+          "name": "Błota"
         },
         {
-          "id": "de-berlin-40",
-          "slug": "alt-tempelhof",
-          "name": "Alt-Tempelhof"
+          "id": "pl-warszawa-40",
+          "slug": "centrum",
+          "name": "Centrum"
         },
         {
-          "id": "de-berlin-41",
-          "slug": "alt-treptow",
-          "name": "Alt-Treptow"
+          "id": "pl-warszawa-41",
+          "slug": "chomiczowka",
+          "name": "Chomiczówka"
         },
         {
-          "id": "de-berlin-42",
-          "slug": "alt-wittenau",
-          "name": "Alt-Wittenau"
+          "id": "pl-warszawa-42",
+          "slug": "choszczowka",
+          "name": "Choszczówka"
         },
         {
-          "id": "de-berlin-43",
-          "slug": "alte-hellersdorfer-strae",
-          "name": "Alte Hellersdorfer Straße"
+          "id": "pl-warszawa-43",
+          "slug": "chrzanow",
+          "name": "Chrzanów"
         },
         {
-          "id": "de-berlin-44",
-          "slug": "altglienicke",
-          "name": "Altglienicke"
+          "id": "pl-warszawa-44",
+          "slug": "cypel-czerniakowski",
+          "name": "Cypel Czerniakowski"
         },
         {
-          "id": "de-berlin-45",
-          "slug": "altglienicker-grund",
-          "name": "Altglienicker Grund"
+          "id": "pl-warszawa-45",
+          "slug": "cytadela",
+          "name": "Cytadela"
         },
         {
-          "id": "de-berlin-46",
-          "slug": "altglienicker-hohe",
-          "name": "Altglienicker Höhe"
+          "id": "pl-warszawa-46",
+          "slug": "czaplowizna",
+          "name": "Czaplowizna"
         },
         {
-          "id": "de-berlin-47",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-warszawa-47",
+          "slug": "czechowice",
+          "name": "Czechowice"
         },
         {
-          "id": "de-berlin-48",
-          "slug": "altstadt-kopenick",
-          "name": "Altstadt Köpenick"
+          "id": "pl-warszawa-48",
+          "slug": "czerniakow",
+          "name": "Czerniaków"
         },
         {
-          "id": "de-berlin-49",
-          "slug": "am-kappgraben",
-          "name": "Am Kappgraben"
+          "id": "pl-warszawa-49",
+          "slug": "czyste",
+          "name": "Czyste"
         },
         {
-          "id": "de-berlin-50",
-          "slug": "am-petersberg",
-          "name": "Am Petersberg"
+          "id": "pl-warszawa-50",
+          "slug": "dabrowka",
+          "name": "Dąbrówka"
         },
         {
-          "id": "de-berlin-51",
-          "slug": "am-poloteich",
-          "name": "Am PoloTeich"
+          "id": "pl-warszawa-51",
+          "slug": "dabrowka-grzybowska",
+          "name": "Dąbrówka Grzybowska"
         },
         {
-          "id": "de-berlin-52",
-          "slug": "an-der-regattastrecke",
-          "name": "An der Regattastrecke"
+          "id": "pl-warszawa-52",
+          "slug": "dabrowka-szlachecka",
+          "name": "Dąbrówka Szlachecka"
         },
         {
-          "id": "de-berlin-53",
-          "slug": "andreas-rabe-siedlung",
-          "name": "Andreas-Rabe-Siedlung"
+          "id": "pl-warszawa-53",
+          "slug": "dakow",
+          "name": "Daków"
         },
         {
-          "id": "de-berlin-54",
-          "slug": "andreasviertel",
-          "name": "Andreasviertel"
+          "id": "pl-warszawa-54",
+          "slug": "dawidy-poduchowne",
+          "name": "Dawidy Poduchowne"
         },
         {
-          "id": "de-berlin-55",
-          "slug": "anlage-blankenburg",
-          "name": "Anlage Blankenburg"
+          "id": "pl-warszawa-55",
+          "slug": "dawidy-zwyke",
+          "name": "Dawidy Zwykłe"
         },
         {
-          "id": "de-berlin-56",
-          "slug": "anlage-gravenstein",
-          "name": "Anlage Gravenstein"
+          "id": "pl-warszawa-56",
+          "slug": "dolny-mokotow",
+          "name": "Dolny Mokotów"
         },
         {
-          "id": "de-berlin-57",
-          "slug": "antonkiez",
-          "name": "Antonkiez"
+          "id": "pl-warszawa-57",
+          "slug": "dotrzyma",
+          "name": "Dotrzyma"
         },
         {
-          "id": "de-berlin-58",
-          "slug": "arkenberge",
-          "name": "Arkenberge"
+          "id": "pl-warszawa-58",
+          "slug": "dynasy",
+          "name": "Dynasy"
         },
         {
-          "id": "de-berlin-59",
-          "slug": "arkonakiez",
-          "name": "Arkonakiez"
+          "id": "pl-warszawa-59",
+          "slug": "elsnerow",
+          "name": "Elsnerów"
         },
         {
-          "id": "de-berlin-60",
-          "slug": "arminiuskiez",
-          "name": "Arminiuskiez"
+          "id": "pl-warszawa-60",
+          "slug": "elzbietowek",
+          "name": "Elżbietówek"
         },
         {
-          "id": "de-berlin-61",
-          "slug": "arztinnenviertel",
-          "name": "Ärztinnenviertel"
+          "id": "pl-warszawa-61",
+          "slug": "falenica",
+          "name": "Falenica"
         },
         {
-          "id": "de-berlin-62",
-          "slug": "barensiedlung",
-          "name": "Bärensiedlung"
+          "id": "pl-warszawa-62",
+          "slug": "filtry",
+          "name": "Filtry"
         },
         {
-          "id": "de-berlin-63",
-          "slug": "barnimkiez",
-          "name": "Barnimkiez"
+          "id": "pl-warszawa-63",
+          "slug": "fort-babice",
+          "name": "Fort Babice"
         },
         {
-          "id": "de-berlin-64",
-          "slug": "baumschulenweg",
-          "name": "Baumschulenweg"
+          "id": "pl-warszawa-64",
+          "slug": "fort-bema",
+          "name": "Fort Bema"
         },
         {
-          "id": "de-berlin-65",
-          "slug": "bayerisches-viertel",
-          "name": "Bayerisches Viertel"
+          "id": "pl-warszawa-65",
+          "slug": "fort-radiowo",
+          "name": "Fort Radiowo"
         },
         {
-          "id": "de-berlin-66",
-          "slug": "bergmannkiez",
-          "name": "Bergmannkiez"
+          "id": "pl-warszawa-66",
+          "slug": "fosa-wolicka",
+          "name": "Fosa Wolicka"
         },
         {
-          "id": "de-berlin-67",
-          "slug": "berlin-ahrensfelde",
-          "name": "Berlin-Ahrensfelde"
+          "id": "pl-warszawa-67",
+          "slug": "glinki",
+          "name": "Glinki"
         },
         {
-          "id": "de-berlin-68",
-          "slug": "berlincampus",
-          "name": "BerlinCampus"
+          "id": "pl-warszawa-68",
+          "slug": "gocaw",
+          "name": "Gocław"
         },
         {
-          "id": "de-berlin-69",
-          "slug": "beusselkiez",
-          "name": "Beusselkiez"
+          "id": "pl-warszawa-69",
+          "slug": "gocawek",
+          "name": "Gocławek"
         },
         {
-          "id": "de-berlin-70",
-          "slug": "biesdorf",
-          "name": "Biesdorf"
+          "id": "pl-warszawa-70",
+          "slug": "goledzinow",
+          "name": "Golędzinów"
         },
         {
-          "id": "de-berlin-71",
-          "slug": "biesdorf-nord",
-          "name": "Biesdorf-Nord"
+          "id": "pl-warszawa-71",
+          "slug": "gorce",
+          "name": "Górce"
         },
         {
-          "id": "de-berlin-72",
-          "slug": "biesdorf-sud",
-          "name": "Biesdorf-Süd"
+          "id": "pl-warszawa-72",
+          "slug": "gorny-mokotow",
+          "name": "Górny Mokotów"
         },
         {
-          "id": "de-berlin-73",
-          "slug": "biesenhorst-i",
-          "name": "Biesenhorst I"
+          "id": "pl-warszawa-73",
+          "slug": "gory-skierdowskie",
+          "name": "Góry Skierdowskie"
         },
         {
-          "id": "de-berlin-74",
-          "slug": "bisamkiez",
-          "name": "Bisamkiez"
+          "id": "pl-warszawa-74",
+          "slug": "gorzkiewki",
+          "name": "Gorzkiewki"
         },
         {
-          "id": "de-berlin-75",
-          "slug": "bismarckviertel",
-          "name": "Bismarckviertel"
+          "id": "pl-warszawa-75",
+          "slug": "goabki",
+          "name": "Gołąbki"
         },
         {
-          "id": "de-berlin-76",
-          "slug": "blankenburg",
-          "name": "Blankenburg"
+          "id": "pl-warszawa-76",
+          "slug": "grabow",
+          "name": "Grabów"
         },
         {
-          "id": "de-berlin-77",
-          "slug": "blankenfelde",
-          "name": "Blankenfelde"
+          "id": "pl-warszawa-77",
+          "slug": "grabowek",
+          "name": "Grabówek"
         },
         {
-          "id": "de-berlin-78",
-          "slug": "block-1",
-          "name": "Block 1"
+          "id": "pl-warszawa-78",
+          "slug": "grochow",
+          "name": "Grochów"
         },
         {
-          "id": "de-berlin-79",
-          "slug": "blumenviertel",
-          "name": "Blumenviertel"
+          "id": "pl-warszawa-79",
+          "slug": "grochow-centrum",
+          "name": "Grochów-Centrum"
         },
         {
-          "id": "de-berlin-80",
-          "slug": "blumenwinkel",
-          "name": "Blumenwinkel"
+          "id": "pl-warszawa-80",
+          "slug": "grochow-kinowa",
+          "name": "Grochów-Kinowa"
         },
         {
-          "id": "de-berlin-81",
-          "slug": "bocksfelde",
-          "name": "Bocksfelde"
+          "id": "pl-warszawa-81",
+          "slug": "grochow-ponocny",
+          "name": "Grochów-Północny"
         },
         {
-          "id": "de-berlin-82",
-          "slug": "bohmisches-dorf",
-          "name": "Böhmisches Dorf"
+          "id": "pl-warszawa-82",
+          "slug": "grochow-poudniowy",
+          "name": "Grochów-Południowy"
         },
         {
-          "id": "de-berlin-83",
-          "slug": "bohnsdorf",
-          "name": "Bohnsdorf"
+          "id": "pl-warszawa-83",
+          "slug": "grodzisk",
+          "name": "Grodzisk"
         },
         {
-          "id": "de-berlin-84",
-          "slug": "bornitz-viertel",
-          "name": "Bornitz-Viertel"
+          "id": "pl-warszawa-84",
+          "slug": "groszowka",
+          "name": "Groszówka"
         },
         {
-          "id": "de-berlin-85",
-          "slug": "borsig-siedlung",
-          "name": "Borsig-Siedlung"
+          "id": "pl-warszawa-85",
+          "slug": "groty",
+          "name": "Groty"
         },
         {
-          "id": "de-berlin-86",
-          "slug": "borsigsiedlung",
-          "name": "Borsigsiedlung"
+          "id": "pl-warszawa-86",
+          "slug": "grzybowa",
+          "name": "Grzybowa"
         },
         {
-          "id": "de-berlin-87",
-          "slug": "borsigwalde",
-          "name": "Borsigwalde"
+          "id": "pl-warszawa-87",
+          "slug": "henrykow",
+          "name": "Henryków"
         },
         {
-          "id": "de-berlin-88",
-          "slug": "botschaftsviertel",
-          "name": "Botschaftsviertel"
+          "id": "pl-warszawa-88",
+          "slug": "huta",
+          "name": "Huta"
         },
         {
-          "id": "de-berlin-89",
-          "slug": "botzowkiez",
-          "name": "Bötzowkiez"
+          "id": "pl-warszawa-89",
+          "slug": "imielin",
+          "name": "Imielin"
         },
         {
-          "id": "de-berlin-90",
-          "slug": "boxhagener-kiez",
-          "name": "Boxhagener Kiez"
+          "id": "pl-warszawa-90",
+          "slug": "jadwisin",
+          "name": "Jadwisin"
         },
         {
-          "id": "de-berlin-91",
-          "slug": "branitzer-karree",
-          "name": "Branitzer Karree"
+          "id": "pl-warszawa-91",
+          "slug": "janowek",
+          "name": "Janówek"
         },
         {
-          "id": "de-berlin-92",
-          "slug": "bremer-hohe",
-          "name": "Bremer Höhe"
+          "id": "pl-warszawa-92",
+          "slug": "jary",
+          "name": "Jary"
         },
         {
-          "id": "de-berlin-93",
-          "slug": "britz",
-          "name": "Britz"
+          "id": "pl-warszawa-93",
+          "slug": "jazdow",
+          "name": "Jazdów"
         },
         {
-          "id": "de-berlin-94",
-          "slug": "brunnenviertel",
-          "name": "Brunnenviertel"
+          "id": "pl-warszawa-94",
+          "slug": "jelonki",
+          "name": "Jelonki"
         },
         {
-          "id": "de-berlin-95",
-          "slug": "bruno-siedlung",
-          "name": "Bruno-Siedlung"
+          "id": "pl-warszawa-95",
+          "slug": "jelonki-ponocne",
+          "name": "Jelonki Północne"
         },
         {
-          "id": "de-berlin-96",
-          "slug": "bruno-taut-siedlung",
-          "name": "Bruno-Taut-Siedlung"
+          "id": "pl-warszawa-96",
+          "slug": "jelonki-poudniowe",
+          "name": "Jelonki Południowe"
         },
         {
-          "id": "de-berlin-97",
-          "slug": "brusseler-kiez",
-          "name": "Brüsseler Kiez"
+          "id": "pl-warszawa-97",
+          "slug": "jelonki-powstancow",
+          "name": "Jelonki-Powstańców"
         },
         {
-          "id": "de-berlin-98",
-          "slug": "buch",
-          "name": "Buch"
+          "id": "pl-warszawa-98",
+          "slug": "jeziorki",
+          "name": "Jeziorki"
         },
         {
-          "id": "de-berlin-99",
-          "slug": "buch-i",
-          "name": "Buch I"
+          "id": "pl-warszawa-99",
+          "slug": "jeziorki-polskie",
+          "name": "Jeziorki Polskie"
         },
         {
-          "id": "de-berlin-100",
-          "slug": "buch-ii",
-          "name": "Buch II"
+          "id": "pl-warszawa-100",
+          "slug": "jeziorki-ponocne",
+          "name": "Jeziorki Północne"
         },
         {
-          "id": "de-berlin-101",
-          "slug": "buch-iii-nord",
-          "name": "Buch III Nord"
+          "id": "pl-warszawa-101",
+          "slug": "jeziorki-poudniowe",
+          "name": "Jeziorki Południowe"
         },
         {
-          "id": "de-berlin-102",
-          "slug": "buch-iii-sud",
-          "name": "Buch III Süd"
+          "id": "pl-warszawa-102",
+          "slug": "julianow",
+          "name": "Julianów"
         },
         {
-          "id": "de-berlin-103",
-          "slug": "buch-iv",
-          "name": "Buch IV"
+          "id": "pl-warszawa-103",
+          "slug": "kabaty",
+          "name": "Kabaty"
         },
         {
-          "id": "de-berlin-104",
-          "slug": "buchholz-west",
-          "name": "Buchholz-West"
+          "id": "pl-warszawa-104",
+          "slug": "kalenica",
+          "name": "Kalenica"
         },
         {
-          "id": "de-berlin-105",
-          "slug": "buckow",
-          "name": "Buckow"
+          "id": "pl-warszawa-105",
+          "slug": "kaliszowka",
+          "name": "Kaliszówka"
         },
         {
-          "id": "de-berlin-106",
-          "slug": "buckow-1",
-          "name": "Buckow 1"
+          "id": "pl-warszawa-106",
+          "slug": "kamionek",
+          "name": "Kamionek"
         },
         {
-          "id": "de-berlin-107",
-          "slug": "buckow-2",
-          "name": "Buckow 2"
+          "id": "pl-warszawa-107",
+          "slug": "karczunek",
+          "name": "Karczunek"
         },
         {
-          "id": "de-berlin-108",
-          "slug": "buckow-nord",
-          "name": "Buckow-Nord"
+          "id": "pl-warszawa-108",
+          "slug": "karolew",
+          "name": "Karolew"
         },
         {
-          "id": "de-berlin-109",
-          "slug": "buckower-felder",
-          "name": "Buckower Felder"
+          "id": "pl-warszawa-109",
+          "slug": "karolin",
+          "name": "Karolin"
         },
         {
-          "id": "de-berlin-110",
-          "slug": "buckower-hofe",
-          "name": "Buckower Höfe"
+          "id": "pl-warszawa-110",
+          "slug": "karolowka",
+          "name": "Karolówka"
         },
         {
-          "id": "de-berlin-111",
-          "slug": "buwog-hygge-hofe",
-          "name": "Buwog Hygge-Höfe"
+          "id": "pl-warszawa-111",
+          "slug": "katy-grodziskie",
+          "name": "Kąty Grodziskie"
         },
         {
-          "id": "de-berlin-112",
-          "slug": "campus-efeuweg",
-          "name": "Campus Efeuweg"
+          "id": "pl-warszawa-112",
+          "slug": "kaweczyn",
+          "name": "Kawęczyn"
         },
         {
-          "id": "de-berlin-113",
-          "slug": "carlsgarten",
-          "name": "Carlsgarten"
+          "id": "pl-warszawa-113",
+          "slug": "kaweczyn-wygoda",
+          "name": "Kawęczyn-Wygoda"
         },
         {
-          "id": "de-berlin-114",
-          "slug": "ceciliengarten",
-          "name": "Ceciliengärten"
+          "id": "pl-warszawa-114",
+          "slug": "kepa-gocawska",
+          "name": "Kępa Gocławska"
         },
         {
-          "id": "de-berlin-115",
-          "slug": "cecilienstrae",
-          "name": "Cecilienstraße"
+          "id": "pl-warszawa-115",
+          "slug": "kepa-latoszkowa",
+          "name": "Kępa Latoszkowa"
         },
         {
-          "id": "de-berlin-116",
-          "slug": "chamissokiez",
-          "name": "Chamissokiez"
+          "id": "pl-warszawa-116",
+          "slug": "kepa-tarchominska",
+          "name": "Kępa Tarchomińska"
         },
         {
-          "id": "de-berlin-117",
-          "slug": "chariteviertel",
-          "name": "Charitéviertel"
+          "id": "pl-warszawa-117",
+          "slug": "kepa-zawadowska",
+          "name": "Kępa Zawadowska"
         },
         {
-          "id": "de-berlin-118",
-          "slug": "charlottenburg",
-          "name": "Charlottenburg"
+          "id": "pl-warszawa-118",
+          "slug": "kobiaka",
+          "name": "Kobiałka"
         },
         {
-          "id": "de-berlin-119",
-          "slug": "charlottenburg-nord",
-          "name": "Charlottenburg-Nord"
+          "id": "pl-warszawa-119",
+          "slug": "kolonia-borkow",
+          "name": "Kolonia Borków"
         },
         {
-          "id": "de-berlin-120",
-          "slug": "charlottenburg-wilmersdorf",
-          "name": "Charlottenburg-Wilmersdorf"
+          "id": "pl-warszawa-120",
+          "slug": "kolonia-latoszewska",
+          "name": "Kolonia Latoszewska"
         },
         {
-          "id": "de-berlin-121",
-          "slug": "cite-berthezene",
-          "name": "Cité Berthezène"
+          "id": "pl-warszawa-121",
+          "slug": "kolonia-lubeckiego",
+          "name": "Kolonia Lubeckiego"
         },
         {
-          "id": "de-berlin-122",
-          "slug": "cite-foch",
-          "name": "Cité Foch"
+          "id": "pl-warszawa-122",
+          "slug": "kolonia-oficerska",
+          "name": "Kolonia Oficerska"
         },
         {
-          "id": "de-berlin-123",
-          "slug": "cite-guynemer",
-          "name": "Cité Guynemer"
+          "id": "pl-warszawa-123",
+          "slug": "kolonia-praussa",
+          "name": "Kolonia Praussa"
         },
         {
-          "id": "de-berlin-124",
-          "slug": "cite-joffre",
-          "name": "Cité Joffre"
+          "id": "pl-warszawa-124",
+          "slug": "kolonia-staszica",
+          "name": "Kolonia Staszica"
         },
         {
-          "id": "de-berlin-125",
-          "slug": "cite-pasteur",
-          "name": "Cité Pasteur"
+          "id": "pl-warszawa-125",
+          "slug": "kolonia-zastow",
+          "name": "Kolonia Zastów"
         },
         {
-          "id": "de-berlin-126",
-          "slug": "city-west",
-          "name": "City West"
+          "id": "pl-warszawa-126",
+          "slug": "kondratowicza",
+          "name": "Kondratowicza"
         },
         {
-          "id": "de-berlin-127",
-          "slug": "crellekiez",
-          "name": "Crellekiez"
+          "id": "pl-warszawa-127",
+          "slug": "konstantynow",
+          "name": "Konstantynów"
         },
         {
-          "id": "de-berlin-128",
-          "slug": "dahlem",
-          "name": "Dahlem"
+          "id": "pl-warszawa-128",
+          "slug": "koszyki",
+          "name": "Koszyki"
         },
         {
-          "id": "de-berlin-129",
-          "slug": "dammfeld",
-          "name": "Dammfeld"
+          "id": "pl-warszawa-129",
+          "slug": "kozia-gorka",
+          "name": "Kozia Górka"
         },
         {
-          "id": "de-berlin-130",
-          "slug": "dammvorstadt",
-          "name": "Dammvorstadt"
+          "id": "pl-warszawa-130",
+          "slug": "koo",
+          "name": "Koło"
         },
         {
-          "id": "de-berlin-131",
-          "slug": "danckelmannkiez",
-          "name": "Danckelmannkiez"
+          "id": "pl-warszawa-131",
+          "slug": "koo-gorczewska",
+          "name": "Koło-Górczewska"
         },
         {
-          "id": "de-berlin-132",
-          "slug": "die-hufen-im-seefelde",
-          "name": "Die Hufen im Seefelde"
+          "id": "pl-warszawa-132",
+          "slug": "koo-lasek",
+          "name": "Koło-Lasek"
         },
         {
-          "id": "de-berlin-133",
-          "slug": "die-winkelwiesen",
-          "name": "Die Winkelwiesen"
+          "id": "pl-warszawa-133",
+          "slug": "koo-zachod",
+          "name": "Koło-Zachód"
         },
         {
-          "id": "de-berlin-134",
-          "slug": "donaukiez",
-          "name": "Donaukiez"
+          "id": "pl-warszawa-134",
+          "slug": "krasnowola",
+          "name": "Krasnowola"
         },
         {
-          "id": "de-berlin-135",
-          "slug": "dorotheenstadt",
-          "name": "Dorotheenstadt"
+          "id": "pl-warszawa-135",
+          "slug": "krolikarnia",
+          "name": "Królikarnia"
         },
         {
-          "id": "de-berlin-136",
-          "slug": "eigenheimsiedlung",
-          "name": "Eigenheimsiedlung"
+          "id": "pl-warszawa-136",
+          "slug": "krucza",
+          "name": "Krucza"
         },
         {
-          "id": "de-berlin-137",
-          "slug": "eisenbahnsiedlung",
-          "name": "Eisenbahnsiedlung"
+          "id": "pl-warszawa-137",
+          "slug": "ksawerow",
+          "name": "Ksawerów"
         },
         {
-          "id": "de-berlin-138",
-          "slug": "eldenaer-viertel",
-          "name": "Eldenaer Viertel"
+          "id": "pl-warszawa-138",
+          "slug": "kuligow",
+          "name": "Kuligów"
         },
         {
-          "id": "de-berlin-139",
-          "slug": "englisches-viertel",
-          "name": "Englisches Viertel"
+          "id": "pl-warszawa-139",
+          "slug": "las",
+          "name": "Las"
         },
         {
-          "id": "de-berlin-140",
-          "slug": "ernst-reuter-siedlung",
-          "name": "Ernst-Reuter-Siedlung"
+          "id": "pl-warszawa-140",
+          "slug": "las-bielanski",
+          "name": "Las Bielański"
         },
         {
-          "id": "de-berlin-141",
-          "slug": "europacity",
-          "name": "Europacity"
+          "id": "pl-warszawa-141",
+          "slug": "las-kabacki",
+          "name": "Las Kabacki"
         },
         {
-          "id": "de-berlin-142",
-          "slug": "falkenberg",
-          "name": "Falkenberg"
+          "id": "pl-warszawa-142",
+          "slug": "latawiec",
+          "name": "Latawiec"
         },
         {
-          "id": "de-berlin-143",
-          "slug": "falkenhagener-feld",
-          "name": "Falkenhagener Feld"
+          "id": "pl-warszawa-143",
+          "slug": "latoszki",
+          "name": "Latoszki"
         },
         {
-          "id": "de-berlin-144",
-          "slug": "falkenhohe",
-          "name": "Falkenhöhe"
+          "id": "pl-warszawa-144",
+          "slug": "lejanow",
+          "name": "Lejanów"
         },
         {
-          "id": "de-berlin-145",
-          "slug": "falkenhorst",
-          "name": "Falkenhorst"
+          "id": "pl-warszawa-145",
+          "slug": "lewandow",
+          "name": "Lewandów"
         },
         {
-          "id": "de-berlin-146",
-          "slug": "fasanenkiez",
-          "name": "Fasanenkiez"
+          "id": "pl-warszawa-146",
+          "slug": "lewinow",
+          "name": "Lewinów"
         },
         {
-          "id": "de-berlin-147",
-          "slug": "fennpfuhl",
-          "name": "Fennpfuhl"
+          "id": "pl-warszawa-147",
+          "slug": "lisy",
+          "name": "Lisy"
         },
         {
-          "id": "de-berlin-148",
-          "slug": "finnenhaussiedlung",
-          "name": "Finnenhaussiedlung"
+          "id": "pl-warszawa-148",
+          "slug": "lotnisko",
+          "name": "Lotnisko"
         },
         {
-          "id": "de-berlin-149",
-          "slug": "fischerinsel",
-          "name": "Fischerinsel"
+          "id": "pl-warszawa-149",
+          "slug": "ludwinow",
+          "name": "Ludwinów"
         },
         {
-          "id": "de-berlin-150",
-          "slug": "fliegerhorstsiedlung",
-          "name": "Fliegerhorstsiedlung"
+          "id": "pl-warszawa-150",
+          "slug": "macierowka",
+          "name": "Macierówka"
         },
         {
-          "id": "de-berlin-151",
-          "slug": "florakiez",
-          "name": "Florakiez"
+          "id": "pl-warszawa-151",
+          "slug": "magenta",
+          "name": "Magenta"
         },
         {
-          "id": "de-berlin-152",
-          "slug": "flughafenkiez",
-          "name": "Flughafenkiez"
+          "id": "pl-warszawa-152",
+          "slug": "manki-wojdy",
+          "name": "Mańki-Wojdy"
         },
         {
-          "id": "de-berlin-153",
-          "slug": "flusspferdhofsiedlung",
-          "name": "Flusspferdhofsiedlung"
+          "id": "pl-warszawa-153",
+          "slug": "marcelin",
+          "name": "Marcelin"
         },
         {
-          "id": "de-berlin-154",
-          "slug": "frankfurter-allee-sud",
-          "name": "Frankfurter Allee Süd"
+          "id": "pl-warszawa-154",
+          "slug": "mariensztat",
+          "name": "Mariensztat"
         },
         {
-          "id": "de-berlin-155",
-          "slug": "franzosisch-buchholz",
-          "name": "Französisch Buchholz"
+          "id": "pl-warszawa-155",
+          "slug": "marszakowska-dzielnica-mieszkaniowa",
+          "name": "Marszałkowska Dzielnica Mieszkaniowa"
         },
         {
-          "id": "de-berlin-156",
-          "slug": "frauenviertel",
-          "name": "Frauenviertel"
+          "id": "pl-warszawa-156",
+          "slug": "marymont",
+          "name": "Marymont"
         },
         {
-          "id": "de-berlin-157",
-          "slug": "freie-scholle",
-          "name": "Freie Scholle"
+          "id": "pl-warszawa-157",
+          "slug": "marymont-kaskada",
+          "name": "Marymont-Kaskada"
         },
         {
-          "id": "de-berlin-158",
-          "slug": "friedenau",
-          "name": "Friedenau"
+          "id": "pl-warszawa-158",
+          "slug": "marymont-potok",
+          "name": "Marymont-Potok"
         },
         {
-          "id": "de-berlin-159",
-          "slug": "friedenauer-hohe",
-          "name": "Friedenauer Höhe"
+          "id": "pl-warszawa-159",
+          "slug": "marymont-ruda",
+          "name": "Marymont-Ruda"
         },
         {
-          "id": "de-berlin-160",
-          "slug": "friedrich-ebert-siedlung",
-          "name": "Friedrich-Ebert-Siedlung"
+          "id": "pl-warszawa-160",
+          "slug": "marysin-wawerski",
+          "name": "Marysin Wawerski"
         },
         {
-          "id": "de-berlin-161",
-          "slug": "friedrich-wilhelm-stadt",
-          "name": "Friedrich-Wilhelm-Stadt"
+          "id": "pl-warszawa-161",
+          "slug": "marysin-wawerski-ponocny",
+          "name": "Marysin Wawerski Północny"
         },
         {
-          "id": "de-berlin-162",
-          "slug": "friedrichsfelde",
-          "name": "Friedrichsfelde"
+          "id": "pl-warszawa-162",
+          "slug": "marysin-wawerski-poudniowy",
+          "name": "Marysin Wawerski Południowy"
         },
         {
-          "id": "de-berlin-163",
-          "slug": "friedrichsfelde-ost",
-          "name": "Friedrichsfelde Ost"
+          "id": "pl-warszawa-163",
+          "slug": "miasteczko-wilanow",
+          "name": "Miasteczko Wilanów"
         },
         {
-          "id": "de-berlin-164",
-          "slug": "friedrichshagen",
-          "name": "Friedrichshagen"
+          "id": "pl-warszawa-164",
+          "slug": "michaow",
+          "name": "Michałów"
         },
         {
-          "id": "de-berlin-165",
-          "slug": "friedrichshain",
-          "name": "Friedrichshain"
+          "id": "pl-warszawa-165",
+          "slug": "michaowek",
+          "name": "Michałówek"
         },
         {
-          "id": "de-berlin-166",
-          "slug": "friedrichshain-kreuzberg",
-          "name": "Friedrichshain-Kreuzberg"
+          "id": "pl-warszawa-166",
+          "slug": "miedzeszyn",
+          "name": "Miedzeszyn"
         },
         {
-          "id": "de-berlin-167",
-          "slug": "friedrichstadt",
-          "name": "Friedrichstadt"
+          "id": "pl-warszawa-167",
+          "slug": "miedzeszyn-wies",
+          "name": "Miedzeszyn-Wieś"
         },
         {
-          "id": "de-berlin-168",
-          "slug": "friedrichswerder",
-          "name": "Friedrichswerder"
+          "id": "pl-warszawa-168",
+          "slug": "miedzylesie",
+          "name": "Międzylesie"
         },
         {
-          "id": "de-berlin-169",
-          "slug": "frohnau",
-          "name": "Frohnau"
+          "id": "pl-warszawa-169",
+          "slug": "mirow",
+          "name": "Mirów"
         },
         {
-          "id": "de-berlin-170",
-          "slug": "funf-morgen",
-          "name": "Fünf Morgen"
+          "id": "pl-warszawa-170",
+          "slug": "moczydo",
+          "name": "Moczydło"
         },
         {
-          "id": "de-berlin-171",
-          "slug": "gagfah-siedlung",
-          "name": "Gagfah-Siedlung"
+          "id": "pl-warszawa-171",
+          "slug": "mokotow",
+          "name": "Mokotów"
         },
         {
-          "id": "de-berlin-172",
-          "slug": "gartenheimsiedlung-grenzland",
-          "name": "Gartenheimsiedlung Grenzland"
+          "id": "pl-warszawa-172",
+          "slug": "mokry-ug",
+          "name": "Mokry Ług"
         },
         {
-          "id": "de-berlin-173",
-          "slug": "gartensiedlung-grunau",
-          "name": "Gartensiedlung Grünau"
+          "id": "pl-warszawa-173",
+          "slug": "morysin",
+          "name": "Morysin"
         },
         {
-          "id": "de-berlin-174",
-          "slug": "gartenstadt",
-          "name": "Gartenstadt"
+          "id": "pl-warszawa-174",
+          "slug": "muranow",
+          "name": "Muranów"
         },
         {
-          "id": "de-berlin-175",
-          "slug": "gartenstadt-atlantic",
-          "name": "Gartenstadt Atlantic"
+          "id": "pl-warszawa-175",
+          "slug": "muranow-ii",
+          "name": "Muranów II"
         },
         {
-          "id": "de-berlin-176",
-          "slug": "gartenstadt-duppel",
-          "name": "Gartenstadt Düppel"
+          "id": "pl-warszawa-176",
+          "slug": "muranow-ponocny",
+          "name": "Muranów Północny"
         },
         {
-          "id": "de-berlin-177",
-          "slug": "gartenstadt-falkenberg",
-          "name": "Gartenstadt Falkenberg"
+          "id": "pl-warszawa-177",
+          "slug": "muranow-poudniowy",
+          "name": "Muranów Południowy"
         },
         {
-          "id": "de-berlin-178",
-          "slug": "gartenstadt-karlshorst",
-          "name": "Gartenstadt Karlshorst"
+          "id": "pl-warszawa-178",
+          "slug": "muranow-zachodni",
+          "name": "Muranów Zachodni"
         },
         {
-          "id": "de-berlin-179",
-          "slug": "gartenstadt-neu-tempelhof",
-          "name": "Gartenstadt Neu-Tempelhof"
+          "id": "pl-warszawa-179",
+          "slug": "mociny",
+          "name": "Młociny"
         },
         {
-          "id": "de-berlin-180",
-          "slug": "gartenstadt-rudow-frauenviertel",
-          "name": "Gartenstadt Rudow – Frauenviertel"
+          "id": "pl-warszawa-180",
+          "slug": "mynow",
+          "name": "Młynów"
         },
         {
-          "id": "de-berlin-181",
-          "slug": "gartenstadt-staaken",
-          "name": "Gartenstadt Staaken"
+          "id": "pl-warszawa-181",
+          "slug": "mynow-i",
+          "name": "Młynów I"
         },
         {
-          "id": "de-berlin-182",
-          "slug": "gartenstadt-zehlendorf",
-          "name": "Gartenstadt Zehlendorf"
+          "id": "pl-warszawa-182",
+          "slug": "mynow-ii",
+          "name": "Młynów II"
         },
         {
-          "id": "de-berlin-183",
-          "slug": "gartenviertel",
-          "name": "Gartenviertel"
+          "id": "pl-warszawa-183",
+          "slug": "mynow-iv",
+          "name": "Młynów IV"
         },
         {
-          "id": "de-berlin-184",
-          "slug": "gatow",
-          "name": "Gatow"
+          "id": "pl-warszawa-184",
+          "slug": "mynow-v",
+          "name": "Młynów V"
         },
         {
-          "id": "de-berlin-185",
-          "slug": "gelbes-viertel",
-          "name": "Gelbes Viertel"
+          "id": "pl-warszawa-185",
+          "slug": "na-skraju",
+          "name": "Na Skraju"
         },
         {
-          "id": "de-berlin-186",
-          "slug": "gensinger-viertel",
-          "name": "Gensinger Viertel"
+          "id": "pl-warszawa-186",
+          "slug": "na-wyraju",
+          "name": "Na Wyraju"
         },
         {
-          "id": "de-berlin-187",
-          "slug": "georg-ramin-siedlung",
-          "name": "Georg-Ramin-Siedlung"
+          "id": "pl-warszawa-187",
+          "slug": "nadwilanowka",
+          "name": "Nadwilanówka"
         },
         {
-          "id": "de-berlin-188",
-          "slug": "gerardsche-siedlung",
-          "name": "Gérard’sche Siedlung"
+          "id": "pl-warszawa-188",
+          "slug": "nadwislanka",
+          "name": "Nadwiślanka"
         },
         {
-          "id": "de-berlin-189",
-          "slug": "gesundbrunnen",
-          "name": "Gesundbrunnen"
+          "id": "pl-warszawa-189",
+          "slug": "nadwisle",
+          "name": "Nadwiśle"
         },
         {
-          "id": "de-berlin-190",
-          "slug": "getreideviertel",
-          "name": "Getreideviertel"
+          "id": "pl-warszawa-190",
+          "slug": "natolin",
+          "name": "Natolin"
         },
         {
-          "id": "de-berlin-191",
-          "slug": "gierkekiez",
-          "name": "Gierkekiez"
+          "id": "pl-warszawa-191",
+          "slug": "niedzwiadek",
+          "name": "Niedźwiadek"
         },
         {
-          "id": "de-berlin-192",
-          "slug": "giesensdorf",
-          "name": "Giesensdorf"
+          "id": "pl-warszawa-192",
+          "slug": "nowa-praga",
+          "name": "Nowa Praga"
         },
         {
-          "id": "de-berlin-193",
-          "slug": "gleimviertel",
-          "name": "Gleimviertel"
+          "id": "pl-warszawa-193",
+          "slug": "nowa-wygoda",
+          "name": "Nowa Wygoda"
         },
         {
-          "id": "de-berlin-194",
-          "slug": "gleislinse-schoneweide",
-          "name": "Gleislinse Schöneweide"
+          "id": "pl-warszawa-194",
+          "slug": "nowe-brzeziny",
+          "name": "Nowe Brzeziny"
         },
         {
-          "id": "de-berlin-195",
-          "slug": "gohrener-ei",
-          "name": "Göhrener Ei"
+          "id": "pl-warszawa-195",
+          "slug": "nowe-gorce",
+          "name": "Nowe Górce"
         },
         {
-          "id": "de-berlin-196",
-          "slug": "grabenviertel",
-          "name": "Grabenviertel"
+          "id": "pl-warszawa-196",
+          "slug": "nowe-jeziorki",
+          "name": "Nowe Jeziorki"
         },
         {
-          "id": "de-berlin-197",
-          "slug": "graefekiez",
-          "name": "Graefekiez"
+          "id": "pl-warszawa-197",
+          "slug": "nowe-miasto",
+          "name": "Nowe Miasto"
         },
         {
-          "id": "de-berlin-198",
-          "slug": "greenpark",
-          "name": "Greenpark"
+          "id": "pl-warszawa-198",
+          "slug": "nowe-swidry",
+          "name": "Nowe Świdry"
         },
         {
-          "id": "de-berlin-199",
-          "slug": "gropiusstadt",
-          "name": "Gropiusstadt"
+          "id": "pl-warszawa-199",
+          "slug": "nowe-wochy",
+          "name": "Nowe Włochy"
         },
         {
-          "id": "de-berlin-200",
-          "slug": "groe-lettekolonie",
-          "name": "Große Lettekolonie"
+          "id": "pl-warszawa-200",
+          "slug": "nowodwory",
+          "name": "Nowodwory"
         },
         {
-          "id": "de-berlin-201",
-          "slug": "grosiedlung-britz-hufeisensiedlung",
-          "name": "Großsiedlung Britz (Hufeisensiedlung)"
+          "id": "pl-warszawa-201",
+          "slug": "nowolipki",
+          "name": "Nowolipki"
         },
         {
-          "id": "de-berlin-202",
-          "slug": "grosiedlung-kamenzer-damm",
-          "name": "Großsiedlung Kamenzer Damm"
+          "id": "pl-warszawa-202",
+          "slug": "nowy-anin",
+          "name": "Nowy Anin"
         },
         {
-          "id": "de-berlin-203",
-          "slug": "grosiedlung-siemensstadt",
-          "name": "Großsiedlung Siemensstadt"
+          "id": "pl-warszawa-203",
+          "slug": "nowy-miedzeszyn",
+          "name": "Nowy Miedzeszyn"
         },
         {
-          "id": "de-berlin-204",
-          "slug": "growohnsiedlung-waldsassener-strae",
-          "name": "Großwohnsiedlung Waldsassener Straße"
+          "id": "pl-warszawa-204",
+          "slug": "nowy-mokotow",
+          "name": "Nowy Mokotów"
         },
         {
-          "id": "de-berlin-205",
-          "slug": "grunau",
-          "name": "Grünau"
+          "id": "pl-warszawa-205",
+          "slug": "nowy-rembertow",
+          "name": "Nowy Rembertów"
         },
         {
-          "id": "de-berlin-206",
-          "slug": "grunau-ost",
-          "name": "Grünau-Ost"
+          "id": "pl-warszawa-206",
+          "slug": "nowy-suzewiec",
+          "name": "Nowy Służewiec"
         },
         {
-          "id": "de-berlin-207",
-          "slug": "grunderviertel",
-          "name": "Gründerviertel"
+          "id": "pl-warszawa-207",
+          "slug": "nowy-tarchomin",
+          "name": "Nowy Tarchomin"
         },
         {
-          "id": "de-berlin-208",
-          "slug": "grune-aue",
-          "name": "Grüne Aue"
+          "id": "pl-warszawa-208",
+          "slug": "nowy-wawrzyszew",
+          "name": "Nowy Wawrzyszew"
         },
         {
-          "id": "de-berlin-209",
-          "slug": "grune-freiheit",
-          "name": "Grüne Freiheit"
+          "id": "pl-warszawa-209",
+          "slug": "nowy-wilanow",
+          "name": "Nowy Wilanów"
         },
         {
-          "id": "de-berlin-210",
-          "slug": "grune-stadt",
-          "name": "Grüne Stadt"
+          "id": "pl-warszawa-210",
+          "slug": "ochota",
+          "name": "Ochota"
         },
         {
-          "id": "de-berlin-211",
-          "slug": "grunewald",
-          "name": "Grunewald"
+          "id": "pl-warszawa-211",
+          "slug": "ochota-i",
+          "name": "Ochota I"
         },
         {
-          "id": "de-berlin-212",
-          "slug": "guntzelkiez",
-          "name": "Güntzelkiez"
+          "id": "pl-warszawa-212",
+          "slug": "odolany",
+          "name": "Odolany"
         },
         {
-          "id": "de-berlin-213",
-          "slug": "gut-champignon",
-          "name": "Gut Champignon"
+          "id": "pl-warszawa-213",
+          "slug": "okecie",
+          "name": "Okęcie"
         },
         {
-          "id": "de-berlin-214",
-          "slug": "habichtshorst",
-          "name": "Habichtshorst"
+          "id": "pl-warszawa-214",
+          "slug": "okecie-lotnisko",
+          "name": "Okęcie-Lotnisko"
         },
         {
-          "id": "de-berlin-215",
-          "slug": "hakenfelde",
-          "name": "Hakenfelde"
+          "id": "pl-warszawa-215",
+          "slug": "oleandrow",
+          "name": "Oleandrów"
         },
         {
-          "id": "de-berlin-216",
-          "slug": "halensee",
-          "name": "Halensee"
+          "id": "pl-warszawa-216",
+          "slug": "olesin",
+          "name": "Olesin"
         },
         {
-          "id": "de-berlin-217",
-          "slug": "halske-sonnengarten",
-          "name": "Halske Sonnengärten"
+          "id": "pl-warszawa-217",
+          "slug": "olszynka-grochowska",
+          "name": "Olszynka Grochowska"
         },
         {
-          "id": "de-berlin-218",
-          "slug": "hans-martin-helbich-siedlung",
-          "name": "Hans-Martin-Helbich-Siedlung"
+          "id": "pl-warszawa-218",
+          "slug": "opacz-wielka",
+          "name": "Opacz Wielka"
         },
         {
-          "id": "de-berlin-219",
-          "slug": "hansaviertel",
-          "name": "Hansaviertel"
+          "id": "pl-warszawa-219",
+          "slug": "opacz-parcela",
+          "name": "Opacz-Parcela"
         },
         {
-          "id": "de-berlin-220",
-          "slug": "harzer-kiez",
-          "name": "Harzer Kiez"
+          "id": "pl-warszawa-220",
+          "slug": "orzechowek",
+          "name": "Orzechówek"
         },
         {
-          "id": "de-berlin-221",
-          "slug": "haselhorst",
-          "name": "Haselhorst"
+          "id": "pl-warszawa-221",
+          "slug": "osiedle-moczydo",
+          "name": "Osiedle \"Moczydło\""
         },
         {
-          "id": "de-berlin-222",
-          "slug": "hausburgviertel",
-          "name": "Hausburgviertel"
+          "id": "pl-warszawa-222",
+          "slug": "osiedle-norwida",
+          "name": "Osiedle \"Norwida\""
         },
         {
-          "id": "de-berlin-223",
-          "slug": "hausotter-kiez",
-          "name": "Hausotter-Kiez"
+          "id": "pl-warszawa-223",
+          "slug": "osiedle-batorego",
+          "name": "Osiedle Batorego"
         },
         {
-          "id": "de-berlin-224",
-          "slug": "havelufer-quartier",
-          "name": "Havelufer-Quartier"
+          "id": "pl-warszawa-224",
+          "slug": "osiedle-bekitna",
+          "name": "Osiedle Błękitna"
         },
         {
-          "id": "de-berlin-225",
-          "slug": "heerstrae-nord",
-          "name": "Heerstraße Nord"
+          "id": "pl-warszawa-225",
+          "slug": "osiedle-derby",
+          "name": "Osiedle Derby"
         },
         {
-          "id": "de-berlin-226",
-          "slug": "heiligensee",
-          "name": "Heiligensee"
+          "id": "pl-warszawa-226",
+          "slug": "osiedle-domaniewska",
+          "name": "Osiedle Domaniewska"
         },
         {
-          "id": "de-berlin-227",
-          "slug": "heimatviertel",
-          "name": "Heimatviertel"
+          "id": "pl-warszawa-227",
+          "slug": "osiedle-etap",
+          "name": "Osiedle Etap"
         },
         {
-          "id": "de-berlin-228",
-          "slug": "heine-viertel",
-          "name": "Heine-Viertel"
+          "id": "pl-warszawa-228",
+          "slug": "osiedle-gorczewska",
+          "name": "Osiedle Górczewska"
         },
         {
-          "id": "de-berlin-229",
-          "slug": "heinersdorf",
-          "name": "Heinersdorf"
+          "id": "pl-warszawa-229",
+          "slug": "osiedle-grojecka",
+          "name": "Osiedle Grójecka"
         },
         {
-          "id": "de-berlin-230",
-          "slug": "heinrich-zille-siedlung",
-          "name": "Heinrich-Zille-Siedlung"
+          "id": "pl-warszawa-230",
+          "slug": "osiedle-iskra",
+          "name": "Osiedle Iskra"
         },
         {
-          "id": "de-berlin-231",
-          "slug": "hellersdorf",
-          "name": "Hellersdorf"
+          "id": "pl-warszawa-231",
+          "slug": "osiedle-jantar",
+          "name": "Osiedle Jantar"
         },
         {
-          "id": "de-berlin-232",
-          "slug": "hellersdorfer-graben",
-          "name": "Hellersdorfer Graben"
+          "id": "pl-warszawa-232",
+          "slug": "osiedle-kijowska",
+          "name": "Osiedle Kijowska"
         },
         {
-          "id": "de-berlin-233",
-          "slug": "helmholtzkiez",
-          "name": "Helmholtzkiez"
+          "id": "pl-warszawa-233",
+          "slug": "osiedle-kinowa",
+          "name": "Osiedle Kinowa"
         },
         {
-          "id": "de-berlin-234",
-          "slug": "hermsdorf",
-          "name": "Hermsdorf"
+          "id": "pl-warszawa-234",
+          "slug": "osiedle-lazurowa",
+          "name": "Osiedle Lazurowa"
         },
         {
-          "id": "de-berlin-235",
-          "slug": "hessenwinkel",
-          "name": "Hessenwinkel"
+          "id": "pl-warszawa-235",
+          "slug": "osiedle-miedzynarodowa",
+          "name": "Osiedle Międzynarodowa"
         },
         {
-          "id": "de-berlin-236",
-          "slug": "high-deck-siedlung",
-          "name": "High-Deck-Siedlung"
+          "id": "pl-warszawa-236",
+          "slug": "osiedle-mszczonowska",
+          "name": "Osiedle Mszczonowska"
         },
         {
-          "id": "de-berlin-237",
-          "slug": "hirschgarten",
-          "name": "Hirschgarten"
+          "id": "pl-warszawa-237",
+          "slug": "osiedle-modych",
+          "name": "Osiedle Młodych"
         },
         {
-          "id": "de-berlin-238",
-          "slug": "hohengatow",
-          "name": "Hohengatow"
+          "id": "pl-warszawa-238",
+          "slug": "osiedle-orlik",
+          "name": "Osiedle Orlik"
         },
         {
-          "id": "de-berlin-239",
-          "slug": "hohenschonhausen-i",
-          "name": "Hohenschönhausen I"
+          "id": "pl-warszawa-239",
+          "slug": "osiedle-ostrobramska",
+          "name": "Osiedle Ostrobramska"
         },
         {
-          "id": "de-berlin-240",
-          "slug": "hohenschonhausen-ii",
-          "name": "Hohenschönhausen II"
+          "id": "pl-warszawa-240",
+          "slug": "osiedle-patio",
+          "name": "Osiedle Patio"
         },
         {
-          "id": "de-berlin-241",
-          "slug": "hollanderviertel",
-          "name": "Holländerviertel"
+          "id": "pl-warszawa-241",
+          "slug": "osiedle-pod-debami",
+          "name": "Osiedle Pod Dębami"
         },
         {
-          "id": "de-berlin-242",
-          "slug": "holzhauser-markt",
-          "name": "Holzhauser Markt"
+          "id": "pl-warszawa-242",
+          "slug": "osiedle-pracownikow-pkp",
+          "name": "Osiedle pracowników PKP"
         },
         {
-          "id": "de-berlin-243",
-          "slug": "hufeisensiedlung",
-          "name": "Hufeisensiedlung"
+          "id": "pl-warszawa-243",
+          "slug": "osiedle-prototypow",
+          "name": "Osiedle Prototypów"
         },
         {
-          "id": "de-berlin-244",
-          "slug": "humann-kiez",
-          "name": "Humann-Kiez"
+          "id": "pl-warszawa-244",
+          "slug": "osiedle-przyjazn",
+          "name": "Osiedle Przyjaźń"
         },
         {
-          "id": "de-berlin-245",
-          "slug": "huttenkiez",
-          "name": "Huttenkiez"
+          "id": "pl-warszawa-245",
+          "slug": "osiedle-sadyba",
+          "name": "Osiedle Sadyba"
         },
         {
-          "id": "de-berlin-246",
-          "slug": "ideal-siedlung",
-          "name": "Ideal-Siedlung"
+          "id": "pl-warszawa-246",
+          "slug": "osiedle-siekierki",
+          "name": "Osiedle Siekierki"
         },
         {
-          "id": "de-berlin-247",
-          "slug": "ilse-kiez",
-          "name": "Ilse-Kiez"
+          "id": "pl-warszawa-247",
+          "slug": "osiedle-sowinskiego",
+          "name": "Osiedle Sowińskiego"
         },
         {
-          "id": "de-berlin-248",
-          "slug": "instrumentenviertel",
-          "name": "Instrumentenviertel"
+          "id": "pl-warszawa-248",
+          "slug": "osiedle-szosa-krakowska",
+          "name": "Osiedle Szosa Krakowska"
         },
         {
-          "id": "de-berlin-249",
-          "slug": "invalidensiedlung",
-          "name": "Invalidensiedlung"
+          "id": "pl-warszawa-249",
+          "slug": "osiedle-suzewiec-poudniowy",
+          "name": "Osiedle Służewiec Południowy"
         },
         {
-          "id": "de-berlin-250",
-          "slug": "jesselkiez",
-          "name": "Jesselkiez"
+          "id": "pl-warszawa-250",
+          "slug": "osiedle-tor-koo",
+          "name": "Osiedle TOR Koło"
         },
         {
-          "id": "de-berlin-251",
-          "slug": "johannisthal",
-          "name": "Johannisthal"
+          "id": "pl-warszawa-251",
+          "slug": "osiedle-wichrowa",
+          "name": "Osiedle Wichrowa"
         },
         {
-          "id": "de-berlin-252",
-          "slug": "johannisthal-sud",
-          "name": "Johannisthal-Süd"
+          "id": "pl-warszawa-252",
+          "slug": "osiedle-wierzbno",
+          "name": "Osiedle Wierzbno"
         },
         {
-          "id": "de-berlin-253",
-          "slug": "john-locke-siedlung",
-          "name": "John-Locke-Siedlung"
+          "id": "pl-warszawa-253",
+          "slug": "osiedle-wilga",
+          "name": "Osiedle Wilga"
         },
         {
-          "id": "de-berlin-254",
-          "slug": "karlshorst",
-          "name": "Karlshorst"
+          "id": "pl-warszawa-254",
+          "slug": "osiedle-wilno",
+          "name": "Osiedle Wilno"
         },
         {
-          "id": "de-berlin-255",
-          "slug": "karow",
-          "name": "Karow"
+          "id": "pl-warszawa-255",
+          "slug": "osiedle-wsm-koo",
+          "name": "Osiedle WSM Koło"
         },
         {
-          "id": "de-berlin-256",
-          "slug": "karow-nord",
-          "name": "Karow-Nord"
+          "id": "pl-warszawa-256",
+          "slug": "osiedle-wsm-mokotow",
+          "name": "Osiedle WSM Mokotów"
         },
         {
-          "id": "de-berlin-257",
-          "slug": "kastanienallee",
-          "name": "Kastanienallee"
+          "id": "pl-warszawa-257",
+          "slug": "paluch",
+          "name": "Paluch"
         },
         {
-          "id": "de-berlin-258",
-          "slug": "kaulsdorf",
-          "name": "Kaulsdorf"
+          "id": "pl-warszawa-258",
+          "slug": "pelcowizna",
+          "name": "Pelcowizna"
         },
         {
-          "id": "de-berlin-259",
-          "slug": "kaulsdorf-sud",
-          "name": "Kaulsdorf Süd"
+          "id": "pl-warszawa-259",
+          "slug": "piaski",
+          "name": "Piaski"
         },
         {
-          "id": "de-berlin-260",
-          "slug": "kaulsdorf-nord",
-          "name": "Kaulsdorf-Nord"
+          "id": "pl-warszawa-260",
+          "slug": "piekieko",
+          "name": "Piekiełko"
         },
         {
-          "id": "de-berlin-261",
-          "slug": "kaulsdorf-nord-i",
-          "name": "Kaulsdorf-Nord I"
+          "id": "pl-warszawa-261",
+          "slug": "plac-wojska-polskiego",
+          "name": "Plac Wojska Polskiego"
         },
         {
-          "id": "de-berlin-262",
-          "slug": "kaulsdorf-nord-ii",
-          "name": "Kaulsdorf-Nord II"
+          "id": "pl-warszawa-262",
+          "slug": "placowka",
+          "name": "Placówka"
         },
         {
-          "id": "de-berlin-263",
-          "slug": "kiekemal",
-          "name": "Kiekemal"
+          "id": "pl-warszawa-263",
+          "slug": "pocisk",
+          "name": "Pocisk"
         },
         {
-          "id": "de-berlin-264",
-          "slug": "kielgan-viertel",
-          "name": "Kielgan-Viertel"
+          "id": "pl-warszawa-264",
+          "slug": "podgrodzie",
+          "name": "Podgrodzie"
         },
         {
-          "id": "de-berlin-265",
-          "slug": "kienberg-viertel",
-          "name": "Kienberg-Viertel"
+          "id": "pl-warszawa-265",
+          "slug": "pohulanka",
+          "name": "Pohulanka"
         },
         {
-          "id": "de-berlin-266",
-          "slug": "kietz",
-          "name": "Kietz"
+          "id": "pl-warszawa-266",
+          "slug": "polanka",
+          "name": "Polanka"
         },
         {
-          "id": "de-berlin-267",
-          "slug": "kietzer-feld",
-          "name": "Kietzer Feld"
+          "id": "pl-warszawa-267",
+          "slug": "port-praski",
+          "name": "Port Praski"
         },
         {
-          "id": "de-berlin-268",
-          "slug": "kietzer-vorstadt",
-          "name": "Kietzer Vorstadt"
+          "id": "pl-warszawa-268",
+          "slug": "potok",
+          "name": "Potok"
         },
         {
-          "id": "de-berlin-269",
-          "slug": "kissingenviertel",
-          "name": "Kissingenviertel"
+          "id": "pl-warszawa-269",
+          "slug": "powazki",
+          "name": "Powązki"
         },
         {
-          "id": "de-berlin-270",
-          "slug": "kladow",
-          "name": "Kladow"
+          "id": "pl-warszawa-270",
+          "slug": "powisle",
+          "name": "Powiśle"
         },
         {
-          "id": "de-berlin-271",
-          "slug": "kleine-lettekolonie",
-          "name": "Kleine Lettekolonie"
+          "id": "pl-warszawa-271",
+          "slug": "powisle-skarpa",
+          "name": "Powiśle-Skarpa"
         },
         {
-          "id": "de-berlin-272",
-          "slug": "kleinhaussiedlung-altglienicke",
-          "name": "Kleinhaussiedlung Altglienicke"
+          "id": "pl-warszawa-272",
+          "slug": "powisle-solec",
+          "name": "Powiśle-Solec"
         },
         {
-          "id": "de-berlin-273",
-          "slug": "kleinhaussiedlung-am-steinberg",
-          "name": "Kleinhaussiedlung am Steinberg"
+          "id": "pl-warszawa-273",
+          "slug": "powsin",
+          "name": "Powsin"
         },
         {
-          "id": "de-berlin-274",
-          "slug": "kleinsiedlung-am-malchower-weg",
-          "name": "Kleinsiedlung am Malchower Weg"
+          "id": "pl-warszawa-274",
+          "slug": "powsinek",
+          "name": "Powsinek"
         },
         {
-          "id": "de-berlin-275",
-          "slug": "klosterfelde",
-          "name": "Klosterfelde"
+          "id": "pl-warszawa-275",
+          "slug": "praga",
+          "name": "Praga"
         },
         {
-          "id": "de-berlin-276",
-          "slug": "klosterviertel",
-          "name": "Klosterviertel"
+          "id": "pl-warszawa-276",
+          "slug": "praga-i",
+          "name": "Praga I"
         },
         {
-          "id": "de-berlin-277",
-          "slug": "kohlhasenbruck",
-          "name": "Kohlhasenbrück"
+          "id": "pl-warszawa-277",
+          "slug": "praga-ii",
+          "name": "Praga II"
         },
         {
-          "id": "de-berlin-278",
-          "slug": "kolk",
-          "name": "Kolk"
+          "id": "pl-warszawa-278",
+          "slug": "praga-iii",
+          "name": "Praga III"
         },
         {
-          "id": "de-berlin-279",
-          "slug": "kollnische-vorstadt",
-          "name": "Köllnische Vorstadt"
+          "id": "pl-warszawa-279",
+          "slug": "praga-ponoc",
+          "name": "Praga-Północ"
         },
         {
-          "id": "de-berlin-280",
-          "slug": "kollwitzkiez",
-          "name": "Kollwitzkiez"
+          "id": "pl-warszawa-280",
+          "slug": "praga-poudnie",
+          "name": "Praga-Południe"
         },
         {
-          "id": "de-berlin-281",
-          "slug": "kolner-viertel",
-          "name": "Kölner Viertel"
+          "id": "pl-warszawa-281",
+          "slug": "przyce",
+          "name": "Przyce"
         },
         {
-          "id": "de-berlin-282",
-          "slug": "kolonialbeamtensiedlung",
-          "name": "Kolonialbeamtensiedlung"
+          "id": "pl-warszawa-282",
+          "slug": "przyczoek-grochowski",
+          "name": "Przyczółek Grochowski"
         },
         {
-          "id": "de-berlin-283",
-          "slug": "kolonie-mariental",
-          "name": "Kolonie Mariental"
+          "id": "pl-warszawa-283",
+          "slug": "pyry",
+          "name": "Pyry"
         },
         {
-          "id": "de-berlin-284",
-          "slug": "kolonie-seebad",
-          "name": "Kolonie Seebad"
+          "id": "pl-warszawa-284",
+          "slug": "pudy",
+          "name": "Płudy"
         },
         {
-          "id": "de-berlin-285",
-          "slug": "kolonistensiedlung",
-          "name": "Kolonistensiedlung"
+          "id": "pl-warszawa-285",
+          "slug": "radiowo",
+          "name": "Radiowo"
         },
         {
-          "id": "de-berlin-286",
-          "slug": "komponisten-viertel",
-          "name": "Komponisten-Viertel"
+          "id": "pl-warszawa-286",
+          "slug": "radosc",
+          "name": "Radość"
         },
         {
-          "id": "de-berlin-287",
-          "slug": "komponistenviertel",
-          "name": "Komponistenviertel"
+          "id": "pl-warszawa-287",
+          "slug": "rakow",
+          "name": "Raków"
         },
         {
-          "id": "de-berlin-288",
-          "slug": "konigsstadt",
-          "name": "Königsstadt"
+          "id": "pl-warszawa-288",
+          "slug": "rakowiec",
+          "name": "Rakowiec"
         },
         {
-          "id": "de-berlin-289",
-          "slug": "konradshohe",
-          "name": "Konradshöhe"
+          "id": "pl-warszawa-289",
+          "slug": "rembertow",
+          "name": "Rembertów"
         },
         {
-          "id": "de-berlin-290",
-          "slug": "kopenick",
-          "name": "Köpenick"
+          "id": "pl-warszawa-290",
+          "slug": "rozopol",
+          "name": "Różopol"
         },
         {
-          "id": "de-berlin-291",
-          "slug": "kornerkiez",
-          "name": "Körnerkiez"
+          "id": "pl-warszawa-291",
+          "slug": "rozopole",
+          "name": "Różopole"
         },
         {
-          "id": "de-berlin-292",
-          "slug": "kosmosviertel",
-          "name": "Kosmosviertel"
+          "id": "pl-warszawa-292",
+          "slug": "rudawka",
+          "name": "Rudawka"
         },
         {
-          "id": "de-berlin-293",
-          "slug": "krampenburg",
-          "name": "Krampenburg"
+          "id": "pl-warszawa-293",
+          "slug": "ruskowy-brod",
+          "name": "Ruskowy Bród"
         },
         {
-          "id": "de-berlin-294",
-          "slug": "kreuzberg",
-          "name": "Kreuzberg"
+          "id": "pl-warszawa-294",
+          "slug": "sadul",
+          "name": "Sadul"
         },
         {
-          "id": "de-berlin-295",
-          "slug": "kriegsheimstatten-siedlung",
-          "name": "Kriegsheimstätten-Siedlung"
+          "id": "pl-warszawa-295",
+          "slug": "sady",
+          "name": "Sady"
         },
         {
-          "id": "de-berlin-296",
-          "slug": "krugpfuhlsiedlung",
-          "name": "Krugpfuhlsiedlung"
+          "id": "pl-warszawa-296",
+          "slug": "sady-i",
+          "name": "Sady I"
         },
         {
-          "id": "de-berlin-297",
-          "slug": "krummer-pfuhl",
-          "name": "Krummer Pfuhl"
+          "id": "pl-warszawa-297",
+          "slug": "sady-ii",
+          "name": "Sady II"
         },
         {
-          "id": "de-berlin-298",
-          "slug": "kungerkiez",
-          "name": "Kungerkiez"
+          "id": "pl-warszawa-298",
+          "slug": "sady-iii",
+          "name": "Sady III"
         },
         {
-          "id": "de-berlin-299",
-          "slug": "kunstlerkolonie",
-          "name": "Künstlerkolonie"
+          "id": "pl-warszawa-299",
+          "slug": "sady-iv",
+          "name": "Sady IV"
         },
         {
-          "id": "de-berlin-300",
-          "slug": "kurviertel",
-          "name": "Kurviertel"
+          "id": "pl-warszawa-300",
+          "slug": "sady-v",
+          "name": "Sady V"
         },
         {
-          "id": "de-berlin-301",
-          "slug": "landhaussiedlung",
-          "name": "Landhaussiedlung"
+          "id": "pl-warszawa-301",
+          "slug": "sady-zoliborskie",
+          "name": "Sady Żoliborskie"
         },
         {
-          "id": "de-berlin-302",
-          "slug": "landstadt-gatow",
-          "name": "Landstadt Gatow"
+          "id": "pl-warszawa-302",
+          "slug": "sadyba",
+          "name": "Sadyba"
         },
         {
-          "id": "de-berlin-303",
-          "slug": "lankwitz",
-          "name": "Lankwitz"
+          "id": "pl-warszawa-303",
+          "slug": "salomea",
+          "name": "Salomea"
         },
         {
-          "id": "de-berlin-304",
-          "slug": "laskerkiez",
-          "name": "Laskerkiez"
+          "id": "pl-warszawa-304",
+          "slug": "saska-kepa",
+          "name": "Saska Kępa"
         },
         {
-          "id": "de-berlin-305",
-          "slug": "lehrter-kiez",
-          "name": "Lehrter Kiez"
+          "id": "pl-warszawa-305",
+          "slug": "serek-zoliborski",
+          "name": "Serek Żoliborski"
         },
         {
-          "id": "de-berlin-306",
-          "slug": "leipziger-tor",
-          "name": "Leipziger Tor"
+          "id": "pl-warszawa-306",
+          "slug": "siekierki",
+          "name": "Siekierki"
         },
         {
-          "id": "de-berlin-307",
-          "slug": "leopoldkiez",
-          "name": "Leopoldkiez"
+          "id": "pl-warszawa-307",
+          "slug": "sielce",
+          "name": "Sielce"
         },
         {
-          "id": "de-berlin-308",
-          "slug": "lettekiez",
-          "name": "Lettekiez"
+          "id": "pl-warszawa-308",
+          "slug": "skalszczyzna",
+          "name": "Skalszczyzna"
         },
         {
-          "id": "de-berlin-309",
-          "slug": "lichtenberg",
-          "name": "Lichtenberg"
+          "id": "pl-warszawa-309",
+          "slug": "skarpa-powsinska",
+          "name": "Skarpa Powsińska"
         },
         {
-          "id": "de-berlin-310",
-          "slug": "lichtenberger-gartenheim",
-          "name": "Lichtenberger Gartenheim"
+          "id": "pl-warszawa-310",
+          "slug": "skaryszew",
+          "name": "Skaryszew"
         },
         {
-          "id": "de-berlin-311",
-          "slug": "lichtenrade",
-          "name": "Lichtenrade"
+          "id": "pl-warszawa-311",
+          "slug": "skorosze",
+          "name": "Skorosze"
         },
         {
-          "id": "de-berlin-312",
-          "slug": "lichtenrader-revier",
-          "name": "Lichtenrader Revier"
+          "id": "pl-warszawa-312",
+          "slug": "skrzypki",
+          "name": "Skrzypki"
         },
         {
-          "id": "de-berlin-313",
-          "slug": "lichterfelde",
-          "name": "Lichterfelde"
+          "id": "pl-warszawa-313",
+          "slug": "sliwice",
+          "name": "Śliwice"
         },
         {
-          "id": "de-berlin-314",
-          "slug": "lichterfelde-ost",
-          "name": "Lichterfelde Ost"
+          "id": "pl-warszawa-314",
+          "slug": "solec",
+          "name": "Solec"
         },
         {
-          "id": "de-berlin-315",
-          "slug": "lichterfelde-sud",
-          "name": "Lichterfelde Süd"
+          "id": "pl-warszawa-315",
+          "slug": "solipse",
+          "name": "Solipse"
         },
         {
-          "id": "de-berlin-316",
-          "slug": "lichterfelde-west",
-          "name": "Lichterfelde West"
+          "id": "pl-warszawa-316",
+          "slug": "srebrna-gora",
+          "name": "Srebrna Góra"
         },
         {
-          "id": "de-berlin-317",
-          "slug": "lilienthal-siedlung",
-          "name": "Lilienthal Siedlung"
+          "id": "pl-warszawa-317",
+          "slug": "srodmiescie",
+          "name": "Śródmieście"
         },
         {
-          "id": "de-berlin-318",
-          "slug": "lindenhof",
-          "name": "Lindenhof"
+          "id": "pl-warszawa-318",
+          "slug": "srodmiescie-ponocne",
+          "name": "Śródmieście Północne"
         },
         {
-          "id": "de-berlin-319",
-          "slug": "louise-schroder-siedlung",
-          "name": "Louise-Schröder-Siedlung"
+          "id": "pl-warszawa-319",
+          "slug": "srodmiescie-poudniowe",
+          "name": "Śródmieście Południowe"
         },
         {
-          "id": "de-berlin-320",
-          "slug": "louise-schroeder-siedlung",
-          "name": "Louise-Schroeder-Siedlung"
+          "id": "pl-warszawa-320",
+          "slug": "stara-miosna",
+          "name": "Stara Miłosna"
         },
         {
-          "id": "de-berlin-321",
-          "slug": "lubars",
-          "name": "Lübars"
+          "id": "pl-warszawa-321",
+          "slug": "stara-ochota",
+          "name": "Stara Ochota"
         },
         {
-          "id": "de-berlin-322",
-          "slug": "ludwig-hoffmann-quartier",
-          "name": "Ludwig-Hoffmann-Quartier"
+          "id": "pl-warszawa-322",
+          "slug": "stara-praga",
+          "name": "Stara Praga"
         },
         {
-          "id": "de-berlin-323",
-          "slug": "luisenstadt",
-          "name": "Luisenstadt"
+          "id": "pl-warszawa-323",
+          "slug": "stara-wygoda",
+          "name": "Stara Wygoda"
         },
         {
-          "id": "de-berlin-324",
-          "slug": "lutzowviertel",
-          "name": "Lützowviertel"
+          "id": "pl-warszawa-324",
+          "slug": "stare-bielany",
+          "name": "Stare Bielany"
         },
         {
-          "id": "de-berlin-325",
-          "slug": "mahlsdorf",
-          "name": "Mahlsdorf"
+          "id": "pl-warszawa-325",
+          "slug": "stare-brodno",
+          "name": "Stare Bródno"
         },
         {
-          "id": "de-berlin-326",
-          "slug": "mahlsdorf-nord",
-          "name": "Mahlsdorf Nord"
+          "id": "pl-warszawa-326",
+          "slug": "stare-gorce",
+          "name": "Stare Górce"
         },
         {
-          "id": "de-berlin-327",
-          "slug": "mahlsdorf-sud",
-          "name": "Mahlsdorf Süd"
+          "id": "pl-warszawa-327",
+          "slug": "stare-jelonki",
+          "name": "Stare Jelonki"
         },
         {
-          "id": "de-berlin-328",
-          "slug": "majakowskiring",
-          "name": "Majakowskiring"
+          "id": "pl-warszawa-328",
+          "slug": "stare-kabaty",
+          "name": "Stare Kabaty"
         },
         {
-          "id": "de-berlin-329",
-          "slug": "malchow",
-          "name": "Malchow"
+          "id": "pl-warszawa-329",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
         },
         {
-          "id": "de-berlin-330",
-          "slug": "malerviertel",
-          "name": "Malerviertel"
+          "id": "pl-warszawa-330",
+          "slug": "stare-swidry",
+          "name": "Stare Świdry"
         },
         {
-          "id": "de-berlin-331",
-          "slug": "manfred-von-richthofen-kiez",
-          "name": "Manfred-von-Richthofen-Kiez"
+          "id": "pl-warszawa-331",
+          "slug": "stare-wochy",
+          "name": "Stare Włochy"
         },
         {
-          "id": "de-berlin-332",
-          "slug": "marchenviertel",
-          "name": "Märchenviertel"
+          "id": "pl-warszawa-332",
+          "slug": "staromiejskie",
+          "name": "Staromiejskie"
         },
         {
-          "id": "de-berlin-333",
-          "slug": "margaretenhohe",
-          "name": "Margaretenhöhe"
+          "id": "pl-warszawa-333",
+          "slug": "stary-anin",
+          "name": "Stary Anin"
         },
         {
-          "id": "de-berlin-334",
-          "slug": "mariendorf",
-          "name": "Mariendorf"
+          "id": "pl-warszawa-334",
+          "slug": "stary-grabow",
+          "name": "Stary Grabów"
         },
         {
-          "id": "de-berlin-335",
-          "slug": "marienfelde",
-          "name": "Marienfelde"
+          "id": "pl-warszawa-335",
+          "slug": "stary-imielin",
+          "name": "Stary Imielin"
         },
         {
-          "id": "de-berlin-336",
-          "slug": "mariengarten",
-          "name": "Mariengarten"
+          "id": "pl-warszawa-336",
+          "slug": "stary-mokotow",
+          "name": "Stary Mokotów"
         },
         {
-          "id": "de-berlin-337",
-          "slug": "marinesiedlung",
-          "name": "Marinesiedlung"
+          "id": "pl-warszawa-337",
+          "slug": "stary-rembertow",
+          "name": "Stary Rembertów"
         },
         {
-          "id": "de-berlin-338",
-          "slug": "markisches-viertel",
-          "name": "Märkisches Viertel"
+          "id": "pl-warszawa-338",
+          "slug": "stary-rembertow-kolonia",
+          "name": "Stary Rembertów - Kolonia"
         },
         {
-          "id": "de-berlin-339",
-          "slug": "marzahn",
-          "name": "Marzahn"
+          "id": "pl-warszawa-339",
+          "slug": "stary-suzew",
+          "name": "Stary Służew"
         },
         {
-          "id": "de-berlin-340",
-          "slug": "marzahn-hellersdorf",
-          "name": "Marzahn-Hellersdorf"
+          "id": "pl-warszawa-340",
+          "slug": "stary-ursus",
+          "name": "Stary Ursus"
         },
         {
-          "id": "de-berlin-341",
-          "slug": "marzahn-mitte",
-          "name": "Marzahn-Mitte"
+          "id": "pl-warszawa-341",
+          "slug": "stary-wawer",
+          "name": "Stary Wawer"
         },
         {
-          "id": "de-berlin-342",
-          "slug": "marzahn-ost",
-          "name": "Marzahn-Ost"
+          "id": "pl-warszawa-342",
+          "slug": "stary-wawrzyszew",
+          "name": "Stary Wawrzyszew"
         },
         {
-          "id": "de-berlin-343",
-          "slug": "marzahn-sud",
-          "name": "Marzahn-Süd"
+          "id": "pl-warszawa-343",
+          "slug": "stary-wilanow",
+          "name": "Stary Wilanów"
         },
         {
-          "id": "de-berlin-344",
-          "slug": "maselake-nord",
-          "name": "Maselake Nord"
+          "id": "pl-warszawa-344",
+          "slug": "stary-zoliborz",
+          "name": "Stary Żoliborz"
         },
         {
-          "id": "de-berlin-345",
-          "slug": "maselake-zentrum",
-          "name": "Maselake-Zentrum"
+          "id": "pl-warszawa-345",
+          "slug": "stegny",
+          "name": "Stegny"
         },
         {
-          "id": "de-berlin-346",
-          "slug": "maxgarten",
-          "name": "Maxgärten"
+          "id": "pl-warszawa-346",
+          "slug": "stegny-poudniowe",
+          "name": "Stegny Południowe"
         },
         {
-          "id": "de-berlin-347",
-          "slug": "maximilians-quartier",
-          "name": "Maximilians Quartier"
+          "id": "pl-warszawa-347",
+          "slug": "stokosy",
+          "name": "Stokłosy"
         },
         {
-          "id": "de-berlin-348",
-          "slug": "mediaspree",
-          "name": "Mediaspree"
+          "id": "pl-warszawa-348",
+          "slug": "szamocin",
+          "name": "Szamocin"
         },
         {
-          "id": "de-berlin-349",
-          "slug": "metropolitan-park",
-          "name": "Metropolitan Park"
+          "id": "pl-warszawa-349",
+          "slug": "szamoty",
+          "name": "Szamoty"
         },
         {
-          "id": "de-berlin-350",
-          "slug": "mitte",
-          "name": "Mitte"
+          "id": "pl-warszawa-350",
+          "slug": "szare-domy",
+          "name": "Szare Domy"
         },
         {
-          "id": "de-berlin-351",
-          "slug": "moabit",
-          "name": "Moabit"
+          "id": "pl-warszawa-351",
+          "slug": "szczesliwice",
+          "name": "Szczęśliwice"
         },
         {
-          "id": "de-berlin-352",
-          "slug": "moabiter-werder",
-          "name": "Moabiter Werder"
+          "id": "pl-warszawa-352",
+          "slug": "szelagowizna",
+          "name": "Szelągowizna"
         },
         {
-          "id": "de-berlin-353",
-          "slug": "mockernkiez",
-          "name": "Möckernkiez"
+          "id": "pl-warszawa-353",
+          "slug": "szmulowizna",
+          "name": "Szmulowizna"
         },
         {
-          "id": "de-berlin-354",
-          "slug": "monumentenkiez",
-          "name": "Monumentenkiez"
+          "id": "pl-warszawa-354",
+          "slug": "szopy-polskie",
+          "name": "Szopy Polskie"
         },
         {
-          "id": "de-berlin-355",
-          "slug": "muggelheim",
-          "name": "Müggelheim"
+          "id": "pl-warszawa-355",
+          "slug": "sodowiec",
+          "name": "Słodowiec"
         },
         {
-          "id": "de-berlin-356",
-          "slug": "muggelhort",
-          "name": "Müggelhort"
+          "id": "pl-warszawa-356",
+          "slug": "suzew",
+          "name": "Służew"
         },
         {
-          "id": "de-berlin-357",
-          "slug": "muhlengrund",
-          "name": "Mühlengrund"
+          "id": "pl-warszawa-357",
+          "slug": "suzew-dolny",
+          "name": "Służew Dolny"
         },
         {
-          "id": "de-berlin-358",
-          "slug": "muhlenviertel",
-          "name": "Mühlenviertel"
+          "id": "pl-warszawa-358",
+          "slug": "suzew-gorny",
+          "name": "Służew Górny"
         },
         {
-          "id": "de-berlin-359",
-          "slug": "munizipalviertel",
-          "name": "Munizipalviertel"
+          "id": "pl-warszawa-359",
+          "slug": "suzew-nad-dolinka",
+          "name": "Służew nad Dolinką"
         },
         {
-          "id": "de-berlin-360",
-          "slug": "neu-britz",
-          "name": "Neu-Britz"
+          "id": "pl-warszawa-360",
+          "slug": "suzew-fort",
+          "name": "Służew-Fort"
         },
         {
-          "id": "de-berlin-361",
-          "slug": "neu-buckow",
-          "name": "Neu-Buckow"
+          "id": "pl-warszawa-361",
+          "slug": "suzewiec",
+          "name": "Służewiec"
         },
         {
-          "id": "de-berlin-362",
-          "slug": "neu-colln-am-wasser",
-          "name": "Neu-Cölln am Wasser"
+          "id": "pl-warszawa-362",
+          "slug": "tarchomin",
+          "name": "Tarchomin"
         },
         {
-          "id": "de-berlin-363",
-          "slug": "neu-hohenschonhausen",
-          "name": "Neu-Hohenschönhausen"
+          "id": "pl-warszawa-363",
+          "slug": "tarchomin-fabryczny",
+          "name": "Tarchomin Fabryczny"
         },
         {
-          "id": "de-berlin-364",
-          "slug": "neu-westend",
-          "name": "Neu-Westend"
+          "id": "pl-warszawa-364",
+          "slug": "tarchomin-koscielny",
+          "name": "Tarchomin Kościelny"
         },
         {
-          "id": "de-berlin-365",
-          "slug": "neue-heimstatt",
-          "name": "Neue Heimstatt"
+          "id": "pl-warszawa-365",
+          "slug": "targowek",
+          "name": "Targówek"
         },
         {
-          "id": "de-berlin-366",
-          "slug": "neue-scholle",
-          "name": "Neue Scholle"
+          "id": "pl-warszawa-366",
+          "slug": "targowek-fabryczny",
+          "name": "Targówek Fabryczny"
         },
         {
-          "id": "de-berlin-367",
-          "slug": "neues-gartenfeld",
-          "name": "Neues Gartenfeld"
+          "id": "pl-warszawa-367",
+          "slug": "targowek-mieszkaniowy",
+          "name": "Targówek Mieszkaniowy"
         },
         {
-          "id": "de-berlin-368",
-          "slug": "neukolln",
-          "name": "Neukölln"
+          "id": "pl-warszawa-368",
+          "slug": "teren-wydzielony-rezerwat-las-kabacki",
+          "name": "Teren Wydzielony Rezerwat \"Las Kabacki\""
         },
         {
-          "id": "de-berlin-369",
-          "slug": "neuland",
-          "name": "Neuland"
+          "id": "pl-warszawa-369",
+          "slug": "tomaszew",
+          "name": "Tomaszew"
         },
         {
-          "id": "de-berlin-370",
-          "slug": "neuland-i",
-          "name": "Neuland I"
+          "id": "pl-warszawa-370",
+          "slug": "torunska",
+          "name": "Toruńska"
         },
         {
-          "id": "de-berlin-371",
-          "slug": "neuland-ii",
-          "name": "Neuland II"
+          "id": "pl-warszawa-371",
+          "slug": "ujazdow",
+          "name": "Ujazdów"
         },
         {
-          "id": "de-berlin-372",
-          "slug": "neuland-iii-iv",
-          "name": "Neuland III-IV"
+          "id": "pl-warszawa-372",
+          "slug": "ulrychow",
+          "name": "Ulrychów"
         },
         {
-          "id": "de-berlin-373",
-          "slug": "neustadt",
-          "name": "Neustadt"
+          "id": "pl-warszawa-373",
+          "slug": "ursus",
+          "name": "Ursus"
         },
         {
-          "id": "de-berlin-374",
-          "slug": "niederschoneweide",
-          "name": "Niederschöneweide"
+          "id": "pl-warszawa-374",
+          "slug": "ursynow",
+          "name": "Ursynów"
         },
         {
-          "id": "de-berlin-375",
-          "slug": "niederschonhausen",
-          "name": "Niederschönhausen"
+          "id": "pl-warszawa-375",
+          "slug": "ursynow-centrum",
+          "name": "Ursynów Centrum"
         },
         {
-          "id": "de-berlin-376",
-          "slug": "nikolaiviertel",
-          "name": "Nikolaiviertel"
+          "id": "pl-warszawa-376",
+          "slug": "ursynow-ponocny",
+          "name": "Ursynów Północny"
         },
         {
-          "id": "de-berlin-377",
-          "slug": "nikolassee",
-          "name": "Nikolassee"
+          "id": "pl-warszawa-377",
+          "slug": "ursynow-poudniowy",
+          "name": "Ursynów Południowy"
         },
         {
-          "id": "de-berlin-378",
-          "slug": "nikolskoe",
-          "name": "Nikolskoe"
+          "id": "pl-warszawa-378",
+          "slug": "ursynow-zachodni",
+          "name": "Ursynów Zachodni"
         },
         {
-          "id": "de-berlin-379",
-          "slug": "niles-siedlung",
-          "name": "Niles-Siedlung"
+          "id": "pl-warszawa-379",
+          "slug": "ursynow-centrum-2",
+          "name": "Ursynów-Centrum"
         },
         {
-          "id": "de-berlin-380",
-          "slug": "nollendorfkiez",
-          "name": "Nollendorfkiez"
+          "id": "pl-warszawa-380",
+          "slug": "utrata",
+          "name": "Utrata"
         },
         {
-          "id": "de-berlin-381",
-          "slug": "nordbahnkiez",
-          "name": "Nordbahnkiez"
+          "id": "pl-warszawa-381",
+          "slug": "wawer",
+          "name": "Wawer"
         },
         {
-          "id": "de-berlin-382",
-          "slug": "nordend",
-          "name": "Nordend"
+          "id": "pl-warszawa-382",
+          "slug": "wawrzyszew",
+          "name": "Wawrzyszew"
         },
         {
-          "id": "de-berlin-383",
-          "slug": "nordisches-viertel",
-          "name": "Nordisches Viertel"
+          "id": "pl-warszawa-383",
+          "slug": "wesoa",
+          "name": "Wesoła"
         },
         {
-          "id": "de-berlin-384",
-          "slug": "oberschoneweide",
-          "name": "Oberschöneweide"
+          "id": "pl-warszawa-384",
+          "slug": "wesoa-centrum",
+          "name": "Wesoła-Centrum"
         },
         {
-          "id": "de-berlin-385",
-          "slug": "oberspree",
-          "name": "Oberspree"
+          "id": "pl-warszawa-385",
+          "slug": "wierzbno",
+          "name": "Wierzbno"
         },
         {
-          "id": "de-berlin-386",
-          "slug": "oko-siedlung",
-          "name": "Öko-Siedlung"
+          "id": "pl-warszawa-386",
+          "slug": "wiktoryn",
+          "name": "Wiktoryn"
         },
         {
-          "id": "de-berlin-387",
-          "slug": "onkel-toms-hutte",
-          "name": "Onkel Toms Hütte"
+          "id": "pl-warszawa-387",
+          "slug": "wilanow",
+          "name": "Wilanów"
         },
         {
-          "id": "de-berlin-388",
-          "slug": "oranienburger-vorstadt",
-          "name": "Oranienburger Vorstadt"
+          "id": "pl-warszawa-388",
+          "slug": "wilanow-krolewski",
+          "name": "Wilanów Królewski"
         },
         {
-          "id": "de-berlin-389",
-          "slug": "oskar-helene-park",
-          "name": "Oskar Helene Park"
+          "id": "pl-warszawa-389",
+          "slug": "wilanow-niski",
+          "name": "Wilanów Niski"
         },
         {
-          "id": "de-berlin-390",
-          "slug": "ostpreuenviertel",
-          "name": "Ostpreußenviertel"
+          "id": "pl-warszawa-390",
+          "slug": "wilanow-wysoki",
+          "name": "Wilanów Wysoki"
         },
         {
-          "id": "de-berlin-391",
-          "slug": "ostseeviertel",
-          "name": "Ostseeviertel"
+          "id": "pl-warszawa-391",
+          "slug": "winnica",
+          "name": "Winnica"
         },
         {
-          "id": "de-berlin-392",
-          "slug": "pandion-midtown",
-          "name": "Pandion Midtown"
+          "id": "pl-warszawa-392",
+          "slug": "wisniewo",
+          "name": "Wiśniewo"
         },
         {
-          "id": "de-berlin-393",
-          "slug": "pankow",
-          "name": "Pankow"
+          "id": "pl-warszawa-393",
+          "slug": "wisniowa-gora",
+          "name": "Wiśniowa Góra"
         },
         {
-          "id": "de-berlin-394",
-          "slug": "paradiessiedlung",
-          "name": "Paradiessiedlung"
+          "id": "pl-warszawa-394",
+          "slug": "witolin",
+          "name": "Witolin"
         },
         {
-          "id": "de-berlin-395",
-          "slug": "paradu",
-          "name": "Paradu"
+          "id": "pl-warszawa-395",
+          "slug": "wola",
+          "name": "Wola"
         },
         {
-          "id": "de-berlin-396",
-          "slug": "parksiedlung-spruch",
-          "name": "Parksiedlung Spruch"
+          "id": "pl-warszawa-396",
+          "slug": "wola-grzybowska",
+          "name": "Wola Grzybowska"
         },
         {
-          "id": "de-berlin-397",
-          "slug": "parkstadt-karlshorst",
-          "name": "Parkstadt Karlshorst"
+          "id": "pl-warszawa-397",
+          "slug": "wolica",
+          "name": "Wolica"
         },
         {
-          "id": "de-berlin-398",
-          "slug": "parkviertel",
-          "name": "Parkviertel"
+          "id": "pl-warszawa-398",
+          "slug": "wolica-ponocna",
+          "name": "Wolica Północna"
         },
         {
-          "id": "de-berlin-399",
-          "slug": "paul-hertz-siedlung",
-          "name": "Paul-Hertz-Siedlung"
+          "id": "pl-warszawa-399",
+          "slug": "wolica-poudniowa",
+          "name": "Wolica Południowa"
         },
         {
-          "id": "de-berlin-400",
-          "slug": "pepitahofe",
-          "name": "Pepitahöfe"
+          "id": "pl-warszawa-400",
+          "slug": "wolka-weglowa",
+          "name": "Wólka Węglowa"
         },
         {
-          "id": "de-berlin-401",
-          "slug": "petruswerk-siedlung",
-          "name": "Petruswerk-Siedlung"
+          "id": "pl-warszawa-401",
+          "slug": "wolka-zerzenska",
+          "name": "Wólka Zerzeńska"
         },
         {
-          "id": "de-berlin-402",
-          "slug": "pfarrland-siedlung",
-          "name": "Pfarrland-Siedlung"
+          "id": "pl-warszawa-402",
+          "slug": "wrzeciono",
+          "name": "Wrzeciono"
         },
         {
-          "id": "de-berlin-403",
-          "slug": "pichelsberg",
-          "name": "Pichelsberg"
+          "id": "pl-warszawa-403",
+          "slug": "wyczoki",
+          "name": "Wyczółki"
         },
         {
-          "id": "de-berlin-404",
-          "slug": "pichelsdorf",
-          "name": "Pichelsdorf"
+          "id": "pl-warszawa-404",
+          "slug": "wygledow",
+          "name": "Wyględów"
         },
         {
-          "id": "de-berlin-405",
-          "slug": "pichelswerder",
-          "name": "Pichelswerder"
+          "id": "pl-warszawa-405",
+          "slug": "wygoda",
+          "name": "Wygoda"
         },
         {
-          "id": "de-berlin-406",
-          "slug": "piepertswinkel",
-          "name": "Piepertswinkel"
+          "id": "pl-warszawa-406",
+          "slug": "wysockiego",
+          "name": "Wysockiego"
         },
         {
-          "id": "de-berlin-407",
-          "slug": "planterwald",
-          "name": "Plänterwald"
+          "id": "pl-warszawa-407",
+          "slug": "wysoki-ursynow",
+          "name": "Wysoki Ursynów"
         },
         {
-          "id": "de-berlin-408",
-          "slug": "postsiedlung",
-          "name": "Postsiedlung"
+          "id": "pl-warszawa-408",
+          "slug": "wyzyny-poudnie",
+          "name": "Wyżyny-Południe"
         },
         {
-          "id": "de-berlin-409",
-          "slug": "prenzlauer-berg",
-          "name": "Prenzlauer Berg"
+          "id": "pl-warszawa-409",
+          "slug": "wyzyny-srodek",
+          "name": "Wyżyny-Środek"
         },
         {
-          "id": "de-berlin-410",
-          "slug": "preuensiedlung",
-          "name": "Preußensiedlung"
+          "id": "pl-warszawa-410",
+          "slug": "wyzyny-wschod",
+          "name": "Wyżyny-Wschód"
         },
         {
-          "id": "de-berlin-411",
-          "slug": "prinzenviertel",
-          "name": "Prinzenviertel"
+          "id": "pl-warszawa-411",
+          "slug": "wyzyny-zachod",
+          "name": "Wyżyny-Zachód"
         },
         {
-          "id": "de-berlin-412",
-          "slug": "quartier-am-salzhof",
-          "name": "Quartier Am Salzhof"
+          "id": "pl-warszawa-412",
+          "slug": "wochy",
+          "name": "Włochy"
         },
         {
-          "id": "de-berlin-413",
-          "slug": "quartier-eiswerder",
-          "name": "Quartier Eiswerder"
+          "id": "pl-warszawa-413",
+          "slug": "za-zelazna-brama",
+          "name": "Za Żelazną Bramą"
         },
         {
-          "id": "de-berlin-414",
-          "slug": "quartier-haveleck",
-          "name": "Quartier Haveleck"
+          "id": "pl-warszawa-414",
+          "slug": "zacisze",
+          "name": "Zacisze"
         },
         {
-          "id": "de-berlin-415",
-          "slug": "quartier-havelspitze",
-          "name": "Quartier Havelspitze"
+          "id": "pl-warszawa-415",
+          "slug": "zagosciniec",
+          "name": "Zagościniec"
         },
         {
-          "id": "de-berlin-416",
-          "slug": "quartier-hugos",
-          "name": "Quartier HUGOS"
+          "id": "pl-warszawa-416",
+          "slug": "zagozdz",
+          "name": "Zagóźdź"
         },
         {
-          "id": "de-berlin-417",
-          "slug": "quartier-nordhafen",
-          "name": "Quartier Nordhafen"
+          "id": "pl-warszawa-417",
+          "slug": "zamosc",
+          "name": "Zamość"
         },
         {
-          "id": "de-berlin-418",
-          "slug": "quartier-oberweibacher-strae",
-          "name": "Quartier Oberweißbacher Straße"
+          "id": "pl-warszawa-418",
+          "slug": "zastow",
+          "name": "Zastów"
         },
         {
-          "id": "de-berlin-419",
-          "slug": "quartier-parkstrae",
-          "name": "Quartier Parkstraße"
+          "id": "pl-warszawa-419",
+          "slug": "zatrasie",
+          "name": "Zatrasie"
         },
         {
-          "id": "de-berlin-420",
-          "slug": "quartier-pulvermuhle",
-          "name": "Quartier Pulvermühle"
+          "id": "pl-warszawa-420",
+          "slug": "zatrzebie",
+          "name": "Zatrzebie"
         },
         {
-          "id": "de-berlin-421",
-          "slug": "quartier-schultheiss",
-          "name": "Quartier Schultheiss"
+          "id": "pl-warszawa-421",
+          "slug": "zawady",
+          "name": "Zawady"
         },
         {
-          "id": "de-berlin-422",
-          "slug": "quartier-wir",
-          "name": "Quartier WIR"
+          "id": "pl-warszawa-422",
+          "slug": "zauski",
+          "name": "Załuski"
         },
         {
-          "id": "de-berlin-423",
-          "slug": "rahnsdorf",
-          "name": "Rahnsdorf"
+          "id": "pl-warszawa-423",
+          "slug": "zbarz",
+          "name": "Zbarż"
         },
         {
-          "id": "de-berlin-424",
-          "slug": "rathaus-viertel",
-          "name": "Rathaus-Viertel"
+          "id": "pl-warszawa-424",
+          "slug": "zbojna-gora",
+          "name": "Zbójna Góra"
         },
         {
-          "id": "de-berlin-425",
-          "slug": "reichenberger-kiez",
-          "name": "Reichenberger kiez"
+          "id": "pl-warszawa-425",
+          "slug": "zbytki",
+          "name": "Zbytki"
         },
         {
-          "id": "de-berlin-426",
-          "slug": "reichsforschungssiedlung-haselhorst",
-          "name": "Reichsforschungssiedlung Haselhorst"
+          "id": "pl-warszawa-426",
+          "slug": "zdobycz-robotnicza",
+          "name": "Zdobycz Robotnicza"
         },
         {
-          "id": "de-berlin-427",
-          "slug": "reihenhauser-kalinka",
-          "name": "Reihenhäuser Kalinka"
+          "id": "pl-warszawa-427",
+          "slug": "zelazna-brama",
+          "name": "Żelazna Brama"
         },
         {
-          "id": "de-berlin-428",
-          "slug": "reinickendorf",
-          "name": "Reinickendorf"
+          "id": "pl-warszawa-428",
+          "slug": "zeran",
+          "name": "Żerań"
         },
         {
-          "id": "de-berlin-429",
-          "slug": "reuterkiez",
-          "name": "Reuterkiez"
+          "id": "pl-warszawa-429",
+          "slug": "zeran-wschodni",
+          "name": "Żerań Wschodni"
         },
         {
-          "id": "de-berlin-430",
-          "slug": "rheingauviertel",
-          "name": "Rheingauviertel"
+          "id": "pl-warszawa-430",
+          "slug": "zerzen",
+          "name": "Zerzeń"
         },
         {
-          "id": "de-berlin-431",
-          "slug": "rheinisches-viertel",
-          "name": "Rheinisches Viertel"
+          "id": "pl-warszawa-431",
+          "slug": "zgorzaa-nad-jeziorem",
+          "name": "Zgorzała nad Jeziorem"
         },
         {
-          "id": "de-berlin-432",
-          "slug": "richard-sorge-viertel",
-          "name": "Richard-Sorge-Viertel"
+          "id": "pl-warszawa-432",
+          "slug": "zielona",
+          "name": "Zielona"
         },
         {
-          "id": "de-berlin-433",
-          "slug": "richardkiez",
-          "name": "Richardkiez"
+          "id": "pl-warszawa-433",
+          "slug": "zielona-grzybowa",
+          "name": "Zielona-Grzybowa"
         },
         {
-          "id": "de-berlin-434",
-          "slug": "riehmers-hofgarten",
-          "name": "Riehmers Hofgarten"
+          "id": "pl-warszawa-434",
+          "slug": "zielony-ursynow",
+          "name": "Zielony Ursynów"
         },
         {
-          "id": "de-berlin-435",
-          "slug": "ringelnatz-siedlung",
-          "name": "Ringelnatz-Siedlung"
+          "id": "pl-warszawa-435",
+          "slug": "zoliborz",
+          "name": "Żoliborz"
         },
         {
-          "id": "de-berlin-436",
-          "slug": "ritterkiez",
-          "name": "Ritterkiez"
+          "id": "pl-warszawa-436",
+          "slug": "zoliborz-centralny",
+          "name": "Żoliborz Centralny"
         },
         {
-          "id": "de-berlin-437",
-          "slug": "rixdorf",
-          "name": "Rixdorf"
+          "id": "pl-warszawa-437",
+          "slug": "zoliborz-dziennikarski",
+          "name": "Żoliborz Dziennikarski"
         },
         {
-          "id": "de-berlin-438",
-          "slug": "rollbergsiedlung",
-          "name": "Rollbergsiedlung"
+          "id": "pl-warszawa-438",
+          "slug": "zoliborz-oficerski",
+          "name": "Żoliborz Oficerski"
         },
         {
-          "id": "de-berlin-439",
-          "slug": "rosenfelder-ring",
-          "name": "Rosenfelder Ring"
+          "id": "pl-warszawa-439",
+          "slug": "zoliborz-poudniowy",
+          "name": "Żoliborz Południowy"
         },
         {
-          "id": "de-berlin-440",
-          "slug": "rosenthal",
-          "name": "Rosenthal"
+          "id": "pl-warszawa-440",
+          "slug": "zoliborz-przemysowy",
+          "name": "Żoliborz Przemysłowy"
         },
         {
-          "id": "de-berlin-441",
-          "slug": "rosenthaler-vorstadt",
-          "name": "Rosenthaler Vorstadt"
+          "id": "pl-warszawa-441",
+          "slug": "zoliborz-spodzielczy",
+          "name": "Żoliborz Spółdzielczy"
         },
         {
-          "id": "de-berlin-442",
-          "slug": "rote-insel",
-          "name": "Rote Insel"
+          "id": "pl-warszawa-442",
+          "slug": "zoliborz-urzedniczy",
+          "name": "Żoliborz Urzędniczy"
         },
         {
-          "id": "de-berlin-443",
-          "slug": "rotes-viertel",
-          "name": "Rotes Viertel"
+          "id": "pl-warszawa-443",
+          "slug": "zygmuntow",
+          "name": "Zygmuntów"
         },
         {
-          "id": "de-berlin-444",
-          "slug": "rudolf-wissell-siedlung",
-          "name": "Rudolf-Wissell-Siedlung"
+          "id": "pl-warszawa-444",
+          "slug": "apigrosz",
+          "name": "Łapigrosz"
         },
         {
-          "id": "de-berlin-445",
-          "slug": "rudolfkiez",
-          "name": "Rudolfkiez"
-        },
-        {
-          "id": "de-berlin-446",
-          "slug": "rudow",
-          "name": "Rudow"
-        },
-        {
-          "id": "de-berlin-447",
-          "slug": "ruhleben",
-          "name": "Ruhleben"
-        },
-        {
-          "id": "de-berlin-448",
-          "slug": "rummelsburg",
-          "name": "Rummelsburg"
-        },
-        {
-          "id": "de-berlin-449",
-          "slug": "rummelsburger-ufer",
-          "name": "Rummelsburger Ufer"
-        },
-        {
-          "id": "de-berlin-450",
-          "slug": "saatwinkel",
-          "name": "Saatwinkel"
-        },
-        {
-          "id": "de-berlin-451",
-          "slug": "salvador-allende-viertel-i",
-          "name": "Salvador-Allende-Viertel I"
-        },
-        {
-          "id": "de-berlin-452",
-          "slug": "salvador-allende-viertel-ii",
-          "name": "Salvador-Allende-Viertel II"
-        },
-        {
-          "id": "de-berlin-453",
-          "slug": "samariterviertel",
-          "name": "Samariterviertel"
-        },
-        {
-          "id": "de-berlin-454",
-          "slug": "scheunenviertel",
-          "name": "Scheunenviertel"
-        },
-        {
-          "id": "de-berlin-455",
-          "slug": "schillerhohe",
-          "name": "Schillerhöhe"
-        },
-        {
-          "id": "de-berlin-456",
-          "slug": "schillerkiez",
-          "name": "Schillerkiez"
-        },
-        {
-          "id": "de-berlin-457",
-          "slug": "schlachtensee",
-          "name": "Schlachtensee"
-        },
-        {
-          "id": "de-berlin-458",
-          "slug": "schleipfuhl",
-          "name": "Schleipfuhl"
-        },
-        {
-          "id": "de-berlin-459",
-          "slug": "schliemann-siedlung",
-          "name": "Schliemann-Siedlung"
-        },
-        {
-          "id": "de-berlin-460",
-          "slug": "schmargendorf",
-          "name": "Schmargendorf"
-        },
-        {
-          "id": "de-berlin-461",
-          "slug": "schmockwitz",
-          "name": "Schmöckwitz"
-        },
-        {
-          "id": "de-berlin-462",
-          "slug": "schoneberg",
-          "name": "Schöneberg"
-        },
-        {
-          "id": "de-berlin-463",
-          "slug": "schoneberger-dreieck",
-          "name": "Schöneberger Dreieck"
-        },
-        {
-          "id": "de-berlin-464",
-          "slug": "schonholz",
-          "name": "Schönholz"
-        },
-        {
-          "id": "de-berlin-465",
-          "slug": "schonow",
-          "name": "Schönow"
-        },
-        {
-          "id": "de-berlin-466",
-          "slug": "schorfheideviertel",
-          "name": "Schorfheideviertel"
-        },
-        {
-          "id": "de-berlin-467",
-          "slug": "schulzendorf",
-          "name": "Schulzendorf"
-        },
-        {
-          "id": "de-berlin-468",
-          "slug": "schuler-kiez",
-          "name": "Schüßler-Kiez"
-        },
-        {
-          "id": "de-berlin-469",
-          "slug": "schwarzwaldsiedlung",
-          "name": "Schwarzwaldsiedlung"
-        },
-        {
-          "id": "de-berlin-470",
-          "slug": "schweizer-viertel",
-          "name": "Schweizer Viertel"
-        },
-        {
-          "id": "de-berlin-471",
-          "slug": "schwyzer-kiez",
-          "name": "Schwyzer Kiez"
-        },
-        {
-          "id": "de-berlin-472",
-          "slug": "seebadviertel",
-          "name": "Seebadviertel"
-        },
-        {
-          "id": "de-berlin-473",
-          "slug": "sewanviertel",
-          "name": "Sewanviertel"
-        },
-        {
-          "id": "de-berlin-474",
-          "slug": "siedlung-am-adlergestell",
-          "name": "Siedlung am Adlergestell"
-        },
-        {
-          "id": "de-berlin-475",
-          "slug": "siedlung-am-fischtalgrund",
-          "name": "Siedlung am Fischtalgrund"
-        },
-        {
-          "id": "de-berlin-476",
-          "slug": "siedlung-am-gehrensee",
-          "name": "Siedlung am Gehrensee"
-        },
-        {
-          "id": "de-berlin-477",
-          "slug": "siedlung-am-muhlenberg",
-          "name": "Siedlung Am Mühlenberg"
-        },
-        {
-          "id": "de-berlin-478",
-          "slug": "siedlung-am-schillerpark",
-          "name": "Siedlung am Schillerpark"
-        },
-        {
-          "id": "de-berlin-479",
-          "slug": "siedlung-am-schlierbacher-weg",
-          "name": "Siedlung am Schlierbacher Weg"
-        },
-        {
-          "id": "de-berlin-480",
-          "slug": "siedlung-am-wansdorfer-platz",
-          "name": "Siedlung am Wansdorfer Platz"
-        },
-        {
-          "id": "de-berlin-481",
-          "slug": "siedlung-am-zwickauer-damm",
-          "name": "Siedlung am Zwickauer Damm"
-        },
-        {
-          "id": "de-berlin-482",
-          "slug": "siedlung-an-der-bohnsdorfer-strae",
-          "name": "Siedlung an der Bohnsdorfer Straße"
-        },
-        {
-          "id": "de-berlin-483",
-          "slug": "siedlung-an-der-gro-ziethener-chaussee",
-          "name": "Siedlung an der Groß-Ziethener Chaussee"
-        },
-        {
-          "id": "de-berlin-484",
-          "slug": "siedlung-an-der-schonefelder-strae",
-          "name": "Siedlung an der Schönefelder Straße"
-        },
-        {
-          "id": "de-berlin-485",
-          "slug": "siedlung-an-der-wamannsdorfer-chaussee",
-          "name": "Siedlung an der Waßmannsdorfer Chaussee"
-        },
-        {
-          "id": "de-berlin-486",
-          "slug": "siedlung-barbarossahohe",
-          "name": "Siedlung Barbarossahöhe"
-        },
-        {
-          "id": "de-berlin-487",
-          "slug": "siedlung-boba-ii",
-          "name": "Siedlung Boba II"
-        },
-        {
-          "id": "de-berlin-488",
-          "slug": "siedlung-bocksfelde",
-          "name": "Siedlung Bocksfelde"
-        },
-        {
-          "id": "de-berlin-489",
-          "slug": "siedlung-charlottenburg-nord",
-          "name": "Siedlung Charlottenburg-Nord"
-        },
-        {
-          "id": "de-berlin-490",
-          "slug": "siedlung-daheim",
-          "name": "Siedlung Daheim"
-        },
-        {
-          "id": "de-berlin-491",
-          "slug": "siedlung-der-dufte",
-          "name": "Siedlung der Düfte"
-        },
-        {
-          "id": "de-berlin-492",
-          "slug": "siedlung-eichkamp",
-          "name": "Siedlung Eichkamp"
-        },
-        {
-          "id": "de-berlin-493",
-          "slug": "siedlung-eigene-scholle",
-          "name": "Siedlung Eigene Scholle"
-        },
-        {
-          "id": "de-berlin-494",
-          "slug": "siedlung-eigenheim-ii",
-          "name": "Siedlung Eigenheim II"
-        },
-        {
-          "id": "de-berlin-495",
-          "slug": "siedlung-eisengrund",
-          "name": "Siedlung Eisengrund"
-        },
-        {
-          "id": "de-berlin-496",
-          "slug": "siedlung-elchdamm-195",
-          "name": "Siedlung Elchdamm 195"
-        },
-        {
-          "id": "de-berlin-497",
-          "slug": "siedlung-elisabeth-aue",
-          "name": "Siedlung Elisabeth-Aue"
-        },
-        {
-          "id": "de-berlin-498",
-          "slug": "siedlung-elsengrund",
-          "name": "Siedlung Elsengrund"
-        },
-        {
-          "id": "de-berlin-499",
-          "slug": "siedlung-gemeinschaftsstrae-i",
-          "name": "Siedlung Gemeinschaftsstraße I"
-        },
-        {
-          "id": "de-berlin-500",
-          "slug": "siedlung-genossenschaftsstrae-i",
-          "name": "Siedlung Genossenschaftsstraße I"
-        },
-        {
-          "id": "de-berlin-501",
-          "slug": "siedlung-gruneck",
-          "name": "Siedlung Grüneck"
-        },
-        {
-          "id": "de-berlin-502",
-          "slug": "siedlung-habichtswald",
-          "name": "Siedlung Habichtswald"
-        },
-        {
-          "id": "de-berlin-503",
-          "slug": "siedlung-hahneberg",
-          "name": "Siedlung Hahneberg"
-        },
-        {
-          "id": "de-berlin-504",
-          "slug": "siedlung-havelblick",
-          "name": "Siedlung Havelblick"
-        },
-        {
-          "id": "de-berlin-505",
-          "slug": "siedlung-heerstrae",
-          "name": "Siedlung Heerstraße"
-        },
-        {
-          "id": "de-berlin-506",
-          "slug": "siedlung-heimat",
-          "name": "Siedlung Heimat"
-        },
-        {
-          "id": "de-berlin-507",
-          "slug": "siedlung-kammereiheide",
-          "name": "Siedlung Kämmereiheide"
-        },
-        {
-          "id": "de-berlin-508",
-          "slug": "siedlung-klosterbusche",
-          "name": "Siedlung Klosterbüsche"
-        },
-        {
-          "id": "de-berlin-509",
-          "slug": "siedlung-marienwerder",
-          "name": "Siedlung Marienwerder"
-        },
-        {
-          "id": "de-berlin-510",
-          "slug": "siedlung-martha-aue",
-          "name": "Siedlung Martha-Aue"
-        },
-        {
-          "id": "de-berlin-511",
-          "slug": "siedlung-meier",
-          "name": "Siedlung Meier"
-        },
-        {
-          "id": "de-berlin-512",
-          "slug": "siedlung-muggeleck",
-          "name": "Siedlung Müggeleck"
-        },
-        {
-          "id": "de-berlin-513",
-          "slug": "siedlung-neu-jerusalem",
-          "name": "Siedlung Neu-Jerusalem"
-        },
-        {
-          "id": "de-berlin-514",
-          "slug": "siedlung-obstallee",
-          "name": "Siedlung Obstallee"
-        },
-        {
-          "id": "de-berlin-515",
-          "slug": "siedlung-paddenpuhl",
-          "name": "Siedlung Paddenpuhl"
-        },
-        {
-          "id": "de-berlin-516",
-          "slug": "siedlung-rathenow",
-          "name": "Siedlung Rathenow"
-        },
-        {
-          "id": "de-berlin-517",
-          "slug": "siedlung-rathenow-e-v",
-          "name": "Siedlung Rathenow e.V."
-        },
-        {
-          "id": "de-berlin-518",
-          "slug": "siedlung-rehpfuhl",
-          "name": "Siedlung Rehpfuhl"
-        },
-        {
-          "id": "de-berlin-519",
-          "slug": "siedlung-rohrdamm-west",
-          "name": "Siedlung Rohrdamm-West"
-        },
-        {
-          "id": "de-berlin-520",
-          "slug": "siedlung-ruhleben",
-          "name": "Siedlung Ruhleben"
-        },
-        {
-          "id": "de-berlin-521",
-          "slug": "siedlung-saatwinkler-damm",
-          "name": "Siedlung Saatwinkler Damm"
-        },
-        {
-          "id": "de-berlin-522",
-          "slug": "siedlung-sachsenberg",
-          "name": "Siedlung Sachsenberg"
-        },
-        {
-          "id": "de-berlin-523",
-          "slug": "siedlung-schildow-waldeck",
-          "name": "Siedlung Schildow Waldeck"
-        },
-        {
-          "id": "de-berlin-524",
-          "slug": "siedlung-schlachtensee-i",
-          "name": "Siedlung Schlachtensee I"
-        },
-        {
-          "id": "de-berlin-525",
-          "slug": "siedlung-schlachtensee-ii",
-          "name": "Siedlung Schlachtensee II"
-        },
-        {
-          "id": "de-berlin-526",
-          "slug": "siedlung-schonhorst",
-          "name": "Siedlung Schönhorst"
-        },
-        {
-          "id": "de-berlin-527",
-          "slug": "siedlung-siemensstadt",
-          "name": "Siedlung Siemensstadt"
-        },
-        {
-          "id": "de-berlin-528",
-          "slug": "siedlung-wegedorn",
-          "name": "Siedlung Wegedorn"
-        },
-        {
-          "id": "de-berlin-529",
-          "slug": "siedlung-wei",
-          "name": "Siedlung Weiß"
-        },
-        {
-          "id": "de-berlin-530",
-          "slug": "siedlung-wendenheide",
-          "name": "Siedlung Wendenheide"
-        },
-        {
-          "id": "de-berlin-531",
-          "slug": "siedlung-windmuhlenberg",
-          "name": "Siedlung Windmühlenberg"
-        },
-        {
-          "id": "de-berlin-532",
-          "slug": "siedlung-x",
-          "name": "Siedlung X"
-        },
-        {
-          "id": "de-berlin-533",
-          "slug": "siedlungs-und-gartenanlage-frohsinn",
-          "name": "Siedlungs- und Gartenanlage Frohsinn"
-        },
-        {
-          "id": "de-berlin-534",
-          "slug": "siegener-viertel",
-          "name": "Siegener Viertel"
-        },
-        {
-          "id": "de-berlin-535",
-          "slug": "siemens-siedlung",
-          "name": "Siemens-Siedlung"
-        },
-        {
-          "id": "de-berlin-536",
-          "slug": "siemens-siedlung-spekte",
-          "name": "Siemens-Siedlung Spekte"
-        },
-        {
-          "id": "de-berlin-537",
-          "slug": "siemenssiedlung-am-hohenzollernkanal-iii",
-          "name": "Siemenssiedlung am Hohenzollernkanal III"
-        },
-        {
-          "id": "de-berlin-538",
-          "slug": "siemenssiedlung-am-hohenzollernkanal-iv",
-          "name": "Siemenssiedlung am Hohenzollernkanal IV"
-        },
-        {
-          "id": "de-berlin-539",
-          "slug": "siemensstadt",
-          "name": "Siemensstadt"
-        },
-        {
-          "id": "de-berlin-540",
-          "slug": "soldiner-kiez",
-          "name": "Soldiner Kiez"
-        },
-        {
-          "id": "de-berlin-541",
-          "slug": "spandau",
-          "name": "Spandau"
-        },
-        {
-          "id": "de-berlin-542",
-          "slug": "spandau-west",
-          "name": "Spandau-West"
-        },
-        {
-          "id": "de-berlin-543",
-          "slug": "spandauer-vorstadt",
-          "name": "Spandauer Vorstadt"
-        },
-        {
-          "id": "de-berlin-544",
-          "slug": "spathsfelde",
-          "name": "Späthsfelde"
-        },
-        {
-          "id": "de-berlin-545",
-          "slug": "speicherballett",
-          "name": "Speicherballett"
-        },
-        {
-          "id": "de-berlin-546",
-          "slug": "spindlersfeld",
-          "name": "Spindlersfeld"
-        },
-        {
-          "id": "de-berlin-547",
-          "slug": "splanemann-siedlung",
-          "name": "Splanemann-Siedlung"
-        },
-        {
-          "id": "de-berlin-548",
-          "slug": "splanemannsiedlung",
-          "name": "Splanemannsiedlung"
-        },
-        {
-          "id": "de-berlin-549",
-          "slug": "spreestadt-charlottenburg",
-          "name": "Spreestadt Charlottenburg"
-        },
-        {
-          "id": "de-berlin-550",
-          "slug": "spreetal",
-          "name": "Spreetal"
-        },
-        {
-          "id": "de-berlin-551",
-          "slug": "sprengelkiez",
-          "name": "Sprengelkiez"
-        },
-        {
-          "id": "de-berlin-552",
-          "slug": "spring-siedlung",
-          "name": "Spring-Siedlung"
-        },
-        {
-          "id": "de-berlin-553",
-          "slug": "springpfuhl",
-          "name": "Springpfuhl"
-        },
-        {
-          "id": "de-berlin-554",
-          "slug": "staaken",
-          "name": "Staaken"
-        },
-        {
-          "id": "de-berlin-555",
-          "slug": "stadtgut-hellersdorf",
-          "name": "Stadtgut Hellersdorf"
-        },
-        {
-          "id": "de-berlin-556",
-          "slug": "stadtquartier-friesenstrae",
-          "name": "Stadtquartier Friesenstraße"
-        },
-        {
-          "id": "de-berlin-557",
-          "slug": "stadtrandsiedlung",
-          "name": "Stadtrandsiedlung"
-        },
-        {
-          "id": "de-berlin-558",
-          "slug": "stadtrandsiedlung-blankenfelde",
-          "name": "Stadtrandsiedlung Blankenfelde"
-        },
-        {
-          "id": "de-berlin-559",
-          "slug": "stadtrandsiedlung-buch",
-          "name": "Stadtrandsiedlung Buch"
-        },
-        {
-          "id": "de-berlin-560",
-          "slug": "stadtrandsiedlung-falkenberg",
-          "name": "Stadtrandsiedlung Falkenberg"
-        },
-        {
-          "id": "de-berlin-561",
-          "slug": "stadtrandsiedlung-im-falkenhagener-feld",
-          "name": "Stadtrandsiedlung im Falkenhagener Feld"
-        },
-        {
-          "id": "de-berlin-562",
-          "slug": "stadtrandsiedlung-malchow",
-          "name": "Stadtrandsiedlung Malchow"
-        },
-        {
-          "id": "de-berlin-563",
-          "slug": "stadtrandsiedlung-marienfelde",
-          "name": "Stadtrandsiedlung Marienfelde"
-        },
-        {
-          "id": "de-berlin-564",
-          "slug": "stadtrandsiedlung-marienfelde-i",
-          "name": "Stadtrandsiedlung Marienfelde I"
-        },
-        {
-          "id": "de-berlin-565",
-          "slug": "stadtrandsiedlung-marienfelde-ii",
-          "name": "Stadtrandsiedlung Marienfelde II"
-        },
-        {
-          "id": "de-berlin-566",
-          "slug": "stadtrandsiedlung-marienfelde-iii",
-          "name": "Stadtrandsiedlung Marienfelde III"
-        },
-        {
-          "id": "de-berlin-567",
-          "slug": "stadtrandsiedlung-mittelheide",
-          "name": "Stadtrandsiedlung Mittelheide"
-        },
-        {
-          "id": "de-berlin-568",
-          "slug": "steglitz",
-          "name": "Steglitz"
-        },
-        {
-          "id": "de-berlin-569",
-          "slug": "steglitz-zehlendorf",
-          "name": "Steglitz-Zehlendorf"
-        },
-        {
-          "id": "de-berlin-570",
-          "slug": "steinstucken",
-          "name": "Steinstücken"
-        },
-        {
-          "id": "de-berlin-571",
-          "slug": "stephankiez",
-          "name": "Stephankiez"
-        },
-        {
-          "id": "de-berlin-572",
-          "slug": "stolpe-wannsee",
-          "name": "Stolpe (Wannsee)"
-        },
-        {
-          "id": "de-berlin-573",
-          "slug": "stralau",
-          "name": "Stralau"
-        },
-        {
-          "id": "de-berlin-574",
-          "slug": "stralauer-vorstadt",
-          "name": "Stralauer Vorstadt"
-        },
-        {
-          "id": "de-berlin-575",
-          "slug": "stresow",
-          "name": "Stresow"
-        },
-        {
-          "id": "de-berlin-576",
-          "slug": "streusiedlung-mahlsdorf-ii",
-          "name": "Streusiedlung Mahlsdorf II"
-        },
-        {
-          "id": "de-berlin-577",
-          "slug": "studentendorf-schlachtensee",
-          "name": "Studentendorf Schlachtensee"
-        },
-        {
-          "id": "de-berlin-578",
-          "slug": "sudende",
-          "name": "Südende"
-        },
-        {
-          "id": "de-berlin-579",
-          "slug": "sudlicher-dorfanger",
-          "name": "Südlicher Dorfanger"
-        },
-        {
-          "id": "de-berlin-580",
-          "slug": "tegel",
-          "name": "Tegel"
-        },
-        {
-          "id": "de-berlin-581",
-          "slug": "tegel-sud",
-          "name": "Tegel-Süd"
-        },
-        {
-          "id": "de-berlin-582",
-          "slug": "tegelort",
-          "name": "Tegelort"
-        },
-        {
-          "id": "de-berlin-583",
-          "slug": "telefunkensiedlung",
-          "name": "Telefunkensiedlung"
-        },
-        {
-          "id": "de-berlin-584",
-          "slug": "tempelhof",
-          "name": "Tempelhof"
-        },
-        {
-          "id": "de-berlin-585",
-          "slug": "tempelhof-schoneberg",
-          "name": "Tempelhof-Schöneberg"
-        },
-        {
-          "id": "de-berlin-586",
-          "slug": "tempelhofer-vorstadt",
-          "name": "Tempelhofer Vorstadt"
-        },
-        {
-          "id": "de-berlin-587",
-          "slug": "theodorpark",
-          "name": "TheodorPark"
-        },
-        {
-          "id": "de-berlin-588",
-          "slug": "thermometersiedlung",
-          "name": "Thermometersiedlung"
-        },
-        {
-          "id": "de-berlin-589",
-          "slug": "thielecksiedlung",
-          "name": "Thielecksiedlung"
-        },
-        {
-          "id": "de-berlin-590",
-          "slug": "thuringer-viertel",
-          "name": "Thüringer Viertel"
-        },
-        {
-          "id": "de-berlin-591",
-          "slug": "tiefwerder",
-          "name": "Tiefwerder"
-        },
-        {
-          "id": "de-berlin-592",
-          "slug": "tiergarten",
-          "name": "Tiergarten"
-        },
-        {
-          "id": "de-berlin-593",
-          "slug": "tiroler-viertel",
-          "name": "Tiroler Viertel"
-        },
-        {
-          "id": "de-berlin-594",
-          "slug": "topchiner-dreieck",
-          "name": "Töpchiner Dreieck"
-        },
-        {
-          "id": "de-berlin-595",
-          "slug": "travekiez",
-          "name": "Travekiez"
-        },
-        {
-          "id": "de-berlin-596",
-          "slug": "treptow-kopenick",
-          "name": "Treptow-Köpenick"
-        },
-        {
-          "id": "de-berlin-597",
-          "slug": "uhlenhorst",
-          "name": "Uhlenhorst"
-        },
-        {
-          "id": "de-berlin-598",
-          "slug": "victoriastadt",
-          "name": "Victoriastadt"
-        },
-        {
-          "id": "de-berlin-599",
-          "slug": "viktoria-quartier",
-          "name": "Viktoria-Quartier"
-        },
-        {
-          "id": "de-berlin-600",
-          "slug": "villenkolonie-westend",
-          "name": "Villenkolonie Westend"
-        },
-        {
-          "id": "de-berlin-601",
-          "slug": "villenviertel-am-orankesee",
-          "name": "Villenviertel am Orankesee"
-        },
-        {
-          "id": "de-berlin-602",
-          "slug": "vincent-van-gogh-strae",
-          "name": "Vincent-van-Gogh-Straße"
-        },
-        {
-          "id": "de-berlin-603",
-          "slug": "vinetakiez",
-          "name": "Vinetakiez"
-        },
-        {
-          "id": "de-berlin-604",
-          "slug": "vogtland",
-          "name": "Vogtland"
-        },
-        {
-          "id": "de-berlin-605",
-          "slug": "volksparksiedlung-lichtenrade",
-          "name": "Volksparksiedlung Lichtenrade"
-        },
-        {
-          "id": "de-berlin-606",
-          "slug": "wagnerviertel",
-          "name": "Wagnerviertel"
-        },
-        {
-          "id": "de-berlin-607",
-          "slug": "waidmannslust",
-          "name": "Waidmannslust"
-        },
-        {
-          "id": "de-berlin-608",
-          "slug": "waldpanorama",
-          "name": "Waldpanorama"
-        },
-        {
-          "id": "de-berlin-609",
-          "slug": "waldrandsiedlung",
-          "name": "Waldrandsiedlung"
-        },
-        {
-          "id": "de-berlin-610",
-          "slug": "waldseeviertel",
-          "name": "Waldseeviertel"
-        },
-        {
-          "id": "de-berlin-611",
-          "slug": "waldsiedlung",
-          "name": "Waldsiedlung"
-        },
-        {
-          "id": "de-berlin-612",
-          "slug": "waldsiedlung-adlershof",
-          "name": "Waldsiedlung Adlershof"
-        },
-        {
-          "id": "de-berlin-613",
-          "slug": "waldsiedlung-hakenfelde",
-          "name": "Waldsiedlung Hakenfelde"
-        },
-        {
-          "id": "de-berlin-614",
-          "slug": "waldsiedlung-krumme-lanke",
-          "name": "Waldsiedlung Krumme Lanke"
-        },
-        {
-          "id": "de-berlin-615",
-          "slug": "waldsiedlung-wuhlheide",
-          "name": "Waldsiedlung Wuhlheide"
-        },
-        {
-          "id": "de-berlin-616",
-          "slug": "wannsee",
-          "name": "Wannsee"
-        },
-        {
-          "id": "de-berlin-617",
-          "slug": "wartenberg",
-          "name": "Wartenberg"
-        },
-        {
-          "id": "de-berlin-618",
-          "slug": "wasserstadt-spandau",
-          "name": "Wasserstadt Spandau"
-        },
-        {
-          "id": "de-berlin-619",
-          "slug": "wasserstadt-spindlersfeld",
-          "name": "Wasserstadt Spindlersfeld"
-        },
-        {
-          "id": "de-berlin-620",
-          "slug": "waterkant",
-          "name": "Waterkant"
-        },
-        {
-          "id": "de-berlin-621",
-          "slug": "wedding",
-          "name": "Wedding"
-        },
-        {
-          "id": "de-berlin-622",
-          "slug": "weinmeisterhohe",
-          "name": "Weinmeisterhöhe"
-        },
-        {
-          "id": "de-berlin-623",
-          "slug": "weinviertel",
-          "name": "Weinviertel"
-        },
-        {
-          "id": "de-berlin-624",
-          "slug": "weie-siedlung",
-          "name": "Weiße Siedlung"
-        },
-        {
-          "id": "de-berlin-625",
-          "slug": "weie-stadt",
-          "name": "Weiße Stadt"
-        },
-        {
-          "id": "de-berlin-626",
-          "slug": "weie-taube",
-          "name": "Weiße Taube"
-        },
-        {
-          "id": "de-berlin-627",
-          "slug": "weiensee",
-          "name": "Weißensee"
-        },
-        {
-          "id": "de-berlin-628",
-          "slug": "weiter-blick",
-          "name": "Weiter Blick"
-        },
-        {
-          "id": "de-berlin-629",
-          "slug": "weitlingkiez",
-          "name": "Weitlingkiez"
-        },
-        {
-          "id": "de-berlin-630",
-          "slug": "wendenschlo",
-          "name": "Wendenschloß"
-        },
-        {
-          "id": "de-berlin-631",
-          "slug": "werner-berndt-siedlung",
-          "name": "Werner-Berndt-Siedlung"
-        },
-        {
-          "id": "de-berlin-632",
-          "slug": "weserkiez",
-          "name": "Weserkiez"
-        },
-        {
-          "id": "de-berlin-633",
-          "slug": "westend",
-          "name": "Westend"
-        },
-        {
-          "id": "de-berlin-634",
-          "slug": "westfalenviertel",
-          "name": "Westfalenviertel"
-        },
-        {
-          "id": "de-berlin-635",
-          "slug": "westfalisches-viertel",
-          "name": "Westfälisches Viertel"
-        },
-        {
-          "id": "de-berlin-636",
-          "slug": "wilhelmsaue",
-          "name": "Wilhelmsaue"
-        },
-        {
-          "id": "de-berlin-637",
-          "slug": "wilhelmsberg",
-          "name": "Wilhelmsberg"
-        },
-        {
-          "id": "de-berlin-638",
-          "slug": "wilhelmshagen",
-          "name": "Wilhelmshagen"
-        },
-        {
-          "id": "de-berlin-639",
-          "slug": "wilhelmsruh",
-          "name": "Wilhelmsruh"
-        },
-        {
-          "id": "de-berlin-640",
-          "slug": "wilhelmstadt",
-          "name": "Wilhelmstadt"
-        },
-        {
-          "id": "de-berlin-641",
-          "slug": "wilke-siedlung",
-          "name": "Wilke-Siedlung"
-        },
-        {
-          "id": "de-berlin-642",
-          "slug": "wilkesiedlung",
-          "name": "Wilkesiedlung"
-        },
-        {
-          "id": "de-berlin-643",
-          "slug": "wilmersdorf",
-          "name": "Wilmersdorf"
-        },
-        {
-          "id": "de-berlin-644",
-          "slug": "winsviertel",
-          "name": "Winsviertel"
-        },
-        {
-          "id": "de-berlin-645",
-          "slug": "winterfeldtkiez",
-          "name": "Winterfeldtkiez"
-        },
-        {
-          "id": "de-berlin-646",
-          "slug": "wista",
-          "name": "WISTA"
-        },
-        {
-          "id": "de-berlin-647",
-          "slug": "wittenau",
-          "name": "Wittenau"
-        },
-        {
-          "id": "de-berlin-648",
-          "slug": "witzleben",
-          "name": "Witzleben"
-        },
-        {
-          "id": "de-berlin-649",
-          "slug": "wohnanlage-zinsgutstrae",
-          "name": "Wohnanlage Zinsgutstraße"
-        },
-        {
-          "id": "de-berlin-650",
-          "slug": "wohngebiet-am-landschaftspark-herzberge",
-          "name": "Wohngebiet am Landschaftspark Herzberge"
-        },
-        {
-          "id": "de-berlin-651",
-          "slug": "wohngebiet-landsberger-tor",
-          "name": "Wohngebiet Landsberger Tor"
-        },
-        {
-          "id": "de-berlin-652",
-          "slug": "wohnpark-hohenlohe",
-          "name": "Wohnpark Hohenlohe"
-        },
-        {
-          "id": "de-berlin-653",
-          "slug": "wohnpark-konigsheide",
-          "name": "Wohnpark Königsheide"
-        },
-        {
-          "id": "de-berlin-654",
-          "slug": "wohnpark-ludwigshohe",
-          "name": "Wohnpark Ludwigshöhe"
-        },
-        {
-          "id": "de-berlin-655",
-          "slug": "wohnpark-mariendorf",
-          "name": "Wohnpark Mariendorf"
-        },
-        {
-          "id": "de-berlin-656",
-          "slug": "wohnpark-st-marien",
-          "name": "Wohnpark St. Marien"
-        },
-        {
-          "id": "de-berlin-657",
-          "slug": "wohnsiedlung-dingelstadter-strae",
-          "name": "Wohnsiedlung Dingelstädter Straße"
-        },
-        {
-          "id": "de-berlin-658",
-          "slug": "wohnsiedlung-hakenfelde",
-          "name": "Wohnsiedlung Hakenfelde"
-        },
-        {
-          "id": "de-berlin-659",
-          "slug": "wohnsiedlung-havelmarina",
-          "name": "Wohnsiedlung Havelmarina"
-        },
-        {
-          "id": "de-berlin-660",
-          "slug": "wohnsiedlung-lubarser-aue",
-          "name": "Wohnsiedlung Lübarser Aue"
-        },
-        {
-          "id": "de-berlin-661",
-          "slug": "wohnstadt-carl-legien",
-          "name": "Wohnstadt Carl Legien"
-        },
-        {
-          "id": "de-berlin-662",
-          "slug": "wolfsgarten",
-          "name": "Wolfsgarten"
-        },
-        {
-          "id": "de-berlin-663",
-          "slug": "wonnegauviertel",
-          "name": "Wonnegauviertel"
-        },
-        {
-          "id": "de-berlin-664",
-          "slug": "wrangelkiez",
-          "name": "Wrangelkiez"
-        },
-        {
-          "id": "de-berlin-665",
-          "slug": "zehlendorf",
-          "name": "Zehlendorf"
-        },
-        {
-          "id": "de-berlin-666",
-          "slug": "zeitungsviertel",
-          "name": "Zeitungsviertel"
-        },
-        {
-          "id": "de-berlin-667",
-          "slug": "zietenmannsche-viertel",
-          "name": "Zietenmannsche Viertel"
+          "id": "pl-warszawa-445",
+          "slug": "eczyca",
+          "name": "Łęczyca"
         }
       ]
     },
     {
-      "id": "de-muenchen",
-      "country_code": "DE",
-      "slug": "muenchen",
-      "name": "München",
-      "region": "Bayern",
-      "description": "München: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-krakow",
+      "country_code": "PL",
+      "slug": "krakow",
+      "name": "Kraków",
+      "region": "Małopolskie",
+      "description": "Kraków: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-2.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-muenchen-1",
-          "slug": "8-2",
-          "name": "8.2"
+          "id": "pl-krakow-1",
+          "slug": "azory",
+          "name": "Azory"
         },
         {
-          "id": "de-muenchen-2",
-          "slug": "ackermannbogen",
-          "name": "Ackermannbogen"
+          "id": "pl-krakow-2",
+          "slug": "bagno",
+          "name": "Bagno"
         },
         {
-          "id": "de-muenchen-3",
-          "slug": "alexisquartier",
-          "name": "Alexisquartier"
+          "id": "pl-krakow-3",
+          "slug": "bania",
+          "name": "Bania"
         },
         {
-          "id": "de-muenchen-4",
-          "slug": "allach",
-          "name": "Allach"
+          "id": "pl-krakow-4",
+          "slug": "barycz",
+          "name": "Barycz"
         },
         {
-          "id": "de-muenchen-5",
-          "slug": "allach-untermenzing",
-          "name": "Allach-Untermenzing"
+          "id": "pl-krakow-5",
+          "slug": "beszcz",
+          "name": "Beszcz"
         },
         {
-          "id": "de-muenchen-6",
-          "slug": "alt-freimann",
-          "name": "Alt-Freimann"
+          "id": "pl-krakow-6",
+          "slug": "biae-morza",
+          "name": "Białe Morza"
         },
         {
-          "id": "de-muenchen-7",
-          "slug": "alt-moosach",
-          "name": "Alt-Moosach"
+          "id": "pl-krakow-7",
+          "slug": "bielany",
+          "name": "Bielany"
         },
         {
-          "id": "de-muenchen-8",
-          "slug": "alt-schwabing",
-          "name": "Alt-Schwabing"
+          "id": "pl-krakow-8",
+          "slug": "bienczyce",
+          "name": "Bieńczyce"
         },
         {
-          "id": "de-muenchen-9",
-          "slug": "alt-solln",
-          "name": "Alt-Solln"
+          "id": "pl-krakow-9",
+          "slug": "biezanow",
+          "name": "Bieżanów"
         },
         {
-          "id": "de-muenchen-10",
-          "slug": "altbogenhausen",
-          "name": "Altbogenhausen"
+          "id": "pl-krakow-10",
+          "slug": "biezanow-prokocim",
+          "name": "Bieżanów-Prokocim"
         },
         {
-          "id": "de-muenchen-11",
-          "slug": "alte-heide",
-          "name": "Alte Heide"
+          "id": "pl-krakow-11",
+          "slug": "bodzow",
+          "name": "Bodzów"
         },
         {
-          "id": "de-muenchen-12",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-krakow-12",
+          "slug": "bogucianka",
+          "name": "Bogucianka"
         },
         {
-          "id": "de-muenchen-13",
-          "slug": "altstadt-lehel",
-          "name": "Altstadt-Lehel"
+          "id": "pl-krakow-13",
+          "slug": "borek-faecki",
+          "name": "Borek Fałęcki"
         },
         {
-          "id": "de-muenchen-14",
-          "slug": "am-alten-nordlichen-friedhof",
-          "name": "Am alten nördlichen Friedhof"
+          "id": "pl-krakow-14",
+          "slug": "brackie",
+          "name": "Brackie"
         },
         {
-          "id": "de-muenchen-15",
-          "slug": "am-alten-sudlichen-friedhof",
-          "name": "Am Alten Südlichen Friedhof"
+          "id": "pl-krakow-15",
+          "slug": "branice",
+          "name": "Branice"
         },
         {
-          "id": "de-muenchen-16",
-          "slug": "am-hart",
-          "name": "Am Hart"
+          "id": "pl-krakow-16",
+          "slug": "bronowice",
+          "name": "Bronowice"
         },
         {
-          "id": "de-muenchen-17",
-          "slug": "am-hierlbach",
-          "name": "Am Hierlbach"
+          "id": "pl-krakow-17",
+          "slug": "bronowice-mae",
+          "name": "Bronowice Małe"
         },
         {
-          "id": "de-muenchen-18",
-          "slug": "am-hirschgarten",
-          "name": "Am Hirschgarten"
+          "id": "pl-krakow-18",
+          "slug": "bronowice-residence-iv",
+          "name": "Bronowice Residence IV"
         },
         {
-          "id": "de-muenchen-19",
-          "slug": "am-moosfeld",
-          "name": "Am Moosfeld"
+          "id": "pl-krakow-19",
+          "slug": "bronowice-wielkie",
+          "name": "Bronowice Wielkie"
         },
         {
-          "id": "de-muenchen-20",
-          "slug": "am-oberwiesenfeld",
-          "name": "Am Oberwiesenfeld"
+          "id": "pl-krakow-20",
+          "slug": "brzyzek",
+          "name": "Brzyzek"
         },
         {
-          "id": "de-muenchen-21",
-          "slug": "am-riesenfeld",
-          "name": "Am Riesenfeld"
+          "id": "pl-krakow-21",
+          "slug": "budzyn",
+          "name": "Budzyń"
         },
         {
-          "id": "de-muenchen-22",
-          "slug": "am-schlachthof",
-          "name": "Am Schlachthof"
+          "id": "pl-krakow-22",
+          "slug": "bugaj",
+          "name": "Bugaj"
         },
         {
-          "id": "de-muenchen-23",
-          "slug": "am-stiftsbogen",
-          "name": "Am Stiftsbogen"
+          "id": "pl-krakow-23",
+          "slug": "bularnia",
+          "name": "Bularnia"
         },
         {
-          "id": "de-muenchen-24",
-          "slug": "am-waldfriedhof",
-          "name": "Am Waldfriedhof"
+          "id": "pl-krakow-24",
+          "slug": "bonia",
+          "name": "Błonia"
         },
         {
-          "id": "de-muenchen-25",
-          "slug": "am-westbad",
-          "name": "Am Westbad"
+          "id": "pl-krakow-25",
+          "slug": "bonie",
+          "name": "Błonie"
         },
         {
-          "id": "de-muenchen-26",
-          "slug": "am-westpark",
-          "name": "Am Westpark"
+          "id": "pl-krakow-26",
+          "slug": "bonie-beszcz",
+          "name": "Błonie-Beszcz"
         },
         {
-          "id": "de-muenchen-27",
-          "slug": "angerviertel",
-          "name": "Angerviertel"
+          "id": "pl-krakow-27",
+          "slug": "cegielniana",
+          "name": "Cegielniana"
         },
         {
-          "id": "de-muenchen-28",
-          "slug": "arnulfpark",
-          "name": "Arnulfpark"
+          "id": "pl-krakow-28",
+          "slug": "chaupki",
+          "name": "Chałupki"
         },
         {
-          "id": "de-muenchen-29",
-          "slug": "au",
-          "name": "Au"
+          "id": "pl-krakow-29",
+          "slug": "chaupki-gorne",
+          "name": "Chałupki Górne"
         },
         {
-          "id": "de-muenchen-30",
-          "slug": "au-haidhausen",
-          "name": "Au-Haidhausen"
+          "id": "pl-krakow-30",
+          "slug": "chem",
+          "name": "Chełm"
         },
         {
-          "id": "de-muenchen-31",
-          "slug": "aubing",
-          "name": "Aubing"
+          "id": "pl-krakow-31",
+          "slug": "chlebiczna",
+          "name": "Chlebiczna"
         },
         {
-          "id": "de-muenchen-32",
-          "slug": "aubing-lochhausen-langwied",
-          "name": "Aubing-Lochhausen-Langwied"
+          "id": "pl-krakow-32",
+          "slug": "cichy-kacik",
+          "name": "Cichy Kącik"
         },
         {
-          "id": "de-muenchen-33",
-          "slug": "aubing-ost",
-          "name": "Aubing-Ost"
+          "id": "pl-krakow-33",
+          "slug": "czarna-wies",
+          "name": "Czarna Wieś"
         },
         {
-          "id": "de-muenchen-34",
-          "slug": "auensiedlung",
-          "name": "Auensiedlung"
+          "id": "pl-krakow-34",
+          "slug": "czyzyny",
+          "name": "Czyżyny"
         },
         {
-          "id": "de-muenchen-35",
-          "slug": "barbara-viertel",
-          "name": "Barbara-Viertel"
+          "id": "pl-krakow-35",
+          "slug": "co",
+          "name": "Cło"
         },
         {
-          "id": "de-muenchen-36",
-          "slug": "barbarasiedlung",
-          "name": "Barbarasiedlung"
+          "id": "pl-krakow-36",
+          "slug": "dabie",
+          "name": "Dąbie"
         },
         {
-          "id": "de-muenchen-37",
-          "slug": "baumkirchen",
-          "name": "Baumkirchen"
+          "id": "pl-krakow-37",
+          "slug": "dabrowy",
+          "name": "Dąbrowy"
         },
         {
-          "id": "de-muenchen-38",
-          "slug": "berg-am-laim",
-          "name": "Berg am Laim"
+          "id": "pl-krakow-38",
+          "slug": "debniki",
+          "name": "Dębniki"
         },
         {
-          "id": "de-muenchen-39",
-          "slug": "berliner-viertel",
-          "name": "Berliner Viertel"
+          "id": "pl-krakow-39",
+          "slug": "debniki-zachod",
+          "name": "Dębniki Zachód"
         },
         {
-          "id": "de-muenchen-40",
-          "slug": "biederstein",
-          "name": "Biederstein"
+          "id": "pl-krakow-40",
+          "slug": "dom-nad-akami",
+          "name": "Dom Nad Łąkami"
         },
         {
-          "id": "de-muenchen-41",
-          "slug": "blumenau",
-          "name": "Blumenau"
+          "id": "pl-krakow-41",
+          "slug": "duchackie",
+          "name": "Duchackie"
         },
         {
-          "id": "de-muenchen-42",
-          "slug": "bogenhausen",
-          "name": "Bogenhausen"
+          "id": "pl-krakow-42",
+          "slug": "dwor",
+          "name": "Dwór"
         },
         {
-          "id": "de-muenchen-43",
-          "slug": "borstei",
-          "name": "Borstei"
+          "id": "pl-krakow-43",
+          "slug": "dubnia",
+          "name": "Dłubnia"
         },
         {
-          "id": "de-muenchen-44",
-          "slug": "cosimapark",
-          "name": "Cosimapark"
+          "id": "pl-krakow-44",
+          "slug": "gaik",
+          "name": "Gaik"
         },
         {
-          "id": "de-muenchen-45",
-          "slug": "daglfing",
-          "name": "Daglfing"
+          "id": "pl-krakow-45",
+          "slug": "gaj",
+          "name": "Gaj"
         },
         {
-          "id": "de-muenchen-46",
-          "slug": "denning",
-          "name": "Denning"
+          "id": "pl-krakow-46",
+          "slug": "gajszcza",
+          "name": "Gajszcza"
         },
         {
-          "id": "de-muenchen-47",
-          "slug": "dianapark",
-          "name": "Dianapark"
+          "id": "pl-krakow-47",
+          "slug": "galatowski-koniec",
+          "name": "Galatowski Koniec"
         },
         {
-          "id": "de-muenchen-48",
-          "slug": "domagkpark",
-          "name": "Domagkpark"
+          "id": "pl-krakow-48",
+          "slug": "gibkowka",
+          "name": "Gibkówka"
         },
         {
-          "id": "de-muenchen-49",
-          "slug": "dreimuhlen",
-          "name": "Dreimühlen"
+          "id": "pl-krakow-49",
+          "slug": "golikowka",
+          "name": "Golikówka"
         },
         {
-          "id": "de-muenchen-50",
-          "slug": "ebenau",
-          "name": "Ebenau"
+          "id": "pl-krakow-50",
+          "slug": "gorka-koscielnicka",
+          "name": "Górka Kościelnicka"
         },
         {
-          "id": "de-muenchen-51",
-          "slug": "echarding",
-          "name": "Echarding"
+          "id": "pl-krakow-51",
+          "slug": "gorka-narodowa",
+          "name": "Górka Narodowa"
         },
         {
-          "id": "de-muenchen-52",
-          "slug": "eggarten-siedlung",
-          "name": "Eggarten-Siedlung"
+          "id": "pl-krakow-52",
+          "slug": "graby",
+          "name": "Grąby"
         },
         {
-          "id": "de-muenchen-53",
-          "slug": "emilienhof",
-          "name": "Emilienhof"
+          "id": "pl-krakow-53",
+          "slug": "grebaow",
+          "name": "Grębałów"
         },
         {
-          "id": "de-muenchen-54",
-          "slug": "englschalking",
-          "name": "Englschalking"
+          "id": "pl-krakow-54",
+          "slug": "grzegorzki",
+          "name": "Grzegórzki"
         },
         {
-          "id": "de-muenchen-55",
-          "slug": "erich-kastner-viertel",
-          "name": "Erich-Kästner-Viertel"
+          "id": "pl-krakow-55",
+          "slug": "habina",
+          "name": "Habina"
         },
         {
-          "id": "de-muenchen-56",
-          "slug": "fasanerie",
-          "name": "Fasanerie"
+          "id": "pl-krakow-56",
+          "slug": "holendry",
+          "name": "Holendry"
         },
         {
-          "id": "de-muenchen-57",
-          "slug": "fasangarten",
-          "name": "Fasangarten"
+          "id": "pl-krakow-57",
+          "slug": "isep",
+          "name": "Isep"
         },
         {
-          "id": "de-muenchen-58",
-          "slug": "feldmoching",
-          "name": "Feldmoching"
+          "id": "pl-krakow-58",
+          "slug": "jemioki",
+          "name": "Jemiołki"
         },
         {
-          "id": "de-muenchen-59",
-          "slug": "feldmoching-hasenbergl",
-          "name": "Feldmoching-Hasenbergl"
+          "id": "pl-krakow-59",
+          "slug": "jeziorko",
+          "name": "Jeziorko"
         },
         {
-          "id": "de-muenchen-60",
-          "slug": "feldmullersiedlung",
-          "name": "Feldmüllersiedlung"
+          "id": "pl-krakow-60",
+          "slug": "jugowice",
+          "name": "Jugowice"
         },
         {
-          "id": "de-muenchen-61",
-          "slug": "fideliopark",
-          "name": "Fideliopark"
+          "id": "pl-krakow-61",
+          "slug": "kabel",
+          "name": "Kabel"
         },
         {
-          "id": "de-muenchen-62",
-          "slug": "forstenried",
-          "name": "Forstenried"
+          "id": "pl-krakow-62",
+          "slug": "kaczence",
+          "name": "Kaczeńce"
         },
         {
-          "id": "de-muenchen-63",
-          "slug": "freiham",
-          "name": "Freiham"
+          "id": "pl-krakow-63",
+          "slug": "kaczorowka",
+          "name": "Kaczorówka"
         },
         {
-          "id": "de-muenchen-64",
-          "slug": "freiham-nord",
-          "name": "Freiham-Nord"
+          "id": "pl-krakow-64",
+          "slug": "kaim",
+          "name": "Kaim"
         },
         {
-          "id": "de-muenchen-65",
-          "slug": "freiland",
-          "name": "Freiland"
+          "id": "pl-krakow-65",
+          "slug": "kantorowice",
+          "name": "Kantorowice"
         },
         {
-          "id": "de-muenchen-66",
-          "slug": "freimann",
-          "name": "Freimann"
+          "id": "pl-krakow-66",
+          "slug": "katy",
+          "name": "Kąty"
         },
         {
-          "id": "de-muenchen-67",
-          "slug": "freimann-sud",
-          "name": "Freimann-Süd"
+          "id": "pl-krakow-67",
+          "slug": "kazimierz",
+          "name": "Kazimierz"
         },
         {
-          "id": "de-muenchen-68",
-          "slug": "freimanner-heide",
-          "name": "Freimanner Heide"
+          "id": "pl-krakow-68",
+          "slug": "kepa-grabska",
+          "name": "Kępa Grabska"
         },
         {
-          "id": "de-muenchen-69",
-          "slug": "friedenheim",
-          "name": "Friedenheim"
+          "id": "pl-krakow-69",
+          "slug": "kleparz",
+          "name": "Kleparz"
         },
         {
-          "id": "de-muenchen-70",
-          "slug": "frottmaning",
-          "name": "Fröttmaning"
+          "id": "pl-krakow-70",
+          "slug": "kliniec",
+          "name": "Kliniec"
         },
         {
-          "id": "de-muenchen-71",
-          "slug": "furstenried",
-          "name": "Fürstenried"
+          "id": "pl-krakow-71",
+          "slug": "kliny",
+          "name": "Kliny"
         },
         {
-          "id": "de-muenchen-72",
-          "slug": "furstenried-ost",
-          "name": "Fürstenried Ost"
+          "id": "pl-krakow-72",
+          "slug": "kliny-poranne",
+          "name": "Kliny Poranne"
         },
         {
-          "id": "de-muenchen-73",
-          "slug": "furstenried-west",
-          "name": "Fürstenried West"
+          "id": "pl-krakow-73",
+          "slug": "kliny-zacisze",
+          "name": "Kliny Zacisze"
         },
         {
-          "id": "de-muenchen-74",
-          "slug": "gartenstadt-bogenhausen-priel",
-          "name": "Gartenstadt Bogenhausen-Priel"
+          "id": "pl-krakow-74",
+          "slug": "klitowka",
+          "name": "Klitówka"
         },
         {
-          "id": "de-muenchen-75",
-          "slug": "gartenstadt-freimann",
-          "name": "Gartenstadt Freimann"
+          "id": "pl-krakow-75",
+          "slug": "kobierzyn",
+          "name": "Kobierzyn"
         },
         {
-          "id": "de-muenchen-76",
-          "slug": "gartenstadt-johanneskirchen",
-          "name": "Gartenstadt Johanneskirchen"
+          "id": "pl-krakow-76",
+          "slug": "kombinat",
+          "name": "Kombinat"
         },
         {
-          "id": "de-muenchen-77",
-          "slug": "gartenstadt-trudering",
-          "name": "Gartenstadt Trudering"
+          "id": "pl-krakow-77",
+          "slug": "kopalina",
+          "name": "Kopalina"
         },
         {
-          "id": "de-muenchen-78",
-          "slug": "gartnerplatz",
-          "name": "Gärtnerplatz"
+          "id": "pl-krakow-78",
+          "slug": "kopan",
+          "name": "Kopań"
         },
         {
-          "id": "de-muenchen-79",
-          "slug": "gern",
-          "name": "Gern"
+          "id": "pl-krakow-79",
+          "slug": "kopaniec",
+          "name": "Kopaniec"
         },
         {
-          "id": "de-muenchen-80",
-          "slug": "giesing",
-          "name": "Giesing"
+          "id": "pl-krakow-80",
+          "slug": "kopanina",
+          "name": "Kopanina"
         },
         {
-          "id": "de-muenchen-81",
-          "slug": "glockenbach",
-          "name": "Glockenbach"
+          "id": "pl-krakow-81",
+          "slug": "kopec",
+          "name": "Kopeć"
         },
         {
-          "id": "de-muenchen-82",
-          "slug": "graggenauerviertel",
-          "name": "Graggenauerviertel"
+          "id": "pl-krakow-82",
+          "slug": "koscielniki",
+          "name": "Kościelniki"
         },
         {
-          "id": "de-muenchen-83",
-          "slug": "grenzkolonie-trudering",
-          "name": "Grenzkolonie Trudering"
+          "id": "pl-krakow-83",
+          "slug": "kosocice",
+          "name": "Kosocice"
         },
         {
-          "id": "de-muenchen-84",
-          "slug": "grohadern",
-          "name": "Großhadern"
+          "id": "pl-krakow-84",
+          "slug": "kostrze",
+          "name": "Kostrze"
         },
         {
-          "id": "de-muenchen-85",
-          "slug": "grolappen",
-          "name": "Großlappen"
+          "id": "pl-krakow-85",
+          "slug": "kozowka",
+          "name": "Kozłówka"
         },
         {
-          "id": "de-muenchen-86",
-          "slug": "grusonsiedlung",
-          "name": "Grusonsiedlung"
+          "id": "pl-krakow-86",
+          "slug": "koo-tynieckie",
+          "name": "Koło Tynieckie"
         },
         {
-          "id": "de-muenchen-87",
-          "slug": "gut-nederling",
-          "name": "Gut Nederling"
+          "id": "pl-krakow-87",
+          "slug": "krakowka",
+          "name": "Krakówka"
         },
         {
-          "id": "de-muenchen-88",
-          "slug": "hackenviertel",
-          "name": "Hackenviertel"
+          "id": "pl-krakow-88",
+          "slug": "krowodrza",
+          "name": "Krowodrza"
         },
         {
-          "id": "de-muenchen-89",
-          "slug": "hadern",
-          "name": "Hadern"
+          "id": "pl-krakow-89",
+          "slug": "krowodrza-gorka",
+          "name": "Krowodrza Górka"
         },
         {
-          "id": "de-muenchen-90",
-          "slug": "haderner-stern",
-          "name": "Haderner Stern"
+          "id": "pl-krakow-90",
+          "slug": "krzemionki",
+          "name": "Krzemionki"
         },
         {
-          "id": "de-muenchen-91",
-          "slug": "haidhausen",
-          "name": "Haidhausen"
+          "id": "pl-krakow-91",
+          "slug": "krzesawice",
+          "name": "Krzesławice"
         },
         {
-          "id": "de-muenchen-92",
-          "slug": "haidhausen-nord",
-          "name": "Haidhausen-Nord"
+          "id": "pl-krakow-92",
+          "slug": "ksiedzowe-pole",
+          "name": "Księdzowe Pole"
         },
         {
-          "id": "de-muenchen-93",
-          "slug": "haidhausen-sud",
-          "name": "Haidhausen-Süd"
+          "id": "pl-krakow-93",
+          "slug": "kujawy",
+          "name": "Kujawy"
         },
         {
-          "id": "de-muenchen-94",
-          "slug": "haidpark",
-          "name": "Haidpark"
+          "id": "pl-krakow-94",
+          "slug": "kurdwanow",
+          "name": "Kurdwanów"
         },
         {
-          "id": "de-muenchen-95",
-          "slug": "hansapark",
-          "name": "Hansapark"
+          "id": "pl-krakow-95",
+          "slug": "las-koscielnicki",
+          "name": "Las Kościelnicki"
         },
         {
-          "id": "de-muenchen-96",
-          "slug": "harlaching",
-          "name": "Harlaching"
+          "id": "pl-krakow-96",
+          "slug": "las-wolski",
+          "name": "Las Wolski"
         },
         {
-          "id": "de-muenchen-97",
-          "slug": "harthof",
-          "name": "Harthof"
+          "id": "pl-krakow-97",
+          "slug": "lasowe-domy",
+          "name": "Lasowe Domy"
         },
         {
-          "id": "de-muenchen-98",
-          "slug": "hartmannshofen",
-          "name": "Hartmannshofen"
+          "id": "pl-krakow-98",
+          "slug": "lasowka",
+          "name": "Lasówka"
         },
         {
-          "id": "de-muenchen-99",
-          "slug": "hasenbergl",
-          "name": "Hasenbergl"
+          "id": "pl-krakow-99",
+          "slug": "lasowka-eska",
+          "name": "Lasówka Łęska"
         },
         {
-          "id": "de-muenchen-100",
-          "slug": "hasenbergl-sud",
-          "name": "Hasenbergl-Süd"
+          "id": "pl-krakow-100",
+          "slug": "lazaret",
+          "name": "Lazaret"
         },
         {
-          "id": "de-muenchen-101",
-          "slug": "herzogpark",
-          "name": "Herzogpark"
+          "id": "pl-krakow-101",
+          "slug": "lesisko",
+          "name": "Lesisko"
         },
         {
-          "id": "de-muenchen-102",
-          "slug": "holzapfelkreuth",
-          "name": "Holzapfelkreuth"
+          "id": "pl-krakow-102",
+          "slug": "lubocza",
+          "name": "Lubocza"
         },
         {
-          "id": "de-muenchen-103",
-          "slug": "isarvorstadt",
-          "name": "Isarvorstadt"
+          "id": "pl-krakow-103",
+          "slug": "lubon",
+          "name": "Luboń"
         },
         {
-          "id": "de-muenchen-104",
-          "slug": "johanneskirchen",
-          "name": "Johanneskirchen"
+          "id": "pl-krakow-104",
+          "slug": "ludwinow",
+          "name": "Ludwinów"
         },
         {
-          "id": "de-muenchen-105",
-          "slug": "josephsburg",
-          "name": "Josephsburg"
+          "id": "pl-krakow-105",
+          "slug": "lusina",
+          "name": "Lusina"
         },
         {
-          "id": "de-muenchen-106",
-          "slug": "junges-quartier-obersendling",
-          "name": "Junges Quartier Obersendling"
+          "id": "pl-krakow-106",
+          "slug": "mae-bonia",
+          "name": "Małe Błonia"
         },
         {
-          "id": "de-muenchen-107",
-          "slug": "kasernenviertel",
-          "name": "Kasernenviertel"
+          "id": "pl-krakow-107",
+          "slug": "meksyk",
+          "name": "Meksyk"
         },
         {
-          "id": "de-muenchen-108",
-          "slug": "kieferngarten",
-          "name": "Kieferngarten"
+          "id": "pl-krakow-108",
+          "slug": "miasteczko-studenckie-agh",
+          "name": "Miasteczko Studenckie AGH"
         },
         {
-          "id": "de-muenchen-109",
-          "slug": "kirchtrudering",
-          "name": "Kirchtrudering"
+          "id": "pl-krakow-109",
+          "slug": "mistrzejowice",
+          "name": "Mistrzejowice"
         },
         {
-          "id": "de-muenchen-110",
-          "slug": "kleinhadern",
-          "name": "Kleinhadern"
+          "id": "pl-krakow-110",
+          "slug": "mogia",
+          "name": "Mogiła"
         },
         {
-          "id": "de-muenchen-111",
-          "slug": "kleinhesselohe",
-          "name": "Kleinhesselohe"
+          "id": "pl-krakow-111",
+          "slug": "mogia-wschod",
+          "name": "Mogiła Wschód"
         },
         {
-          "id": "de-muenchen-112",
-          "slug": "kleinlappen",
-          "name": "Kleinlappen"
+          "id": "pl-krakow-112",
+          "slug": "mydlniki",
+          "name": "Mydlniki"
         },
         {
-          "id": "de-muenchen-113",
-          "slug": "klinikviertel",
-          "name": "Klinikviertel"
+          "id": "pl-krakow-113",
+          "slug": "na-cuplu",
+          "name": "Na Cuplu"
         },
         {
-          "id": "de-muenchen-114",
-          "slug": "kolonie-i",
-          "name": "Kolonie I"
+          "id": "pl-krakow-114",
+          "slug": "na-grobli",
+          "name": "Na Grobli"
         },
         {
-          "id": "de-muenchen-115",
-          "slug": "kreuzhof",
-          "name": "Kreuzhof"
+          "id": "pl-krakow-115",
+          "slug": "nad-potokiem",
+          "name": "Nad Potokiem"
         },
         {
-          "id": "de-muenchen-116",
-          "slug": "kreuzviertel",
-          "name": "Kreuzviertel"
+          "id": "pl-krakow-116",
+          "slug": "niebya",
+          "name": "Niebyła"
         },
         {
-          "id": "de-muenchen-117",
-          "slug": "kriegersiedlung",
-          "name": "Kriegersiedlung"
+          "id": "pl-krakow-117",
+          "slug": "niwy",
+          "name": "Niwy"
         },
         {
-          "id": "de-muenchen-118",
-          "slug": "kulturheim",
-          "name": "Kulturheim"
+          "id": "pl-krakow-118",
+          "slug": "niwy-rybickie",
+          "name": "Niwy Rybickie"
         },
         {
-          "id": "de-muenchen-119",
-          "slug": "kunstareal",
-          "name": "Kunstareal"
+          "id": "pl-krakow-119",
+          "slug": "nowa-huta",
+          "name": "Nowa Huta"
         },
         {
-          "id": "de-muenchen-120",
-          "slug": "kurparksiedlung",
-          "name": "Kurparksiedlung"
+          "id": "pl-krakow-120",
+          "slug": "nowa-wies",
+          "name": "Nowa Wieś"
         },
         {
-          "id": "de-muenchen-121",
-          "slug": "laim",
-          "name": "Laim"
+          "id": "pl-krakow-121",
+          "slug": "nowy-kleparz",
+          "name": "Nowy Kleparz"
         },
         {
-          "id": "de-muenchen-122",
-          "slug": "langwied",
-          "name": "Langwied"
+          "id": "pl-krakow-122",
+          "slug": "nowy-prokocim",
+          "name": "Nowy Prokocim"
         },
         {
-          "id": "de-muenchen-123",
-          "slug": "lehel",
-          "name": "Lehel"
+          "id": "pl-krakow-123",
+          "slug": "nowy-swiat",
+          "name": "Nowy Świat"
         },
         {
-          "id": "de-muenchen-124",
-          "slug": "lerchenau",
-          "name": "Lerchenau"
+          "id": "pl-krakow-124",
+          "slug": "ogrody",
+          "name": "Ogrody"
         },
         {
-          "id": "de-muenchen-125",
-          "slug": "lochhausen",
-          "name": "Lochhausen"
+          "id": "pl-krakow-125",
+          "slug": "ogrody-paszow",
+          "name": "Ogrody Płaszów"
         },
         {
-          "id": "de-muenchen-126",
-          "slug": "ludwigsfeld",
-          "name": "Ludwigsfeld"
+          "id": "pl-krakow-126",
+          "slug": "olsza",
+          "name": "Olsza"
         },
         {
-          "id": "de-muenchen-127",
-          "slug": "ludwigsvorstadt",
-          "name": "Ludwigsvorstadt"
+          "id": "pl-krakow-127",
+          "slug": "olsza-ii",
+          "name": "Olsza II"
         },
         {
-          "id": "de-muenchen-128",
-          "slug": "ludwigsvorstadt-isarvorstadt",
-          "name": "Ludwigsvorstadt-Isarvorstadt"
+          "id": "pl-krakow-128",
+          "slug": "olszanica",
+          "name": "Olszanica"
         },
         {
-          "id": "de-muenchen-129",
-          "slug": "maikafersiedlung",
-          "name": "Maikäfersiedlung"
+          "id": "pl-krakow-129",
+          "slug": "olszyny",
+          "name": "Olszyny"
         },
         {
-          "id": "de-muenchen-130",
-          "slug": "maria-einsiedel",
-          "name": "Maria Einsiedel"
+          "id": "pl-krakow-130",
+          "slug": "opatkowice",
+          "name": "Opatkowice"
         },
         {
-          "id": "de-muenchen-131",
-          "slug": "marsfeld",
-          "name": "Marsfeld"
+          "id": "pl-krakow-131",
+          "slug": "opatkowice-ysa-gora",
+          "name": "Opatkowice-Łysa Góra"
         },
         {
-          "id": "de-muenchen-132",
-          "slug": "mamannbergl",
-          "name": "Maßmannbergl"
+          "id": "pl-krakow-132",
+          "slug": "osiedle-kurdwanow-nowy",
+          "name": "Osiedle \"Kurdwanów Nowy\""
         },
         {
-          "id": "de-muenchen-133",
-          "slug": "maxhof",
-          "name": "Maxhof"
+          "id": "pl-krakow-133",
+          "slug": "osiedle-2-puku-lotniczego",
+          "name": "Osiedle 2 Pułku Lotniczego"
         },
         {
-          "id": "de-muenchen-134",
-          "slug": "maxvorstadt",
-          "name": "Maxvorstadt"
+          "id": "pl-krakow-134",
+          "slug": "osiedle-akademickie",
+          "name": "Osiedle Akademickie"
         },
         {
-          "id": "de-muenchen-135",
-          "slug": "messestadt-riem",
-          "name": "Messestadt Riem"
+          "id": "pl-krakow-135",
+          "slug": "osiedle-albertynskie",
+          "name": "Osiedle Albertyńskie"
         },
         {
-          "id": "de-muenchen-136",
-          "slug": "michaeliburg",
-          "name": "Michaeliburg"
+          "id": "pl-krakow-136",
+          "slug": "osiedle-avia",
+          "name": "Osiedle Avia"
         },
         {
-          "id": "de-muenchen-137",
-          "slug": "milbertshofen",
-          "name": "Milbertshofen"
+          "id": "pl-krakow-137",
+          "slug": "osiedle-bohaterow-wrzesnia",
+          "name": "Osiedle Bohaterów Września"
         },
         {
-          "id": "de-muenchen-138",
-          "slug": "milbertshofen-am-hart",
-          "name": "Milbertshofen-Am Hart"
+          "id": "pl-krakow-138",
+          "slug": "osiedle-centrum-c",
+          "name": "Osiedle Centrum C"
         },
         {
-          "id": "de-muenchen-139",
-          "slug": "mittersendling",
-          "name": "Mittersendling"
+          "id": "pl-krakow-139",
+          "slug": "osiedle-centrum-d",
+          "name": "Osiedle Centrum D"
         },
         {
-          "id": "de-muenchen-140",
-          "slug": "moosach",
-          "name": "Moosach"
+          "id": "pl-krakow-140",
+          "slug": "osiedle-czyzyny",
+          "name": "Osiedle Czyżyny"
         },
         {
-          "id": "de-muenchen-141",
-          "slug": "nederling",
-          "name": "Nederling"
+          "id": "pl-krakow-141",
+          "slug": "osiedle-dywizjonu-303",
+          "name": "Osiedle Dywizjonu 303"
         },
         {
-          "id": "de-muenchen-142",
-          "slug": "neu-friedenheim",
-          "name": "Neu-Friedenheim"
+          "id": "pl-krakow-142",
+          "slug": "osiedle-gorali",
+          "name": "Osiedle Górali"
         },
         {
-          "id": "de-muenchen-143",
-          "slug": "neu-langwied",
-          "name": "Neu-Langwied"
+          "id": "pl-krakow-143",
+          "slug": "osiedle-handlowe",
+          "name": "Osiedle Handlowe"
         },
         {
-          "id": "de-muenchen-144",
-          "slug": "neu-solln",
-          "name": "Neu-Solln"
+          "id": "pl-krakow-144",
+          "slug": "osiedle-hutnicze",
+          "name": "Osiedle Hutnicze"
         },
         {
-          "id": "de-muenchen-145",
-          "slug": "neuaubing",
-          "name": "Neuaubing"
+          "id": "pl-krakow-145",
+          "slug": "osiedle-jagiellonskie",
+          "name": "Osiedle Jagiellońskie"
         },
         {
-          "id": "de-muenchen-146",
-          "slug": "neuforstenried",
-          "name": "Neuforstenried"
+          "id": "pl-krakow-146",
+          "slug": "osiedle-jozefa-strusia",
+          "name": "Osiedle Józefa Strusia"
         },
         {
-          "id": "de-muenchen-147",
-          "slug": "neufreimann",
-          "name": "Neufreimann"
+          "id": "pl-krakow-147",
+          "slug": "osiedle-kazimierzowskie",
+          "name": "Osiedle Kazimierzowskie"
         },
         {
-          "id": "de-muenchen-148",
-          "slug": "neuhadern",
-          "name": "Neuhadern"
+          "id": "pl-krakow-148",
+          "slug": "osiedle-kolejowe",
+          "name": "Osiedle Kolejowe"
         },
         {
-          "id": "de-muenchen-149",
-          "slug": "neuharlaching",
-          "name": "Neuharlaching"
+          "id": "pl-krakow-149",
+          "slug": "osiedle-kolorowe",
+          "name": "Osiedle Kolorowe"
         },
         {
-          "id": "de-muenchen-150",
-          "slug": "neuhausen",
-          "name": "Neuhausen"
+          "id": "pl-krakow-150",
+          "slug": "osiedle-kosciuszkowskie",
+          "name": "Osiedle Kościuszkowskie"
         },
         {
-          "id": "de-muenchen-151",
-          "slug": "neuhausen-nymphenburg",
-          "name": "Neuhausen-Nymphenburg"
+          "id": "pl-krakow-151",
+          "slug": "osiedle-krakowiakow",
+          "name": "Osiedle Krakowiaków"
         },
         {
-          "id": "de-muenchen-152",
-          "slug": "neuherberg",
-          "name": "Neuherberg"
+          "id": "pl-krakow-152",
+          "slug": "osiedle-medykow",
+          "name": "Osiedle Medyków"
         },
         {
-          "id": "de-muenchen-153",
-          "slug": "neulustheim",
-          "name": "Neulustheim"
+          "id": "pl-krakow-153",
+          "slug": "osiedle-na-lotnisku",
+          "name": "Osiedle Na Lotnisku"
         },
         {
-          "id": "de-muenchen-154",
-          "slug": "neupasing",
-          "name": "Neupasing"
+          "id": "pl-krakow-154",
+          "slug": "osiedle-niepodlegosci",
+          "name": "Osiedle Niepodległości"
         },
         {
-          "id": "de-muenchen-155",
-          "slug": "neuperlach",
-          "name": "Neuperlach"
+          "id": "pl-krakow-155",
+          "slug": "osiedle-nowy-biezanow-ponoc",
+          "name": "Osiedle Nowy Bieżanów-Północ"
         },
         {
-          "id": "de-muenchen-156",
-          "slug": "neuschwabing",
-          "name": "Neuschwabing"
+          "id": "pl-krakow-156",
+          "slug": "osiedle-oficerskie",
+          "name": "Osiedle Oficerskie"
         },
         {
-          "id": "de-muenchen-157",
-          "slug": "neutrudering",
-          "name": "Neutrudering"
+          "id": "pl-krakow-157",
+          "slug": "osiedle-orlinskiego",
+          "name": "Osiedle Orlińskiego"
         },
         {
-          "id": "de-muenchen-158",
-          "slug": "nockherberg",
-          "name": "Nockherberg"
+          "id": "pl-krakow-158",
+          "slug": "osiedle-oswiecenia",
+          "name": "Osiedle Oświecenia"
         },
         {
-          "id": "de-muenchen-159",
-          "slug": "nordhaide",
-          "name": "Nordhaide"
+          "id": "pl-krakow-159",
+          "slug": "osiedle-piastow",
+          "name": "Osiedle Piastów"
         },
         {
-          "id": "de-muenchen-160",
-          "slug": "nymphenburg",
-          "name": "Nymphenburg"
+          "id": "pl-krakow-160",
+          "slug": "osiedle-podwawelskie",
+          "name": "Osiedle Podwawelskie"
         },
         {
-          "id": "de-muenchen-161",
-          "slug": "nymphenburg-sud",
-          "name": "Nymphenburg Süd"
+          "id": "pl-krakow-161",
+          "slug": "osiedle-przy-arce",
+          "name": "Osiedle Przy Arce"
         },
         {
-          "id": "de-muenchen-162",
-          "slug": "obere-au",
-          "name": "Obere Au"
+          "id": "pl-krakow-162",
+          "slug": "osiedle-robotnicze",
+          "name": "Osiedle Robotnicze"
         },
         {
-          "id": "de-muenchen-163",
-          "slug": "oberfohring",
-          "name": "Oberföhring"
+          "id": "pl-krakow-163",
+          "slug": "osiedle-ruczaj-zaborze",
+          "name": "Osiedle Ruczaj-Zaborze"
         },
         {
-          "id": "de-muenchen-164",
-          "slug": "obergiesing",
-          "name": "Obergiesing"
+          "id": "pl-krakow-164",
+          "slug": "osiedle-sportowe",
+          "name": "Osiedle Sportowe"
         },
         {
-          "id": "de-muenchen-165",
-          "slug": "obergiesing-fasangarten",
-          "name": "Obergiesing-Fasangarten"
+          "id": "pl-krakow-165",
+          "slug": "osiedle-srebne-uroczysko",
+          "name": "Osiedle Srebne Uroczysko"
         },
         {
-          "id": "de-muenchen-166",
-          "slug": "obermenzing",
-          "name": "Obermenzing"
+          "id": "pl-krakow-166",
+          "slug": "osiedle-stalowe",
+          "name": "Osiedle Stalowe"
         },
         {
-          "id": "de-muenchen-167",
-          "slug": "obersendling",
-          "name": "Obersendling"
+          "id": "pl-krakow-167",
+          "slug": "osiedle-szklane-domy",
+          "name": "Osiedle Szklane Domy"
         },
         {
-          "id": "de-muenchen-168",
-          "slug": "oberwiesenfeld-sud",
-          "name": "Oberwiesenfeld Süd"
+          "id": "pl-krakow-168",
+          "slug": "osiedle-szkolne",
+          "name": "Osiedle Szkolne"
         },
         {
-          "id": "de-muenchen-169",
-          "slug": "olympisches-dorf",
-          "name": "Olympisches Dorf"
+          "id": "pl-krakow-169",
+          "slug": "osiedle-szuwarowa",
+          "name": "Osiedle Szuwarowa"
         },
         {
-          "id": "de-muenchen-170",
-          "slug": "osterreicher-viertel",
-          "name": "Österreicher Viertel"
+          "id": "pl-krakow-170",
+          "slug": "osiedle-soneczne",
+          "name": "Osiedle Słoneczne"
         },
         {
-          "id": "de-muenchen-171",
-          "slug": "osterreicherviertel",
-          "name": "Österreicherviertel"
+          "id": "pl-krakow-171",
+          "slug": "osiedle-teatralne",
+          "name": "Osiedle Teatralne"
         },
         {
-          "id": "de-muenchen-172",
-          "slug": "parkstadt-bogenhausen",
-          "name": "Parkstadt Bogenhausen"
+          "id": "pl-krakow-172",
+          "slug": "osiedle-tysiaclecia",
+          "name": "Osiedle Tysiąclecia"
         },
         {
-          "id": "de-muenchen-173",
-          "slug": "parkstadt-schwabing",
-          "name": "Parkstadt Schwabing"
+          "id": "pl-krakow-173",
+          "slug": "osiedle-urocze",
+          "name": "Osiedle Urocze"
         },
         {
-          "id": "de-muenchen-174",
-          "slug": "parkstadt-solln",
-          "name": "Parkstadt Solln"
+          "id": "pl-krakow-174",
+          "slug": "osiedle-wandy",
+          "name": "Osiedle Wandy"
         },
         {
-          "id": "de-muenchen-175",
-          "slug": "parkstrae",
-          "name": "Parkstraße"
+          "id": "pl-krakow-175",
+          "slug": "osiedle-widok-zarzecze",
+          "name": "Osiedle Widok Zarzecze"
         },
         {
-          "id": "de-muenchen-176",
-          "slug": "parkviertel-giesing",
-          "name": "Parkviertel Giesing"
+          "id": "pl-krakow-176",
+          "slug": "osiedle-willowe",
+          "name": "Osiedle Willowe"
         },
         {
-          "id": "de-muenchen-177",
-          "slug": "pasing",
-          "name": "Pasing"
+          "id": "pl-krakow-177",
+          "slug": "osiedle-wojskowe",
+          "name": "Osiedle Wojskowe"
         },
         {
-          "id": "de-muenchen-178",
-          "slug": "pasing-obermenzing",
-          "name": "Pasing-Obermenzing"
+          "id": "pl-krakow-178",
+          "slug": "osiedle-wolfganga-amadeusa-mozarta",
+          "name": "Osiedle Wolfganga Amadeusa Mozarta"
         },
         {
-          "id": "de-muenchen-179",
-          "slug": "perlach",
-          "name": "Perlach"
+          "id": "pl-krakow-179",
+          "slug": "osiedle-wysokie",
+          "name": "Osiedle Wysokie"
         },
         {
-          "id": "de-muenchen-180",
-          "slug": "pipping",
-          "name": "Pipping"
+          "id": "pl-krakow-180",
+          "slug": "osiedle-za-dworem",
+          "name": "Osiedle za Dworem"
         },
         {
-          "id": "de-muenchen-181",
-          "slug": "postversuchssiedlung",
-          "name": "Postversuchssiedlung"
+          "id": "pl-krakow-181",
+          "slug": "osiedle-za-fortem",
+          "name": "Osiedle Za Fortem"
         },
         {
-          "id": "de-muenchen-182",
-          "slug": "priel",
-          "name": "Priel"
+          "id": "pl-krakow-182",
+          "slug": "osiedle-zgody",
+          "name": "Osiedle Zgody"
         },
         {
-          "id": "de-muenchen-183",
-          "slug": "prinz-eugen-park",
-          "name": "Prinz-Eugen-Park"
+          "id": "pl-krakow-183",
+          "slug": "osiedle-zielone",
+          "name": "Osiedle Zielone"
         },
         {
-          "id": "de-muenchen-184",
-          "slug": "prinz-ludwigs-hohe",
-          "name": "Prinz-Ludwigs-Höhe"
+          "id": "pl-krakow-184",
+          "slug": "osiedle-zotego-wieku",
+          "name": "Osiedle Złotego Wieku"
         },
         {
-          "id": "de-muenchen-185",
-          "slug": "ramersdorf",
-          "name": "Ramersdorf"
+          "id": "pl-krakow-185",
+          "slug": "osiedle-zotej-jesieni",
+          "name": "Osiedle Złotej Jesieni"
         },
         {
-          "id": "de-muenchen-186",
-          "slug": "ramersdorf-perlach",
-          "name": "Ramersdorf-Perlach"
+          "id": "pl-krakow-186",
+          "slug": "pastwiska",
+          "name": "Pastwiska"
         },
         {
-          "id": "de-muenchen-187",
-          "slug": "riem",
-          "name": "Riem"
+          "id": "pl-krakow-187",
+          "slug": "piasek",
+          "name": "Piasek"
         },
         {
-          "id": "de-muenchen-188",
-          "slug": "sankt-emmeram",
-          "name": "Sankt Emmeram"
+          "id": "pl-krakow-188",
+          "slug": "piaski",
+          "name": "Piaski"
         },
         {
-          "id": "de-muenchen-189",
-          "slug": "schonfeldvorstadt",
-          "name": "Schönfeldvorstadt"
+          "id": "pl-krakow-189",
+          "slug": "piaski-nowe",
+          "name": "Piaski Nowe"
         },
         {
-          "id": "de-muenchen-190",
-          "slug": "schwabing",
-          "name": "Schwabing"
+          "id": "pl-krakow-190",
+          "slug": "piaski-wielkie",
+          "name": "Piaski Wielkie"
         },
         {
-          "id": "de-muenchen-191",
-          "slug": "schwabing-freimann",
-          "name": "Schwabing-Freimann"
+          "id": "pl-krakow-191",
+          "slug": "piekieko",
+          "name": "Piekiełko"
         },
         {
-          "id": "de-muenchen-192",
-          "slug": "schwabing-west",
-          "name": "Schwabing-West"
+          "id": "pl-krakow-192",
+          "slug": "pleszow",
+          "name": "Pleszów"
         },
         {
-          "id": "de-muenchen-193",
-          "slug": "schwanthalerhohe",
-          "name": "Schwanthalerhöhe"
+          "id": "pl-krakow-193",
+          "slug": "pod-lasem",
+          "name": "Pod Lasem"
         },
         {
-          "id": "de-muenchen-194",
-          "slug": "sendling",
-          "name": "Sendling"
+          "id": "pl-krakow-194",
+          "slug": "pode-cem",
+          "name": "Pode Cłem"
         },
         {
-          "id": "de-muenchen-195",
-          "slug": "sendling-westpark",
-          "name": "Sendling-Westpark"
+          "id": "pl-krakow-195",
+          "slug": "podedworze",
+          "name": "Podedworze"
         },
         {
-          "id": "de-muenchen-196",
-          "slug": "sendlinger-berg",
-          "name": "Sendlinger Berg"
+          "id": "pl-krakow-196",
+          "slug": "podgorki",
+          "name": "Podgórki"
         },
         {
-          "id": "de-muenchen-197",
-          "slug": "sendlinger-feld",
-          "name": "Sendlinger Feld"
+          "id": "pl-krakow-197",
+          "slug": "podgorki-tynieckie",
+          "name": "Podgórki Tynieckie"
         },
         {
-          "id": "de-muenchen-198",
-          "slug": "siebenbrunn",
-          "name": "Siebenbrunn"
+          "id": "pl-krakow-198",
+          "slug": "podgorze",
+          "name": "Podgórze"
         },
         {
-          "id": "de-muenchen-199",
-          "slug": "siedlung-am-lerchenauer-see",
-          "name": "Siedlung am Lerchenauer See"
+          "id": "pl-krakow-199",
+          "slug": "podgorze-duchackie",
+          "name": "Podgórze Duchackie"
         },
         {
-          "id": "de-muenchen-200",
-          "slug": "siedlung-am-perlacher-forst",
-          "name": "Siedlung am Perlacher Forst"
+          "id": "pl-krakow-200",
+          "slug": "podlesie",
+          "name": "Podlesie"
         },
         {
-          "id": "de-muenchen-201",
-          "slug": "siedlung-kaltherberge",
-          "name": "Siedlung Kaltherberge"
+          "id": "pl-krakow-201",
+          "slug": "podstawie",
+          "name": "Podstawie"
         },
         {
-          "id": "de-muenchen-202",
-          "slug": "siedlung-max-ii",
-          "name": "Siedlung Max II"
+          "id": "pl-krakow-202",
+          "slug": "podwierzbie",
+          "name": "Podwierzbie"
         },
         {
-          "id": "de-muenchen-203",
-          "slug": "siedlung-neuhausen",
-          "name": "Siedlung Neuhausen"
+          "id": "pl-krakow-203",
+          "slug": "pokrzywki",
+          "name": "Pokrzywki"
         },
         {
-          "id": "de-muenchen-204",
-          "slug": "siemens-siedlung",
-          "name": "Siemens-Siedlung"
+          "id": "pl-krakow-204",
+          "slug": "pokrzywnica",
+          "name": "Pokrzywnica"
         },
         {
-          "id": "de-muenchen-205",
-          "slug": "solln",
-          "name": "Solln"
+          "id": "pl-krakow-205",
+          "slug": "pokusa",
+          "name": "Pokusa"
         },
         {
-          "id": "de-muenchen-206",
-          "slug": "st-benno-viertel",
-          "name": "St. Benno-Viertel"
+          "id": "pl-krakow-206",
+          "slug": "poreba",
+          "name": "Poręba"
         },
         {
-          "id": "de-muenchen-207",
-          "slug": "st-vinzenz-viertel",
-          "name": "St. Vinzenz-Viertel"
+          "id": "pl-krakow-207",
+          "slug": "potrzask",
+          "name": "Potrzask"
         },
         {
-          "id": "de-muenchen-208",
-          "slug": "stadelheim",
-          "name": "Stadelheim"
+          "id": "pl-krakow-208",
+          "slug": "powsie-zwierzynieckie",
+          "name": "Półwsie Zwierzynieckie"
         },
         {
-          "id": "de-muenchen-209",
-          "slug": "steinhausen",
-          "name": "Steinhausen"
+          "id": "pl-krakow-209",
+          "slug": "pradnik-biay",
+          "name": "Prądnik Biały"
         },
         {
-          "id": "de-muenchen-210",
-          "slug": "stratrudering",
-          "name": "Straßtrudering"
+          "id": "pl-krakow-210",
+          "slug": "pradnik-czerwony",
+          "name": "Prądnik Czerwony"
         },
         {
-          "id": "de-muenchen-211",
-          "slug": "studentenstadt-freimann",
-          "name": "Studentenstadt Freimann"
+          "id": "pl-krakow-211",
+          "slug": "prokocim",
+          "name": "Prokocim"
         },
         {
-          "id": "de-muenchen-212",
-          "slug": "sudseite",
-          "name": "Südseite"
+          "id": "pl-krakow-212",
+          "slug": "przedmiescie-warszawskie",
+          "name": "Przedmieście Warszawskie"
         },
         {
-          "id": "de-muenchen-213",
-          "slug": "thalkirchen",
-          "name": "Thalkirchen"
+          "id": "pl-krakow-213",
+          "slug": "przegorzay",
+          "name": "Przegorzały"
         },
         {
-          "id": "de-muenchen-214",
-          "slug": "thalkirchen-obersendling-forstenried-furstenried-solln",
-          "name": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+          "id": "pl-krakow-214",
+          "slug": "przewoz",
+          "name": "Przewóz"
         },
         {
-          "id": "de-muenchen-215",
-          "slug": "theresienhohe",
-          "name": "Theresienhöhe"
+          "id": "pl-krakow-215",
+          "slug": "przylasek",
+          "name": "Przylasek"
         },
         {
-          "id": "de-muenchen-216",
-          "slug": "trudering",
-          "name": "Trudering"
+          "id": "pl-krakow-216",
+          "slug": "przylasek-rusiecki",
+          "name": "Przylasek Rusiecki"
         },
         {
-          "id": "de-muenchen-217",
-          "slug": "trudering-riem",
-          "name": "Trudering-Riem"
+          "id": "pl-krakow-217",
+          "slug": "przylasek-wyciaski",
+          "name": "Przylasek Wyciąski"
         },
         {
-          "id": "de-muenchen-218",
-          "slug": "untere-au",
-          "name": "Untere Au"
+          "id": "pl-krakow-218",
+          "slug": "pychowice",
+          "name": "Pychowice"
         },
         {
-          "id": "de-muenchen-219",
-          "slug": "untergiesing",
-          "name": "Untergiesing"
+          "id": "pl-krakow-219",
+          "slug": "paszow",
+          "name": "Płaszów"
         },
         {
-          "id": "de-muenchen-220",
-          "slug": "untergiesing-harlaching",
-          "name": "Untergiesing-Harlaching"
+          "id": "pl-krakow-220",
+          "slug": "rajsko",
+          "name": "Rajsko"
         },
         {
-          "id": "de-muenchen-221",
-          "slug": "untermenzing",
-          "name": "Untermenzing"
+          "id": "pl-krakow-221",
+          "slug": "rakowice",
+          "name": "Rakowice"
         },
         {
-          "id": "de-muenchen-222",
-          "slug": "untersendling",
-          "name": "Untersendling"
+          "id": "pl-krakow-222",
+          "slug": "redzina",
+          "name": "Rędzina"
         },
         {
-          "id": "de-muenchen-223",
-          "slug": "viktoriaviertel",
-          "name": "Viktoriaviertel"
+          "id": "pl-krakow-223",
+          "slug": "rogatka",
+          "name": "Rogatka"
         },
         {
-          "id": "de-muenchen-224",
-          "slug": "villenkolonie-neuwittelsbach",
-          "name": "Villenkolonie Neuwittelsbach"
+          "id": "pl-krakow-224",
+          "slug": "rogatka-warszawska",
+          "name": "Rogatka Warszawska"
         },
         {
-          "id": "de-muenchen-225",
-          "slug": "villenkolonie-pasing-i",
-          "name": "Villenkolonie Pasing I"
+          "id": "pl-krakow-225",
+          "slug": "rogow",
+          "name": "Rogów"
         },
         {
-          "id": "de-muenchen-226",
-          "slug": "villenkolonie-pasing-ii",
-          "name": "Villenkolonie Pasing II"
+          "id": "pl-krakow-226",
+          "slug": "ruczaj",
+          "name": "Ruczaj"
         },
         {
-          "id": "de-muenchen-227",
-          "slug": "villenkolonie-solln",
-          "name": "Villenkolonie Solln"
+          "id": "pl-krakow-227",
+          "slug": "ruszcza",
+          "name": "Ruszcza"
         },
         {
-          "id": "de-muenchen-228",
-          "slug": "waldkolonie-pasing",
-          "name": "Waldkolonie Pasing"
+          "id": "pl-krakow-228",
+          "slug": "rybitwy",
+          "name": "Rybitwy"
         },
         {
-          "id": "de-muenchen-229",
-          "slug": "waldperlach",
-          "name": "Waldperlach"
+          "id": "pl-krakow-229",
+          "slug": "rzaka",
+          "name": "Rżąka"
         },
         {
-          "id": "de-muenchen-230",
-          "slug": "waldtrudering",
-          "name": "Waldtrudering"
+          "id": "pl-krakow-230",
+          "slug": "sadka",
+          "name": "Sadka"
         },
         {
-          "id": "de-muenchen-231",
-          "slug": "werksviertel",
-          "name": "Werksviertel"
+          "id": "pl-krakow-231",
+          "slug": "salwator",
+          "name": "Salwator"
         },
         {
-          "id": "de-muenchen-232",
-          "slug": "westend",
-          "name": "Westend"
+          "id": "pl-krakow-232",
+          "slug": "siarczana-gora",
+          "name": "Siarczana Góra"
         },
         {
-          "id": "de-muenchen-233",
-          "slug": "westkreuz",
-          "name": "Westkreuz"
+          "id": "pl-krakow-233",
+          "slug": "sidzina",
+          "name": "Sidzina"
         },
         {
-          "id": "de-muenchen-234",
-          "slug": "zahnbrechersiedlung",
-          "name": "Zahnbrechersiedlung"
+          "id": "pl-krakow-234",
+          "slug": "sidzina-zagumnie",
+          "name": "Sidzina-Zagumnie"
         },
         {
-          "id": "de-muenchen-235",
-          "slug": "zamdorf",
-          "name": "Zamdorf"
+          "id": "pl-krakow-235",
+          "slug": "sidziska",
+          "name": "Sidziska"
         },
         {
-          "id": "de-muenchen-236",
-          "slug": "zamilapark",
-          "name": "Zamilapark"
+          "id": "pl-krakow-236",
+          "slug": "skotnica",
+          "name": "Skotnica"
+        },
+        {
+          "id": "pl-krakow-237",
+          "slug": "skotniki",
+          "name": "Skotniki"
+        },
+        {
+          "id": "pl-krakow-238",
+          "slug": "skotniki-sieczkowskie",
+          "name": "Skotniki Sieczkowskie"
+        },
+        {
+          "id": "pl-krakow-239",
+          "slug": "soboniowice",
+          "name": "Soboniowice"
+        },
+        {
+          "id": "pl-krakow-240",
+          "slug": "solowki",
+          "name": "Solówki"
+        },
+        {
+          "id": "pl-krakow-241",
+          "slug": "stara-mogia",
+          "name": "Stara Mogiła"
+        },
+        {
+          "id": "pl-krakow-242",
+          "slug": "stara-wies",
+          "name": "Stara Wieś"
+        },
+        {
+          "id": "pl-krakow-243",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
+        },
+        {
+          "id": "pl-krakow-244",
+          "slug": "stare-podgorze",
+          "name": "Stare Podgórze"
+        },
+        {
+          "id": "pl-krakow-245",
+          "slug": "stare-wislisko",
+          "name": "Stare Wiślisko"
+        },
+        {
+          "id": "pl-krakow-246",
+          "slug": "stradom",
+          "name": "Stradom"
+        },
+        {
+          "id": "pl-krakow-247",
+          "slug": "strekowka",
+          "name": "Strękówka"
+        },
+        {
+          "id": "pl-krakow-248",
+          "slug": "stryjow",
+          "name": "Stryjów"
+        },
+        {
+          "id": "pl-krakow-249",
+          "slug": "swoszowice",
+          "name": "Swoszowice"
+        },
+        {
+          "id": "pl-krakow-250",
+          "slug": "szafranskie",
+          "name": "Szafrańskie"
+        },
+        {
+          "id": "pl-krakow-251",
+          "slug": "szutry",
+          "name": "Szutry"
+        },
+        {
+          "id": "pl-krakow-252",
+          "slug": "szwaby",
+          "name": "Szwaby"
+        },
+        {
+          "id": "pl-krakow-253",
+          "slug": "tonie",
+          "name": "Tonie"
+        },
+        {
+          "id": "pl-krakow-254",
+          "slug": "tyniec",
+          "name": "Tyniec"
+        },
+        {
+          "id": "pl-krakow-255",
+          "slug": "ugorek",
+          "name": "Ugorek"
+        },
+        {
+          "id": "pl-krakow-256",
+          "slug": "uzdrowisko-swoszowice",
+          "name": "Uzdrowisko Swoszowice"
+        },
+        {
+          "id": "pl-krakow-257",
+          "slug": "wadow",
+          "name": "Wadów"
+        },
+        {
+          "id": "pl-krakow-258",
+          "slug": "wegrzynowice",
+          "name": "Węgrzynowice"
+        },
+        {
+          "id": "pl-krakow-259",
+          "slug": "wesoa",
+          "name": "Wesoła"
+        },
+        {
+          "id": "pl-krakow-260",
+          "slug": "wesoa-i",
+          "name": "Wesoła I"
+        },
+        {
+          "id": "pl-krakow-261",
+          "slug": "wesoa-ii",
+          "name": "Wesoła II"
+        },
+        {
+          "id": "pl-krakow-262",
+          "slug": "wiatrowskie",
+          "name": "Wiatrowskie"
+        },
+        {
+          "id": "pl-krakow-263",
+          "slug": "wieczysta",
+          "name": "Wieczysta"
+        },
+        {
+          "id": "pl-krakow-264",
+          "slug": "wisniowa",
+          "name": "Wiśniowa"
+        },
+        {
+          "id": "pl-krakow-265",
+          "slug": "witkowice",
+          "name": "Witkowice"
+        },
+        {
+          "id": "pl-krakow-266",
+          "slug": "wodka",
+          "name": "Wodka"
+        },
+        {
+          "id": "pl-krakow-267",
+          "slug": "wola-duchacka",
+          "name": "Wola Duchacka"
+        },
+        {
+          "id": "pl-krakow-268",
+          "slug": "wola-justowska",
+          "name": "Wola Justowska"
+        },
+        {
+          "id": "pl-krakow-269",
+          "slug": "wola-rusiecka",
+          "name": "Wola Rusiecka"
+        },
+        {
+          "id": "pl-krakow-270",
+          "slug": "wolica",
+          "name": "Wolica"
+        },
+        {
+          "id": "pl-krakow-271",
+          "slug": "wroblowice",
+          "name": "Wróblowice"
+        },
+        {
+          "id": "pl-krakow-272",
+          "slug": "wrozenice",
+          "name": "Wróżenice"
+        },
+        {
+          "id": "pl-krakow-273",
+          "slug": "wyciaze",
+          "name": "Wyciąże"
+        },
+        {
+          "id": "pl-krakow-274",
+          "slug": "wzgorza-krzesawickie",
+          "name": "Wzgórza Krzesławickie"
+        },
+        {
+          "id": "pl-krakow-275",
+          "slug": "za-osiedlem",
+          "name": "Za Osiedlem"
+        },
+        {
+          "id": "pl-krakow-276",
+          "slug": "zabiniec",
+          "name": "Żabiniec"
+        },
+        {
+          "id": "pl-krakow-277",
+          "slug": "zaborze",
+          "name": "Zaborze"
+        },
+        {
+          "id": "pl-krakow-278",
+          "slug": "zabocie",
+          "name": "Zabłocie"
+        },
+        {
+          "id": "pl-krakow-279",
+          "slug": "zadeby",
+          "name": "Zadęby"
+        },
+        {
+          "id": "pl-krakow-280",
+          "slug": "zadworze",
+          "name": "Zadworze"
+        },
+        {
+          "id": "pl-krakow-281",
+          "slug": "zagorze",
+          "name": "Zagórze"
+        },
+        {
+          "id": "pl-krakow-282",
+          "slug": "zagrody",
+          "name": "Zagrody"
+        },
+        {
+          "id": "pl-krakow-283",
+          "slug": "zagumnie",
+          "name": "Zagumnie"
+        },
+        {
+          "id": "pl-krakow-284",
+          "slug": "zakamycze",
+          "name": "Zakamycze"
+        },
+        {
+          "id": "pl-krakow-285",
+          "slug": "zakarczmie",
+          "name": "Zakarczmie"
+        },
+        {
+          "id": "pl-krakow-286",
+          "slug": "zakrzowek",
+          "name": "Zakrzówek"
+        },
+        {
+          "id": "pl-krakow-287",
+          "slug": "zalesie",
+          "name": "Zalesie"
+        },
+        {
+          "id": "pl-krakow-288",
+          "slug": "zalew-nowohucki",
+          "name": "Zalew Nowohucki"
+        },
+        {
+          "id": "pl-krakow-289",
+          "slug": "zamynie",
+          "name": "Zamłynie"
+        },
+        {
+          "id": "pl-krakow-290",
+          "slug": "zapiaski",
+          "name": "Zapiaski"
+        },
+        {
+          "id": "pl-krakow-291",
+          "slug": "zapusta",
+          "name": "Zapusta"
+        },
+        {
+          "id": "pl-krakow-292",
+          "slug": "zasady",
+          "name": "Zasady"
+        },
+        {
+          "id": "pl-krakow-293",
+          "slug": "zatyka",
+          "name": "Zatyka"
+        },
+        {
+          "id": "pl-krakow-294",
+          "slug": "zawodzie",
+          "name": "Zawodzie"
+        },
+        {
+          "id": "pl-krakow-295",
+          "slug": "zawsie",
+          "name": "Zawsie"
+        },
+        {
+          "id": "pl-krakow-296",
+          "slug": "zaecze",
+          "name": "Załęcze"
+        },
+        {
+          "id": "pl-krakow-297",
+          "slug": "zbydniowice",
+          "name": "Zbydniowice"
+        },
+        {
+          "id": "pl-krakow-298",
+          "slug": "zesawice",
+          "name": "Zesławice"
+        },
+        {
+          "id": "pl-krakow-299",
+          "slug": "zwierzyniec",
+          "name": "Zwierzyniec"
+        },
+        {
+          "id": "pl-krakow-300",
+          "slug": "zocien",
+          "name": "Złocień"
+        },
+        {
+          "id": "pl-krakow-301",
+          "slug": "agiewniki",
+          "name": "Łagiewniki"
+        },
+        {
+          "id": "pl-krakow-302",
+          "slug": "agiewniki-borek-faecki",
+          "name": "Łagiewniki-Borek Fałęcki"
+        },
+        {
+          "id": "pl-krakow-303",
+          "slug": "azy-polnocne",
+          "name": "Łazy Pólnocne"
+        },
+        {
+          "id": "pl-krakow-304",
+          "slug": "eg",
+          "name": "Łęg"
+        },
+        {
+          "id": "pl-krakow-305",
+          "slug": "obzow",
+          "name": "Łobzów"
+        },
+        {
+          "id": "pl-krakow-306",
+          "slug": "uczanowice",
+          "name": "Łuczanowice"
+        },
+        {
+          "id": "pl-krakow-307",
+          "slug": "utnia",
+          "name": "Łutnia"
+        },
+        {
+          "id": "pl-krakow-308",
+          "slug": "ysa-gora",
+          "name": "Łysa Góra"
         }
       ]
     },
     {
-      "id": "de-hamburg",
-      "country_code": "DE",
-      "slug": "hamburg",
-      "name": "Hamburg",
-      "region": "Hamburg",
-      "description": "Hamburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-wroclaw",
+      "country_code": "PL",
+      "slug": "wroclaw",
+      "name": "Wrocław",
+      "region": "Dolnośląskie",
+      "description": "Wrocław: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-3.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-hamburg-1",
-          "slug": "allermohe",
-          "name": "Allermöhe"
+          "id": "pl-wroclaw-1",
+          "slug": "bartoszowice",
+          "name": "Bartoszowice"
         },
         {
-          "id": "de-hamburg-2",
-          "slug": "alsterdorf",
-          "name": "Alsterdorf"
+          "id": "pl-wroclaw-2",
+          "slug": "bienkowice",
+          "name": "Bieńkowice"
         },
         {
-          "id": "de-hamburg-3",
-          "slug": "altengamme",
-          "name": "Altengamme"
+          "id": "pl-wroclaw-3",
+          "slug": "bierdzany",
+          "name": "Bierdzany"
         },
         {
-          "id": "de-hamburg-4",
-          "slug": "altenwerder",
-          "name": "Altenwerder"
+          "id": "pl-wroclaw-4",
+          "slug": "biskupin",
+          "name": "Biskupin"
         },
         {
-          "id": "de-hamburg-5",
-          "slug": "altona",
-          "name": "Altona"
+          "id": "pl-wroclaw-5",
+          "slug": "biskupin-sepolno-dabie-bartoszowice",
+          "name": "Biskupin-Sępolno-Dąbie-Bartoszowice"
         },
         {
-          "id": "de-hamburg-6",
-          "slug": "altona-altstadt",
-          "name": "Altona-Altstadt"
+          "id": "pl-wroclaw-6",
+          "slug": "borek",
+          "name": "Borek"
         },
         {
-          "id": "de-hamburg-7",
-          "slug": "altona-nord",
-          "name": "Altona-Nord"
+          "id": "pl-wroclaw-7",
+          "slug": "brochow",
+          "name": "Brochów"
         },
         {
-          "id": "de-hamburg-8",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-wroclaw-8",
+          "slug": "dabie",
+          "name": "Dąbie"
         },
         {
-          "id": "de-hamburg-9",
-          "slug": "altwiedenthal",
-          "name": "Altwiedenthal"
+          "id": "pl-wroclaw-9",
+          "slug": "dzielnica-czterech-wyznan",
+          "name": "Dzielnica Czterech Wyznań"
         },
         {
-          "id": "de-hamburg-10",
-          "slug": "bahrenfeld",
-          "name": "Bahrenfeld"
+          "id": "pl-wroclaw-10",
+          "slug": "gadow",
+          "name": "Gądów"
         },
         {
-          "id": "de-hamburg-11",
-          "slug": "barmbek-nord",
-          "name": "Barmbek-Nord"
+          "id": "pl-wroclaw-11",
+          "slug": "gadow-popowice-poudniowe",
+          "name": "Gądów-Popowice Południowe"
         },
         {
-          "id": "de-hamburg-12",
-          "slug": "barmbek-sud",
-          "name": "Barmbek-Süd"
+          "id": "pl-wroclaw-12",
+          "slug": "gaj",
+          "name": "Gaj"
         },
         {
-          "id": "de-hamburg-13",
-          "slug": "barmwisch",
-          "name": "Barmwisch"
+          "id": "pl-wroclaw-13",
+          "slug": "gajowice",
+          "name": "Gajowice"
         },
         {
-          "id": "de-hamburg-14",
-          "slug": "bergedorf",
-          "name": "Bergedorf"
+          "id": "pl-wroclaw-14",
+          "slug": "glinianki",
+          "name": "Glinianki"
         },
         {
-          "id": "de-hamburg-15",
-          "slug": "bergedorf-west",
-          "name": "Bergedorf-West"
+          "id": "pl-wroclaw-15",
+          "slug": "grabiszyn",
+          "name": "Grabiszyn"
         },
         {
-          "id": "de-hamburg-16",
-          "slug": "bergstedt",
-          "name": "Bergstedt"
+          "id": "pl-wroclaw-16",
+          "slug": "grabiszyn-grabiszynek",
+          "name": "Grabiszyn-Grabiszynek"
         },
         {
-          "id": "de-hamburg-17",
-          "slug": "berne",
-          "name": "Berne"
+          "id": "pl-wroclaw-17",
+          "slug": "grabiszynek",
+          "name": "Grabiszynek"
         },
         {
-          "id": "de-hamburg-18",
-          "slug": "billbrook",
-          "name": "Billbrook"
+          "id": "pl-wroclaw-18",
+          "slug": "huby",
+          "name": "Huby"
         },
         {
-          "id": "de-hamburg-19",
-          "slug": "billstedt",
-          "name": "Billstedt"
+          "id": "pl-wroclaw-19",
+          "slug": "jagodno",
+          "name": "Jagodno"
         },
         {
-          "id": "de-hamburg-20",
-          "slug": "billwerder",
-          "name": "Billwerder"
+          "id": "pl-wroclaw-20",
+          "slug": "janowek",
+          "name": "Janówek"
         },
         {
-          "id": "de-hamburg-21",
-          "slug": "blankenese",
-          "name": "Blankenese"
+          "id": "pl-wroclaw-21",
+          "slug": "jarnotow",
+          "name": "Jarnołtów"
         },
         {
-          "id": "de-hamburg-22",
-          "slug": "borgfelde",
-          "name": "Borgfelde"
+          "id": "pl-wroclaw-22",
+          "slug": "jerzmanowo",
+          "name": "Jerzmanowo"
         },
         {
-          "id": "de-hamburg-23",
-          "slug": "bostelbek",
-          "name": "Bostelbek"
+          "id": "pl-wroclaw-23",
+          "slug": "jerzmanowo-jarnotow-strachowice-osiniec",
+          "name": "Jerzmanowo-Jarnołtów-Strachowice-Osiniec"
         },
         {
-          "id": "de-hamburg-24",
-          "slug": "bramfeld",
-          "name": "Bramfeld"
+          "id": "pl-wroclaw-24",
+          "slug": "karowice",
+          "name": "Karłowice"
         },
         {
-          "id": "de-hamburg-25",
-          "slug": "cranz",
-          "name": "Cranz"
+          "id": "pl-wroclaw-25",
+          "slug": "karowice-rozanka",
+          "name": "Karłowice-Różanka"
         },
         {
-          "id": "de-hamburg-26",
-          "slug": "curslack",
-          "name": "Curslack"
+          "id": "pl-wroclaw-26",
+          "slug": "klecina",
+          "name": "Klecina"
         },
         {
-          "id": "de-hamburg-27",
-          "slug": "dulsberg",
-          "name": "Dulsberg"
+          "id": "pl-wroclaw-27",
+          "slug": "kleczkow",
+          "name": "Kleczków"
         },
         {
-          "id": "de-hamburg-28",
-          "slug": "duvenstedt",
-          "name": "Duvenstedt"
+          "id": "pl-wroclaw-28",
+          "slug": "kolonia-marszowice",
+          "name": "Kolonia Marszowice"
         },
         {
-          "id": "de-hamburg-29",
-          "slug": "eidelstedt",
-          "name": "Eidelstedt"
+          "id": "pl-wroclaw-29",
+          "slug": "kowale",
+          "name": "Kowale"
         },
         {
-          "id": "de-hamburg-30",
-          "slug": "eilbek",
-          "name": "Eilbek"
+          "id": "pl-wroclaw-30",
+          "slug": "kozanow",
+          "name": "Kozanów"
         },
         {
-          "id": "de-hamburg-31",
-          "slug": "eimsbuttel",
-          "name": "Eimsbüttel"
+          "id": "pl-wroclaw-31",
+          "slug": "krzyki",
+          "name": "Krzyki"
         },
         {
-          "id": "de-hamburg-32",
-          "slug": "eiendorf",
-          "name": "Eißendorf"
+          "id": "pl-wroclaw-32",
+          "slug": "krzyki-partynice",
+          "name": "Krzyki-Partynice"
         },
         {
-          "id": "de-hamburg-33",
-          "slug": "eppendorf",
-          "name": "Eppendorf"
+          "id": "pl-wroclaw-33",
+          "slug": "ksieze",
+          "name": "Księże"
         },
         {
-          "id": "de-hamburg-34",
-          "slug": "falkenried-terrassen",
-          "name": "Falkenried-Terrassen"
+          "id": "pl-wroclaw-34",
+          "slug": "ksieze-mae",
+          "name": "Księże Małe"
         },
         {
-          "id": "de-hamburg-35",
-          "slug": "farmsen-berne",
-          "name": "Farmsen-Berne"
+          "id": "pl-wroclaw-35",
+          "slug": "ksieze-wielkie",
+          "name": "Księże Wielkie"
         },
         {
-          "id": "de-hamburg-36",
-          "slug": "finkenwerder",
-          "name": "Finkenwerder"
+          "id": "pl-wroclaw-36",
+          "slug": "kuzniki",
+          "name": "Kuźniki"
         },
         {
-          "id": "de-hamburg-37",
-          "slug": "fischbek",
-          "name": "Fischbek"
+          "id": "pl-wroclaw-37",
+          "slug": "kokoczyce",
+          "name": "Kłokoczyce"
         },
         {
-          "id": "de-hamburg-38",
-          "slug": "fischbeker-heidbrook",
-          "name": "Fischbeker Heidbrook"
+          "id": "pl-wroclaw-38",
+          "slug": "lamowice-stare",
+          "name": "Lamowice Stare"
         },
         {
-          "id": "de-hamburg-39",
-          "slug": "flusseviertel",
-          "name": "Flüsseviertel"
+          "id": "pl-wroclaw-39",
+          "slug": "lesica",
+          "name": "Lesica"
         },
         {
-          "id": "de-hamburg-40",
-          "slug": "francop",
-          "name": "Francop"
+          "id": "pl-wroclaw-40",
+          "slug": "lesnica",
+          "name": "Leśnica"
         },
         {
-          "id": "de-hamburg-41",
-          "slug": "fuhlsbuttel",
-          "name": "Fuhlsbüttel"
+          "id": "pl-wroclaw-41",
+          "slug": "ligota",
+          "name": "Ligota"
         },
         {
-          "id": "de-hamburg-42",
-          "slug": "gartenstadt-berne",
-          "name": "Gartenstadt Berne"
+          "id": "pl-wroclaw-42",
+          "slug": "lipa-piotrowska",
+          "name": "Lipa Piotrowska"
         },
         {
-          "id": "de-hamburg-43",
-          "slug": "gartenstadt-farmsen",
-          "name": "Gartenstadt Farmsen"
+          "id": "pl-wroclaw-43",
+          "slug": "manhattan",
+          "name": "Manhattan"
         },
         {
-          "id": "de-hamburg-44",
-          "slug": "gartenstadt-hohnerkamp",
-          "name": "Gartenstadt Hohnerkamp"
+          "id": "pl-wroclaw-44",
+          "slug": "marszowice",
+          "name": "Marszowice"
         },
         {
-          "id": "de-hamburg-45",
-          "slug": "gro-borstel",
-          "name": "Groß Borstel"
+          "id": "pl-wroclaw-45",
+          "slug": "maslice",
+          "name": "Maślice"
         },
         {
-          "id": "de-hamburg-46",
-          "slug": "gro-flottbek",
-          "name": "Groß Flottbek"
+          "id": "pl-wroclaw-46",
+          "slug": "maslice-mae",
+          "name": "Maślice Małe"
         },
         {
-          "id": "de-hamburg-47",
-          "slug": "gut-moor",
-          "name": "Gut Moor"
+          "id": "pl-wroclaw-47",
+          "slug": "maslice-wielkie",
+          "name": "Maślice Wielkie"
         },
         {
-          "id": "de-hamburg-48",
-          "slug": "hafencity",
-          "name": "HafenCity"
+          "id": "pl-wroclaw-48",
+          "slug": "mirowiec",
+          "name": "Mirowiec"
         },
         {
-          "id": "de-hamburg-49",
-          "slug": "hamburg-mitte",
-          "name": "Hamburg-Mitte"
+          "id": "pl-wroclaw-49",
+          "slug": "miostow",
+          "name": "Miłostów"
         },
         {
-          "id": "de-hamburg-50",
-          "slug": "hamburg-nord",
-          "name": "Hamburg-Nord"
+          "id": "pl-wroclaw-50",
+          "slug": "mokra",
+          "name": "Mokra"
         },
         {
-          "id": "de-hamburg-51",
-          "slug": "hamm",
-          "name": "Hamm"
+          "id": "pl-wroclaw-51",
+          "slug": "muchobor-may",
+          "name": "Muchobór Mały"
         },
         {
-          "id": "de-hamburg-52",
-          "slug": "hammerbrook",
-          "name": "Hammerbrook"
+          "id": "pl-wroclaw-52",
+          "slug": "muchobor-wielki",
+          "name": "Muchobór Wielki"
         },
         {
-          "id": "de-hamburg-53",
-          "slug": "harburg",
-          "name": "Harburg"
+          "id": "pl-wroclaw-53",
+          "slug": "nadodrze",
+          "name": "Nadodrze"
         },
         {
-          "id": "de-hamburg-54",
-          "slug": "harvestehude",
-          "name": "Harvestehude"
+          "id": "pl-wroclaw-54",
+          "slug": "nowa-karczma",
+          "name": "Nowa Karczma"
         },
         {
-          "id": "de-hamburg-55",
-          "slug": "hausbruch",
-          "name": "Hausbruch"
+          "id": "pl-wroclaw-55",
+          "slug": "nowe-lamowice",
+          "name": "Nowe Lamowice"
         },
         {
-          "id": "de-hamburg-56",
-          "slug": "heimfeld",
-          "name": "Heimfeld"
+          "id": "pl-wroclaw-56",
+          "slug": "nowe-zerniki",
+          "name": "Nowe Żerniki"
         },
         {
-          "id": "de-hamburg-57",
-          "slug": "hoheluft-ost",
-          "name": "Hoheluft-Ost"
+          "id": "pl-wroclaw-57",
+          "slug": "nowy-dom",
+          "name": "Nowy Dom"
         },
         {
-          "id": "de-hamburg-58",
-          "slug": "hoheluft-west",
-          "name": "Hoheluft-West"
+          "id": "pl-wroclaw-58",
+          "slug": "nowy-dwor",
+          "name": "Nowy Dwór"
         },
         {
-          "id": "de-hamburg-59",
-          "slug": "hohenfelde",
-          "name": "Hohenfelde"
+          "id": "pl-wroclaw-59",
+          "slug": "opatowice",
+          "name": "Opatowice"
         },
         {
-          "id": "de-hamburg-60",
-          "slug": "hohenhorst",
-          "name": "Hohenhorst"
+          "id": "pl-wroclaw-60",
+          "slug": "oporow",
+          "name": "Oporów"
         },
         {
-          "id": "de-hamburg-61",
-          "slug": "horn",
-          "name": "Horn"
+          "id": "pl-wroclaw-61",
+          "slug": "osiedle-bolesawa-krzywoustego",
+          "name": "Osiedle Bolesława Krzywoustego"
         },
         {
-          "id": "de-hamburg-62",
-          "slug": "horner-geest",
-          "name": "Horner Geest"
+          "id": "pl-wroclaw-62",
+          "slug": "osiedle-jana-iii-sobieskiego",
+          "name": "Osiedle Jana III Sobieskiego"
         },
         {
-          "id": "de-hamburg-63",
-          "slug": "hummelsbuttel",
-          "name": "Hummelsbüttel"
+          "id": "pl-wroclaw-63",
+          "slug": "osiedle-kosmonautow",
+          "name": "Osiedle Kosmonautów"
         },
         {
-          "id": "de-hamburg-64",
-          "slug": "iserbrook",
-          "name": "Iserbrook"
+          "id": "pl-wroclaw-64",
+          "slug": "osiedle-wilanowskie",
+          "name": "Osiedle Wilanowskie"
         },
         {
-          "id": "de-hamburg-65",
-          "slug": "jarrestadt",
-          "name": "Jarrestadt"
+          "id": "pl-wroclaw-65",
+          "slug": "osiniec",
+          "name": "Osiniec"
         },
         {
-          "id": "de-hamburg-66",
-          "slug": "jenfeld",
-          "name": "Jenfeld"
+          "id": "pl-wroclaw-66",
+          "slug": "osobowice",
+          "name": "Osobowice"
         },
         {
-          "id": "de-hamburg-67",
-          "slug": "karolinenviertel",
-          "name": "Karolinenviertel"
+          "id": "pl-wroclaw-67",
+          "slug": "osobowice-redzin",
+          "name": "Osobowice-Rędzin"
         },
         {
-          "id": "de-hamburg-68",
-          "slug": "kirchwerder",
-          "name": "Kirchwerder"
+          "id": "pl-wroclaw-68",
+          "slug": "ostrow-tumski",
+          "name": "Ostrów Tumski"
         },
         {
-          "id": "de-hamburg-69",
-          "slug": "kleiner-grasbrook",
-          "name": "Kleiner Grasbrook"
+          "id": "pl-wroclaw-69",
+          "slug": "obin",
+          "name": "Ołbin"
         },
         {
-          "id": "de-hamburg-70",
-          "slug": "kolbenhofe",
-          "name": "Kolbenhöfe"
+          "id": "pl-wroclaw-70",
+          "slug": "otaszyn",
+          "name": "Ołtaszyn"
         },
         {
-          "id": "de-hamburg-71",
-          "slug": "langenbek",
-          "name": "Langenbek"
+          "id": "pl-wroclaw-71",
+          "slug": "partynice",
+          "name": "Partynice"
         },
         {
-          "id": "de-hamburg-72",
-          "slug": "langenhorn",
-          "name": "Langenhorn"
+          "id": "pl-wroclaw-72",
+          "slug": "pawowice",
+          "name": "Pawłowice"
         },
         {
-          "id": "de-hamburg-73",
-          "slug": "lemsahl-mellingstedt",
-          "name": "Lemsahl-Mellingstedt"
+          "id": "pl-wroclaw-73",
+          "slug": "pilczyce",
+          "name": "Pilczyce"
         },
         {
-          "id": "de-hamburg-74",
-          "slug": "lenzsiedlung",
-          "name": "Lenzsiedlung"
+          "id": "pl-wroclaw-74",
+          "slug": "pilczyce-kozanow-popowice-ponocne",
+          "name": "Pilczyce-Kozanów-Popowice Północne"
         },
         {
-          "id": "de-hamburg-75",
-          "slug": "lohbrugge",
-          "name": "Lohbrügge"
+          "id": "pl-wroclaw-75",
+          "slug": "plac-grunwaldzki",
+          "name": "Plac Grunwaldzki"
         },
         {
-          "id": "de-hamburg-76",
-          "slug": "lohbrugge-nord",
-          "name": "Lohbrügge-Nord"
+          "id": "pl-wroclaw-76",
+          "slug": "polanka",
+          "name": "Polanka"
         },
         {
-          "id": "de-hamburg-77",
-          "slug": "lokstedt",
-          "name": "Lokstedt"
+          "id": "pl-wroclaw-77",
+          "slug": "polanowice",
+          "name": "Polanowice"
         },
         {
-          "id": "de-hamburg-78",
-          "slug": "lurade",
-          "name": "Lürade"
+          "id": "pl-wroclaw-78",
+          "slug": "polanowice-poswietne-ligota",
+          "name": "Polanowice-Poświętne-Ligota"
         },
         {
-          "id": "de-hamburg-79",
-          "slug": "lurup",
-          "name": "Lurup"
+          "id": "pl-wroclaw-79",
+          "slug": "popowice",
+          "name": "Popowice"
         },
         {
-          "id": "de-hamburg-80",
-          "slug": "marienthal",
-          "name": "Marienthal"
+          "id": "pl-wroclaw-80",
+          "slug": "popowice-ponocne",
+          "name": "Popowice Północne"
         },
         {
-          "id": "de-hamburg-81",
-          "slug": "marina-auf-der-schlossinsel",
-          "name": "Marina auf der Schlossinsel"
+          "id": "pl-wroclaw-81",
+          "slug": "popowice-poudniowe",
+          "name": "Popowice Południowe"
         },
         {
-          "id": "de-hamburg-82",
-          "slug": "marmstorf",
-          "name": "Marmstorf"
+          "id": "pl-wroclaw-82",
+          "slug": "poswietne",
+          "name": "Poświętne"
         },
         {
-          "id": "de-hamburg-83",
-          "slug": "max-brauer-quartier",
-          "name": "Max-Brauer-Quartier"
+          "id": "pl-wroclaw-83",
+          "slug": "powstancow-slaskich",
+          "name": "Powstańców Śląskich"
         },
         {
-          "id": "de-hamburg-84",
-          "slug": "meiendorf",
-          "name": "Meiendorf"
+          "id": "pl-wroclaw-84",
+          "slug": "pracze-odrzanskie",
+          "name": "Pracze Odrzańskie"
         },
         {
-          "id": "de-hamburg-85",
-          "slug": "moldauhafenquartier",
-          "name": "Moldauhafenquartier"
+          "id": "pl-wroclaw-85",
+          "slug": "pracze-widawskie",
+          "name": "Pracze Widawskie"
         },
         {
-          "id": "de-hamburg-86",
-          "slug": "moorburg",
-          "name": "Moorburg"
+          "id": "pl-wroclaw-86",
+          "slug": "przedmiescie-oawskie",
+          "name": "Przedmieście Oławskie"
         },
         {
-          "id": "de-hamburg-87",
-          "slug": "moorfleet",
-          "name": "Moorfleet"
+          "id": "pl-wroclaw-87",
+          "slug": "przedmiescie-swidnickie",
+          "name": "Przedmieście Świdnickie"
         },
         {
-          "id": "de-hamburg-88",
-          "slug": "mummelmannsberg",
-          "name": "Mümmelmannsberg"
+          "id": "pl-wroclaw-88",
+          "slug": "psie-pole",
+          "name": "Psie Pole"
         },
         {
-          "id": "de-hamburg-89",
-          "slug": "nettelnburg",
-          "name": "Nettelnburg"
+          "id": "pl-wroclaw-89",
+          "slug": "psie-pole-zawidawie",
+          "name": "Psie Pole-Zawidawie"
         },
         {
-          "id": "de-hamburg-90",
-          "slug": "neuallermohe",
-          "name": "Neuallermöhe"
+          "id": "pl-wroclaw-90",
+          "slug": "pustki",
+          "name": "Pustki"
         },
         {
-          "id": "de-hamburg-91",
-          "slug": "neuallermohe-ost",
-          "name": "Neuallermöhe-Ost"
+          "id": "pl-wroclaw-91",
+          "slug": "rakowiec",
+          "name": "Rakowiec"
         },
         {
-          "id": "de-hamburg-92",
-          "slug": "neuallermohe-west",
-          "name": "Neuallermöhe-West"
+          "id": "pl-wroclaw-92",
+          "slug": "ratyn",
+          "name": "Ratyń"
         },
         {
-          "id": "de-hamburg-93",
-          "slug": "neuenfelde",
-          "name": "Neuenfelde"
+          "id": "pl-wroclaw-93",
+          "slug": "redzin",
+          "name": "Rędzin"
         },
         {
-          "id": "de-hamburg-94",
-          "slug": "neuengamme",
-          "name": "Neuengamme"
+          "id": "pl-wroclaw-94",
+          "slug": "rozanka",
+          "name": "Różanka"
         },
         {
-          "id": "de-hamburg-95",
-          "slug": "neugraben",
-          "name": "Neugraben"
+          "id": "pl-wroclaw-95",
+          "slug": "sepolno",
+          "name": "Sępolno"
         },
         {
-          "id": "de-hamburg-96",
-          "slug": "neugraben-fischbek",
-          "name": "Neugraben-Fischbek"
+          "id": "pl-wroclaw-96",
+          "slug": "siedlec",
+          "name": "Siedlec"
         },
         {
-          "id": "de-hamburg-97",
-          "slug": "neuland",
-          "name": "Neuland"
+          "id": "pl-wroclaw-97",
+          "slug": "sotysowice",
+          "name": "Sołtysowice"
         },
         {
-          "id": "de-hamburg-98",
-          "slug": "neustadt",
-          "name": "Neustadt"
+          "id": "pl-wroclaw-98",
+          "slug": "stabowice",
+          "name": "Stabłowice"
         },
         {
-          "id": "de-hamburg-99",
-          "slug": "neuwerk",
-          "name": "Neuwerk"
+          "id": "pl-wroclaw-99",
+          "slug": "stabowice-nowe",
+          "name": "Stabłowice Nowe"
         },
         {
-          "id": "de-hamburg-100",
-          "slug": "neuwiedenthal",
-          "name": "Neuwiedenthal"
+          "id": "pl-wroclaw-100",
+          "slug": "stabowice-stare",
+          "name": "Stabłowice Stare"
         },
         {
-          "id": "de-hamburg-101",
-          "slug": "niendorf",
-          "name": "Niendorf"
+          "id": "pl-wroclaw-101",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
         },
         {
-          "id": "de-hamburg-102",
-          "slug": "nienstedten",
-          "name": "Nienstedten"
+          "id": "pl-wroclaw-102",
+          "slug": "strachocin",
+          "name": "Strachocin"
         },
         {
-          "id": "de-hamburg-103",
-          "slug": "oberbillwerder",
-          "name": "Oberbillwerder"
+          "id": "pl-wroclaw-103",
+          "slug": "strachocin-swojczyce-wojnow",
+          "name": "Strachocin-Swojczyce-Wojnów"
         },
         {
-          "id": "de-hamburg-104",
-          "slug": "ochsenwerder",
-          "name": "Ochsenwerder"
+          "id": "pl-wroclaw-104",
+          "slug": "strachowice",
+          "name": "Strachowice"
         },
         {
-          "id": "de-hamburg-105",
-          "slug": "ohlsdorf",
-          "name": "Ohlsdorf"
+          "id": "pl-wroclaw-105",
+          "slug": "swiatniki",
+          "name": "Świątniki"
         },
         {
-          "id": "de-hamburg-106",
-          "slug": "oldenfelde",
-          "name": "Oldenfelde"
+          "id": "pl-wroclaw-106",
+          "slug": "swiniary",
+          "name": "Świniary"
         },
         {
-          "id": "de-hamburg-107",
-          "slug": "oldenfelde-siedlung",
-          "name": "Oldenfelde-Siedlung"
+          "id": "pl-wroclaw-107",
+          "slug": "swojczyce",
+          "name": "Swojczyce"
         },
         {
-          "id": "de-hamburg-108",
-          "slug": "osdorf",
-          "name": "Osdorf"
+          "id": "pl-wroclaw-108",
+          "slug": "szczepin",
+          "name": "Szczepin"
         },
         {
-          "id": "de-hamburg-109",
-          "slug": "osdorfer-born",
-          "name": "Osdorfer Born"
+          "id": "pl-wroclaw-109",
+          "slug": "szczytniki",
+          "name": "Szczytniki"
         },
         {
-          "id": "de-hamburg-110",
-          "slug": "othmarschen",
-          "name": "Othmarschen"
+          "id": "pl-wroclaw-110",
+          "slug": "tarnogaj",
+          "name": "Tarnogaj"
         },
         {
-          "id": "de-hamburg-111",
-          "slug": "ottensen",
-          "name": "Ottensen"
+          "id": "pl-wroclaw-111",
+          "slug": "trojkat",
+          "name": "Trójkąt"
         },
         {
-          "id": "de-hamburg-112",
-          "slug": "pergolenviertel-nord",
-          "name": "Pergolenviertel-Nord"
+          "id": "pl-wroclaw-112",
+          "slug": "widawa",
+          "name": "Widawa"
         },
         {
-          "id": "de-hamburg-113",
-          "slug": "pergolenviertel-sud",
-          "name": "Pergolenviertel-Süd"
+          "id": "pl-wroclaw-113",
+          "slug": "wilczy-kat",
+          "name": "Wilczy Kąt"
         },
         {
-          "id": "de-hamburg-114",
-          "slug": "phoenix-viertel",
-          "name": "Phoenix-Viertel"
+          "id": "pl-wroclaw-114",
+          "slug": "wittigowo",
+          "name": "Wittigowo"
         },
         {
-          "id": "de-hamburg-115",
-          "slug": "poppenbuttel",
-          "name": "Poppenbüttel"
+          "id": "pl-wroclaw-115",
+          "slug": "wojnow",
+          "name": "Wojnów"
         },
         {
-          "id": "de-hamburg-116",
-          "slug": "portugiesenviertel",
-          "name": "Portugiesenviertel"
+          "id": "pl-wroclaw-116",
+          "slug": "wojszyce",
+          "name": "Wojszyce"
         },
         {
-          "id": "de-hamburg-117",
-          "slug": "quartier-21",
-          "name": "Quartier 21"
+          "id": "pl-wroclaw-117",
+          "slug": "zacisze",
+          "name": "Zacisze"
         },
         {
-          "id": "de-hamburg-118",
-          "slug": "quartier-am-horgensweg",
-          "name": "Quartier am Hörgensweg"
+          "id": "pl-wroclaw-118",
+          "slug": "zacisze-zalesie-szczytniki",
+          "name": "Zacisze-Zalesie-Szczytniki"
         },
         {
-          "id": "de-hamburg-119",
-          "slug": "quartier-am-lohsepark",
-          "name": "Quartier Am Lohsepark"
+          "id": "pl-wroclaw-119",
+          "slug": "zakrzow",
+          "name": "Zakrzów"
         },
         {
-          "id": "de-hamburg-120",
-          "slug": "quartier-am-sandtorkai",
-          "name": "Quartier Am Sandtorkai"
+          "id": "pl-wroclaw-120",
+          "slug": "zalesie",
+          "name": "Zalesie"
         },
         {
-          "id": "de-hamburg-121",
-          "slug": "quartier-am-sandtorpark-grasbrook",
-          "name": "Quartier Am Sandtorpark/Grasbrook"
+          "id": "pl-wroclaw-121",
+          "slug": "zar",
+          "name": "Żar"
         },
         {
-          "id": "de-hamburg-122",
-          "slug": "quartier-baakenhafen",
-          "name": "Quartier Baakenhafen"
+          "id": "pl-wroclaw-122",
+          "slug": "zerniki",
+          "name": "Żerniki"
         },
         {
-          "id": "de-hamburg-123",
-          "slug": "quartier-brooktorkai-ericus",
-          "name": "Quartier Brooktorkai/Ericus"
+          "id": "pl-wroclaw-123",
+          "slug": "zgorzelisko",
+          "name": "Zgorzelisko"
         },
         {
-          "id": "de-hamburg-124",
-          "slug": "quartier-elbbrucken",
-          "name": "Quartier Elbbrücken"
-        },
-        {
-          "id": "de-hamburg-125",
-          "slug": "quartier-elbtorquartier",
-          "name": "Quartier Elbtorquartier"
-        },
-        {
-          "id": "de-hamburg-126",
-          "slug": "quartier-strandkai",
-          "name": "Quartier Strandkai"
-        },
-        {
-          "id": "de-hamburg-127",
-          "slug": "quartier-uberseequartier",
-          "name": "Quartier Überseequartier"
-        },
-        {
-          "id": "de-hamburg-128",
-          "slug": "quartierszentrum-campus-steilshoop",
-          "name": "Quartierszentrum Campus Steilshoop"
-        },
-        {
-          "id": "de-hamburg-129",
-          "slug": "rahlstedt",
-          "name": "Rahlstedt"
-        },
-        {
-          "id": "de-hamburg-130",
-          "slug": "reiherstiegviertel",
-          "name": "Reiherstiegviertel"
-        },
-        {
-          "id": "de-hamburg-131",
-          "slug": "reitbrook",
-          "name": "Reitbrook"
-        },
-        {
-          "id": "de-hamburg-132",
-          "slug": "rissen",
-          "name": "Rissen"
-        },
-        {
-          "id": "de-hamburg-133",
-          "slug": "ronneburg",
-          "name": "Rönneburg"
-        },
-        {
-          "id": "de-hamburg-134",
-          "slug": "rothenburgsort",
-          "name": "Rothenburgsort"
-        },
-        {
-          "id": "de-hamburg-135",
-          "slug": "rotherbaum",
-          "name": "Rotherbaum"
-        },
-        {
-          "id": "de-hamburg-136",
-          "slug": "sasel",
-          "name": "Sasel"
-        },
-        {
-          "id": "de-hamburg-137",
-          "slug": "schiffbek",
-          "name": "Schiffbek"
-        },
-        {
-          "id": "de-hamburg-138",
-          "slug": "schnelsen",
-          "name": "Schnelsen"
-        },
-        {
-          "id": "de-hamburg-139",
-          "slug": "siedlung-sandbek",
-          "name": "Siedlung Sandbek"
-        },
-        {
-          "id": "de-hamburg-140",
-          "slug": "sinstorf",
-          "name": "Sinstorf"
-        },
-        {
-          "id": "de-hamburg-141",
-          "slug": "spadenland",
-          "name": "Spadenland"
-        },
-        {
-          "id": "de-hamburg-142",
-          "slug": "st-georg",
-          "name": "St. Georg"
-        },
-        {
-          "id": "de-hamburg-143",
-          "slug": "st-pauli",
-          "name": "St. Pauli"
-        },
-        {
-          "id": "de-hamburg-144",
-          "slug": "steilshoop",
-          "name": "Steilshoop"
-        },
-        {
-          "id": "de-hamburg-145",
-          "slug": "steinwerder",
-          "name": "Steinwerder"
-        },
-        {
-          "id": "de-hamburg-146",
-          "slug": "stellingen",
-          "name": "Stellingen"
-        },
-        {
-          "id": "de-hamburg-147",
-          "slug": "sternschanze",
-          "name": "Sternschanze"
-        },
-        {
-          "id": "de-hamburg-148",
-          "slug": "sulldorf",
-          "name": "Sülldorf"
-        },
-        {
-          "id": "de-hamburg-149",
-          "slug": "tatenberg",
-          "name": "Tatenberg"
-        },
-        {
-          "id": "de-hamburg-150",
-          "slug": "tegelsbarg",
-          "name": "Tegelsbarg"
-        },
-        {
-          "id": "de-hamburg-151",
-          "slug": "tonndorf",
-          "name": "Tonndorf"
-        },
-        {
-          "id": "de-hamburg-152",
-          "slug": "uhlenhorst",
-          "name": "Uhlenhorst"
-        },
-        {
-          "id": "de-hamburg-153",
-          "slug": "veddel",
-          "name": "Veddel"
-        },
-        {
-          "id": "de-hamburg-154",
-          "slug": "volksdorf",
-          "name": "Volksdorf"
-        },
-        {
-          "id": "de-hamburg-155",
-          "slug": "waltershof",
-          "name": "Waltershof"
-        },
-        {
-          "id": "de-hamburg-156",
-          "slug": "wandsbek",
-          "name": "Wandsbek"
-        },
-        {
-          "id": "de-hamburg-157",
-          "slug": "wellingsbuttel",
-          "name": "Wellingsbüttel"
-        },
-        {
-          "id": "de-hamburg-158",
-          "slug": "wilhelmsburg",
-          "name": "Wilhelmsburg"
-        },
-        {
-          "id": "de-hamburg-159",
-          "slug": "wilstorf",
-          "name": "Wilstorf"
-        },
-        {
-          "id": "de-hamburg-160",
-          "slug": "winterhude",
-          "name": "Winterhude"
-        },
-        {
-          "id": "de-hamburg-161",
-          "slug": "wohldorf-ohlstedt",
-          "name": "Wohldorf-Ohlstedt"
+          "id": "pl-wroclaw-124",
+          "slug": "zotniki",
+          "name": "Złotniki"
         }
       ]
     },
     {
-      "id": "de-koeln",
-      "country_code": "DE",
-      "slug": "koeln",
-      "name": "Köln",
-      "region": "Nordrhein-Westfalen",
-      "description": "Köln: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-gdansk",
+      "country_code": "PL",
+      "slug": "gdansk",
+      "name": "Gdańsk",
+      "region": "Pomorskie",
+      "description": "Gdańsk: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-4.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-koeln-1",
-          "slug": "agnesviertel",
-          "name": "Agnesviertel"
+          "id": "pl-gdansk-1",
+          "slug": "anioki",
+          "name": "Aniołki"
         },
         {
-          "id": "de-koeln-2",
-          "slug": "alt-longerich",
-          "name": "Alt-Longerich"
+          "id": "pl-gdansk-2",
+          "slug": "artus",
+          "name": "Artus"
         },
         {
-          "id": "de-koeln-3",
-          "slug": "alt-vogelsang",
-          "name": "Alt-Vogelsang"
+          "id": "pl-gdansk-3",
+          "slug": "barniewice",
+          "name": "Barniewice"
         },
         {
-          "id": "de-koeln-4",
-          "slug": "altstadt-nord",
-          "name": "Altstadt-Nord"
+          "id": "pl-gdansk-4",
+          "slug": "biay-dworek",
+          "name": "Biały Dworek"
         },
         {
-          "id": "de-koeln-5",
-          "slug": "altstadt-sud",
-          "name": "Altstadt-Süd"
+          "id": "pl-gdansk-5",
+          "slug": "biskupia-gorka",
+          "name": "Biskupia Górka"
         },
         {
-          "id": "de-koeln-6",
-          "slug": "am-butzweilerhof",
-          "name": "Am Butzweilerhof"
+          "id": "pl-gdansk-6",
+          "slug": "brabank",
+          "name": "Brabank"
         },
         {
-          "id": "de-koeln-7",
-          "slug": "andreasviertel",
-          "name": "Andreasviertel"
+          "id": "pl-gdansk-7",
+          "slug": "brama-oliwska",
+          "name": "Brama Oliwska"
         },
         {
-          "id": "de-koeln-8",
-          "slug": "apostelviertel",
-          "name": "Apostelviertel"
+          "id": "pl-gdansk-8",
+          "slug": "bretowo",
+          "name": "Brętowo"
         },
         {
-          "id": "de-koeln-9",
-          "slug": "arbeitersiedlung-wilhelmsruh",
-          "name": "Arbeitersiedlung Wilhelmsruh"
+          "id": "pl-gdansk-9",
+          "slug": "brunow",
+          "name": "Brunów"
         },
         {
-          "id": "de-koeln-10",
-          "slug": "auf-dem-kolnberg",
-          "name": "Auf dem Kölnberg"
+          "id": "pl-gdansk-10",
+          "slug": "brzezno",
+          "name": "Brzeźno"
         },
         {
-          "id": "de-koeln-11",
-          "slug": "bayenthal",
-          "name": "Bayenthal"
+          "id": "pl-gdansk-11",
+          "slug": "bysewo",
+          "name": "Bysewo"
         },
         {
-          "id": "de-koeln-12",
-          "slug": "belgisches-viertel",
-          "name": "Belgisches Viertel"
+          "id": "pl-gdansk-12",
+          "slug": "bonia",
+          "name": "Błonia"
         },
         {
-          "id": "de-koeln-13",
-          "slug": "bergheimerhof",
-          "name": "Bergheimerhof"
+          "id": "pl-gdansk-13",
+          "slug": "cegielnia",
+          "name": "Cegielnia"
         },
         {
-          "id": "de-koeln-14",
-          "slug": "bickendorf",
-          "name": "Bickendorf"
+          "id": "pl-gdansk-14",
+          "slug": "chem",
+          "name": "Chełm"
         },
         {
-          "id": "de-koeln-15",
-          "slug": "bilderstockchen",
-          "name": "Bilderstöckchen"
+          "id": "pl-gdansk-15",
+          "slug": "chem-a-1",
+          "name": "Chełm A-1"
         },
         {
-          "id": "de-koeln-16",
-          "slug": "blumenberg",
-          "name": "Blumenberg"
+          "id": "pl-gdansk-16",
+          "slug": "chem-b",
+          "name": "Chełm B"
         },
         {
-          "id": "de-koeln-17",
-          "slug": "bocklemund",
-          "name": "Bocklemünd"
+          "id": "pl-gdansk-17",
+          "slug": "chem-g",
+          "name": "Chełm G"
         },
         {
-          "id": "de-koeln-18",
-          "slug": "bocklemund-mengenich",
-          "name": "Bocklemünd/Mengenich"
+          "id": "pl-gdansk-18",
+          "slug": "cieniawa",
+          "name": "Cieniawa"
         },
         {
-          "id": "de-koeln-19",
-          "slug": "braunsfeld",
-          "name": "Braunsfeld"
+          "id": "pl-gdansk-19",
+          "slug": "cyganska-gora",
+          "name": "Cygańska Góra"
         },
         {
-          "id": "de-koeln-20",
-          "slug": "bruck",
-          "name": "Brück"
+          "id": "pl-gdansk-20",
+          "slug": "czerwony-most",
+          "name": "Czerwony Most"
         },
         {
-          "id": "de-koeln-21",
-          "slug": "bruder-klaus-siedlung",
-          "name": "Bruder-Klaus-Siedlung"
+          "id": "pl-gdansk-21",
+          "slug": "cztery-pory-roku",
+          "name": "Cztery Pory Roku"
         },
         {
-          "id": "de-koeln-22",
-          "slug": "buchforst",
-          "name": "Buchforst"
+          "id": "pl-gdansk-22",
+          "slug": "diabekowo",
+          "name": "Diabełkowo"
         },
         {
-          "id": "de-koeln-23",
-          "slug": "buchheim",
-          "name": "Buchheim"
+          "id": "pl-gdansk-23",
+          "slug": "dolina-powagi",
+          "name": "Dolina Powagi"
         },
         {
-          "id": "de-koeln-24",
-          "slug": "cacilienviertel",
-          "name": "Cäcilienviertel"
+          "id": "pl-gdansk-24",
+          "slug": "dolina-radosci",
+          "name": "Dolina Radości"
         },
         {
-          "id": "de-koeln-25",
-          "slug": "chorweiler",
-          "name": "Chorweiler"
+          "id": "pl-gdansk-25",
+          "slug": "dolina-schwabego",
+          "name": "Dolina Schwabego"
         },
         {
-          "id": "de-koeln-26",
-          "slug": "clouth-quartier",
-          "name": "Clouth-Quartier"
+          "id": "pl-gdansk-26",
+          "slug": "dolne-miasto",
+          "name": "Dolne Miasto"
         },
         {
-          "id": "de-koeln-27",
-          "slug": "deckstein",
-          "name": "Deckstein"
+          "id": "pl-gdansk-27",
+          "slug": "dolne-migowo",
+          "name": "Dolne Migowo"
         },
         {
-          "id": "de-koeln-28",
-          "slug": "dellbruck",
-          "name": "Dellbrück"
+          "id": "pl-gdansk-28",
+          "slug": "dolnik",
+          "name": "Dolnik"
         },
         {
-          "id": "de-koeln-29",
-          "slug": "deutz",
-          "name": "Deutz"
+          "id": "pl-gdansk-29",
+          "slug": "drewnica",
+          "name": "Drewnica"
         },
         {
-          "id": "de-koeln-30",
-          "slug": "dunnwald",
-          "name": "Dünnwald"
+          "id": "pl-gdansk-30",
+          "slug": "dugie-ogrody",
+          "name": "Długie Ogrody"
         },
         {
-          "id": "de-koeln-31",
-          "slug": "ehrenfeld",
-          "name": "Ehrenfeld"
+          "id": "pl-gdansk-31",
+          "slug": "emaus",
+          "name": "Emaus"
         },
         {
-          "id": "de-koeln-32",
-          "slug": "eil",
-          "name": "Eil"
+          "id": "pl-gdansk-32",
+          "slug": "finskie-domki",
+          "name": "Fińskie Domki"
         },
         {
-          "id": "de-koeln-33",
-          "slug": "eisenbahnsiedlung-gremberghoven",
-          "name": "Eisenbahnsiedlung Gremberghoven"
+          "id": "pl-gdansk-33",
+          "slug": "firoga",
+          "name": "Firoga"
         },
         {
-          "id": "de-koeln-34",
-          "slug": "elsdorf",
-          "name": "Elsdorf"
+          "id": "pl-gdansk-34",
+          "slug": "gaj-gutenberga",
+          "name": "Gaj Gutenberga"
         },
         {
-          "id": "de-koeln-35",
-          "slug": "ensen",
-          "name": "Ensen"
+          "id": "pl-gdansk-35",
+          "slug": "garnizon",
+          "name": "Garnizon"
         },
         {
-          "id": "de-koeln-36",
-          "slug": "esch",
-          "name": "Esch"
+          "id": "pl-gdansk-36",
+          "slug": "gesia-karczma",
+          "name": "Gęsia Karczma"
         },
         {
-          "id": "de-koeln-37",
-          "slug": "esch-auweiler",
-          "name": "Esch/Auweiler"
+          "id": "pl-gdansk-37",
+          "slug": "gorki-wschodnie",
+          "name": "Górki Wschodnie"
         },
         {
-          "id": "de-koeln-38",
-          "slug": "euronova-businesspark",
-          "name": "EuroNova-BusinessPark"
+          "id": "pl-gdansk-38",
+          "slug": "gorki-zachodnie",
+          "name": "Górki Zachodnie"
         },
         {
-          "id": "de-koeln-39",
-          "slug": "feldkassel",
-          "name": "Feldkassel"
+          "id": "pl-gdansk-39",
+          "slug": "gospodka",
+          "name": "Gospódka"
         },
         {
-          "id": "de-koeln-40",
-          "slug": "finkenberg",
-          "name": "Finkenberg"
+          "id": "pl-gdansk-40",
+          "slug": "grodzisko",
+          "name": "Grodzisko"
         },
         {
-          "id": "de-koeln-41",
-          "slug": "flittard",
-          "name": "Flittard"
+          "id": "pl-gdansk-41",
+          "slug": "gwiazda-morza",
+          "name": "Gwiazda Morza"
         },
         {
-          "id": "de-koeln-42",
-          "slug": "fordsiedlung",
-          "name": "Fordsiedlung"
+          "id": "pl-gdansk-42",
+          "slug": "gowne-miasto",
+          "name": "Główne Miasto"
         },
         {
-          "id": "de-koeln-43",
-          "slug": "friedrich-karl-terrassen",
-          "name": "Friedrich-Karl Terrassen"
+          "id": "pl-gdansk-43",
+          "slug": "hallera-140",
+          "name": "Hallera 140"
         },
         {
-          "id": "de-koeln-44",
-          "slug": "fuhlingen",
-          "name": "Fühlingen"
+          "id": "pl-gdansk-44",
+          "slug": "jasien",
+          "name": "Jasień"
         },
         {
-          "id": "de-koeln-45",
-          "slug": "gartenstadt-nord",
-          "name": "Gartenstadt-Nord"
+          "id": "pl-gdansk-45",
+          "slug": "jelitkowo",
+          "name": "Jelitkowo"
         },
         {
-          "id": "de-koeln-46",
-          "slug": "georgsviertel",
-          "name": "Georgsviertel"
+          "id": "pl-gdansk-46",
+          "slug": "karczemki",
+          "name": "Karczemki"
         },
         {
-          "id": "de-koeln-47",
-          "slug": "gereonsviertel",
-          "name": "Gereonsviertel"
+          "id": "pl-gdansk-47",
+          "slug": "karczemki-kiepinskie",
+          "name": "Karczemki Kiełpińskie"
         },
         {
-          "id": "de-koeln-48",
-          "slug": "germaniasiedlung",
-          "name": "Germaniasiedlung"
+          "id": "pl-gdansk-48",
+          "slug": "karczemki-nynkowskie",
+          "name": "Karczemki Nynkowskie"
         },
         {
-          "id": "de-koeln-49",
-          "slug": "gewerbegebiet-longerich",
-          "name": "Gewerbegebiet Longerich"
+          "id": "pl-gdansk-49",
+          "slug": "kiepinek",
+          "name": "Kiełpinek"
         },
         {
-          "id": "de-koeln-50",
-          "slug": "godorf",
-          "name": "Godorf"
+          "id": "pl-gdansk-50",
+          "slug": "kiepino-gorne",
+          "name": "Kiełpino Górne"
         },
         {
-          "id": "de-koeln-51",
-          "slug": "gremberg",
-          "name": "Gremberg"
+          "id": "pl-gdansk-51",
+          "slug": "klukowo",
+          "name": "Klukowo"
         },
         {
-          "id": "de-koeln-52",
-          "slug": "gremberghoven",
-          "name": "Gremberghoven"
+          "id": "pl-gdansk-52",
+          "slug": "kokoszki",
+          "name": "Kokoszki"
         },
         {
-          "id": "de-koeln-53",
-          "slug": "grengel",
-          "name": "Grengel"
+          "id": "pl-gdansk-53",
+          "slug": "kokoszki-przemysowe",
+          "name": "Kokoszki Przemysłowe"
         },
         {
-          "id": "de-koeln-54",
-          "slug": "griechenmarktviertel",
-          "name": "Griechenmarktviertel"
+          "id": "pl-gdansk-54",
+          "slug": "kolonia",
+          "name": "Kolonia"
         },
         {
-          "id": "de-koeln-55",
-          "slug": "hahnwald",
-          "name": "Hahnwald"
+          "id": "pl-gdansk-55",
+          "slug": "kolonia-jordana",
+          "name": "Kolonia Jordana"
         },
         {
-          "id": "de-koeln-56",
-          "slug": "heimersdorf",
-          "name": "Heimersdorf"
+          "id": "pl-gdansk-56",
+          "slug": "kolonia-lewartowskiego",
+          "name": "Kolonia Lewartowskiego"
         },
         {
-          "id": "de-koeln-57",
-          "slug": "heumar",
-          "name": "Heumar"
+          "id": "pl-gdansk-57",
+          "slug": "kolonia-mysia",
+          "name": "Kolonia Mysia"
         },
         {
-          "id": "de-koeln-58",
-          "slug": "hochkirchen",
-          "name": "Hochkirchen"
+          "id": "pl-gdansk-58",
+          "slug": "kolonia-orka",
+          "name": "Kolonia Orka"
         },
         {
-          "id": "de-koeln-59",
-          "slug": "hohenberg",
-          "name": "Höhenberg"
+          "id": "pl-gdansk-59",
+          "slug": "kolonia-postep",
+          "name": "Kolonia Postęp"
         },
         {
-          "id": "de-koeln-60",
-          "slug": "hohenhaus",
-          "name": "Höhenhaus"
+          "id": "pl-gdansk-60",
+          "slug": "kolonia-praca",
+          "name": "Kolonia Praca"
         },
         {
-          "id": "de-koeln-61",
-          "slug": "holweide",
-          "name": "Holweide"
+          "id": "pl-gdansk-61",
+          "slug": "kolonia-przybyszewskiego",
+          "name": "Kolonia Przybyszewskiego"
         },
         {
-          "id": "de-koeln-62",
-          "slug": "humboldt",
-          "name": "Humboldt"
+          "id": "pl-gdansk-62",
+          "slug": "kolonia-przyszosc",
+          "name": "Kolonia Przyszłość"
         },
         {
-          "id": "de-koeln-63",
-          "slug": "humboldt-gremberg",
-          "name": "Humboldt/Gremberg"
+          "id": "pl-gdansk-63",
+          "slug": "kolonia-rola",
+          "name": "Kolonia Rola"
         },
         {
-          "id": "de-koeln-64",
-          "slug": "immendorf",
-          "name": "Immendorf"
+          "id": "pl-gdansk-64",
+          "slug": "kolonia-uroda",
+          "name": "Kolonia Uroda"
         },
         {
-          "id": "de-koeln-65",
-          "slug": "indianersiedlung-zollstock",
-          "name": "Indianersiedlung Zollstock"
+          "id": "pl-gdansk-65",
+          "slug": "kolonia-wyzyny",
+          "name": "Kolonia Wyżyny"
         },
         {
-          "id": "de-koeln-66",
-          "slug": "innenstadt",
-          "name": "Innenstadt"
+          "id": "pl-gdansk-66",
+          "slug": "kolonia-zaranie",
+          "name": "Kolonia Zaranie"
         },
         {
-          "id": "de-koeln-67",
-          "slug": "junkersdorf",
-          "name": "Junkersdorf"
+          "id": "pl-gdansk-67",
+          "slug": "kolonia-zency",
+          "name": "Kolonia Żeńcy"
         },
         {
-          "id": "de-koeln-68",
-          "slug": "kalk",
-          "name": "Kalk"
+          "id": "pl-gdansk-68",
+          "slug": "kolonia-zreby",
+          "name": "Kolonia Zręby"
         },
         {
-          "id": "de-koeln-69",
-          "slug": "kannebacker-siedlung",
-          "name": "Kannebäcker Siedlung"
+          "id": "pl-gdansk-69",
+          "slug": "komary",
+          "name": "Komary"
         },
         {
-          "id": "de-koeln-70",
-          "slug": "kapitolviertel",
-          "name": "Kapitolviertel"
+          "id": "pl-gdansk-70",
+          "slug": "kowale",
+          "name": "Kowale"
         },
         {
-          "id": "de-koeln-71",
-          "slug": "kaserne-westhoven",
-          "name": "Kaserne Westhoven"
+          "id": "pl-gdansk-71",
+          "slug": "kozacza-gora",
+          "name": "Kozacza Góra"
         },
         {
-          "id": "de-koeln-72",
-          "slug": "katholikentagssiedlung",
-          "name": "Katholikentagssiedlung"
+          "id": "pl-gdansk-72",
+          "slug": "krakowiec",
+          "name": "Krakowiec"
         },
         {
-          "id": "de-koeln-73",
-          "slug": "klettenberg",
-          "name": "Klettenberg"
+          "id": "pl-gdansk-73",
+          "slug": "krakowiec-gorki-zachodnie",
+          "name": "Krakowiec - Górki Zachodnie"
         },
         {
-          "id": "de-koeln-74",
-          "slug": "komponistenviertel",
-          "name": "Komponistenviertel"
+          "id": "pl-gdansk-74",
+          "slug": "krolewska-dolina",
+          "name": "Królewska Dolina"
         },
         {
-          "id": "de-koeln-75",
-          "slug": "kriel",
-          "name": "Kriel"
+          "id": "pl-gdansk-75",
+          "slug": "krzyzowniki",
+          "name": "Krzyżowniki"
         },
         {
-          "id": "de-koeln-76",
-          "slug": "kunibertsviertel",
-          "name": "Kunibertsviertel"
+          "id": "pl-gdansk-76",
+          "slug": "kukawka",
+          "name": "Kukawka"
         },
         {
-          "id": "de-koeln-77",
-          "slug": "langel",
-          "name": "Langel"
+          "id": "pl-gdansk-77",
+          "slug": "kuzniczki",
+          "name": "Kuźniczki"
         },
         {
-          "id": "de-koeln-78",
-          "slug": "libur",
-          "name": "Libur"
+          "id": "pl-gdansk-78",
+          "slug": "kodno",
+          "name": "Kłodno"
         },
         {
-          "id": "de-koeln-79",
-          "slug": "lind",
-          "name": "Lind"
+          "id": "pl-gdansk-79",
+          "slug": "lawendowe-wzgorze",
+          "name": "Lawendowe Wzgórze"
         },
         {
-          "id": "de-koeln-80",
-          "slug": "lindenthal",
-          "name": "Lindenthal"
+          "id": "pl-gdansk-80",
+          "slug": "lesna-gora",
+          "name": "Leśna Góra"
         },
         {
-          "id": "de-koeln-81",
-          "slug": "lindweiler",
-          "name": "Lindweiler"
+          "id": "pl-gdansk-81",
+          "slug": "letnica",
+          "name": "Letnica"
         },
         {
-          "id": "de-koeln-82",
-          "slug": "longerich",
-          "name": "Longerich"
+          "id": "pl-gdansk-82",
+          "slug": "lipce",
+          "name": "Lipce"
         },
         {
-          "id": "de-koeln-83",
-          "slug": "lovenich",
-          "name": "Lövenich"
+          "id": "pl-gdansk-83",
+          "slug": "ludolfino",
+          "name": "Ludolfino"
         },
         {
-          "id": "de-koeln-84",
-          "slug": "luttich-kaserne",
-          "name": "Lüttich Kaserne"
+          "id": "pl-gdansk-84",
+          "slug": "mackowy",
+          "name": "Maćkowy"
         },
         {
-          "id": "de-koeln-85",
-          "slug": "lutzlongerich",
-          "name": "Lützlongerich"
+          "id": "pl-gdansk-85",
+          "slug": "matarnia",
+          "name": "Matarnia"
         },
         {
-          "id": "de-koeln-86",
-          "slug": "marienburg",
-          "name": "Marienburg"
+          "id": "pl-gdansk-86",
+          "slug": "matemblewo",
+          "name": "Matemblewo"
         },
         {
-          "id": "de-koeln-87",
-          "slug": "marsdorf",
-          "name": "Marsdorf"
+          "id": "pl-gdansk-87",
+          "slug": "maa-olszynka",
+          "name": "Mała Olszynka"
         },
         {
-          "id": "de-koeln-88",
-          "slug": "martinsviertel",
-          "name": "Martinsviertel"
+          "id": "pl-gdansk-88",
+          "slug": "maa-warszawa",
+          "name": "Mała Warszawa"
         },
         {
-          "id": "de-koeln-89",
-          "slug": "mauenheim",
-          "name": "Mauenheim"
+          "id": "pl-gdansk-89",
+          "slug": "miaki-szlak",
+          "name": "Miałki Szlak"
         },
         {
-          "id": "de-koeln-90",
-          "slug": "mauritiusviertel",
-          "name": "Mauritiusviertel"
+          "id": "pl-gdansk-90",
+          "slug": "migowko",
+          "name": "Migówko"
         },
         {
-          "id": "de-koeln-91",
-          "slug": "mengenich",
-          "name": "Mengenich"
+          "id": "pl-gdansk-91",
+          "slug": "migowo",
+          "name": "Migowo"
         },
         {
-          "id": "de-koeln-92",
-          "slug": "merheim",
-          "name": "Merheim"
+          "id": "pl-gdansk-92",
+          "slug": "mirow",
+          "name": "Mirów"
         },
         {
-          "id": "de-koeln-93",
-          "slug": "merkenich",
-          "name": "Merkenich"
+          "id": "pl-gdansk-93",
+          "slug": "mniszki",
+          "name": "Mniszki"
         },
         {
-          "id": "de-koeln-94",
-          "slug": "meschenich",
-          "name": "Meschenich"
+          "id": "pl-gdansk-94",
+          "slug": "moje-marzenie",
+          "name": "Moje Marzenie"
         },
         {
-          "id": "de-koeln-95",
-          "slug": "milchmadchensiedlung",
-          "name": "Milchmädchensiedlung"
+          "id": "pl-gdansk-95",
+          "slug": "mode-miasto",
+          "name": "Młode Miasto"
         },
         {
-          "id": "de-koeln-96",
-          "slug": "mulheim",
-          "name": "Mülheim"
+          "id": "pl-gdansk-96",
+          "slug": "myniska",
+          "name": "Młyniska"
         },
         {
-          "id": "de-koeln-97",
-          "slug": "mungersdorf",
-          "name": "Müngersdorf"
+          "id": "pl-gdansk-97",
+          "slug": "narwik",
+          "name": "Narwik"
         },
         {
-          "id": "de-koeln-98",
-          "slug": "neu-longerich",
-          "name": "Neu-Longerich"
+          "id": "pl-gdansk-98",
+          "slug": "niedzwiednik",
+          "name": "Niedźwiednik"
         },
         {
-          "id": "de-koeln-99",
-          "slug": "neu-vogelsang",
-          "name": "Neu-Vogelsang"
+          "id": "pl-gdansk-99",
+          "slug": "niegowo",
+          "name": "Niegowo"
         },
         {
-          "id": "de-koeln-100",
-          "slug": "neubruck",
-          "name": "Neubrück"
+          "id": "pl-gdansk-100",
+          "slug": "nowa-letnica",
+          "name": "Nowa Letnica"
         },
         {
-          "id": "de-koeln-101",
-          "slug": "neuehrenfeld",
-          "name": "Neuehrenfeld"
+          "id": "pl-gdansk-101",
+          "slug": "nowe-ogrody",
+          "name": "Nowe Ogrody"
         },
         {
-          "id": "de-koeln-102",
-          "slug": "neumarktviertel",
-          "name": "Neumarktviertel"
+          "id": "pl-gdansk-102",
+          "slug": "nowe-szkoty",
+          "name": "Nowe Szkoty"
         },
         {
-          "id": "de-koeln-103",
-          "slug": "neustadt-nord",
-          "name": "Neustadt/Nord"
+          "id": "pl-gdansk-103",
+          "slug": "nowiec",
+          "name": "Nowiec"
         },
         {
-          "id": "de-koeln-104",
-          "slug": "neustadt-sud",
-          "name": "Neustadt/Süd"
+          "id": "pl-gdansk-104",
+          "slug": "nowiny",
+          "name": "Nowiny"
         },
         {
-          "id": "de-koeln-105",
-          "slug": "nibelungensiedlung",
-          "name": "Nibelungensiedlung"
+          "id": "pl-gdansk-105",
+          "slug": "nowolipie",
+          "name": "Nowolipie"
         },
         {
-          "id": "de-koeln-106",
-          "slug": "niehl",
-          "name": "Niehl"
+          "id": "pl-gdansk-106",
+          "slug": "nowy-port",
+          "name": "Nowy Port"
         },
         {
-          "id": "de-koeln-107",
-          "slug": "nippes",
-          "name": "Nippes"
+          "id": "pl-gdansk-107",
+          "slug": "nowy-swiat",
+          "name": "Nowy Świat"
         },
         {
-          "id": "de-koeln-108",
-          "slug": "ossendorf",
-          "name": "Ossendorf"
+          "id": "pl-gdansk-108",
+          "slug": "oliwa",
+          "name": "Oliwa"
         },
         {
-          "id": "de-koeln-109",
-          "slug": "ostheim",
-          "name": "Ostheim"
+          "id": "pl-gdansk-109",
+          "slug": "olszynka",
+          "name": "Olszynka"
         },
         {
-          "id": "de-koeln-110",
-          "slug": "pantaleonsviertel",
-          "name": "Pantaleonsviertel"
+          "id": "pl-gdansk-110",
+          "slug": "orlinki",
+          "name": "Orlinki"
         },
         {
-          "id": "de-koeln-111",
-          "slug": "pesch",
-          "name": "Pesch"
+          "id": "pl-gdansk-111",
+          "slug": "orunia",
+          "name": "Orunia"
         },
         {
-          "id": "de-koeln-112",
-          "slug": "poll",
-          "name": "Poll"
+          "id": "pl-gdansk-112",
+          "slug": "orunia-swiety-wojciech-lipce",
+          "name": "Orunia - Święty Wojciech - Lipce"
         },
         {
-          "id": "de-koeln-113",
-          "slug": "porz",
-          "name": "Porz"
+          "id": "pl-gdansk-113",
+          "slug": "orunia-gorna",
+          "name": "Orunia Górna"
         },
         {
-          "id": "de-koeln-114",
-          "slug": "professorensiedlung",
-          "name": "Professorensiedlung"
+          "id": "pl-gdansk-114",
+          "slug": "orunia-gorna-gdansk-poudnie",
+          "name": "Orunia Górna - Gdańsk Południe"
         },
         {
-          "id": "de-koeln-115",
-          "slug": "raderberg",
-          "name": "Raderberg"
+          "id": "pl-gdansk-115",
+          "slug": "orunia-nad-motawa",
+          "name": "Orunia nad Motławą"
         },
         {
-          "id": "de-koeln-116",
-          "slug": "raderthal",
-          "name": "Raderthal"
+          "id": "pl-gdansk-116",
+          "slug": "orunia-nad-radunia",
+          "name": "Orunia nad Radunią"
         },
         {
-          "id": "de-koeln-117",
-          "slug": "rath",
-          "name": "Rath"
+          "id": "pl-gdansk-117",
+          "slug": "orunskie-przedmiescie",
+          "name": "Oruńskie Przedmieście"
         },
         {
-          "id": "de-koeln-118",
-          "slug": "rath-heumar",
-          "name": "Rath/Heumar"
+          "id": "pl-gdansk-118",
+          "slug": "osiedle-focha",
+          "name": "Osiedle Focha"
         },
         {
-          "id": "de-koeln-119",
-          "slug": "rathenauviertel",
-          "name": "Rathenauviertel"
+          "id": "pl-gdansk-119",
+          "slug": "osiedle-kalina",
+          "name": "Osiedle Kalina"
         },
         {
-          "id": "de-koeln-120",
-          "slug": "riehl",
-          "name": "Riehl"
+          "id": "pl-gdansk-120",
+          "slug": "osiedle-kolorowe",
+          "name": "Osiedle Kolorowe"
         },
         {
-          "id": "de-koeln-121",
-          "slug": "rodenkirchen",
-          "name": "Rodenkirchen"
+          "id": "pl-gdansk-121",
+          "slug": "osiedle-muzyczne",
+          "name": "Osiedle Muzyczne"
         },
         {
-          "id": "de-koeln-122",
-          "slug": "roggendorf-thenhoven",
-          "name": "Roggendorf/Thenhoven"
+          "id": "pl-gdansk-122",
+          "slug": "osiedle-modych",
+          "name": "Osiedle Młodych"
         },
         {
-          "id": "de-koeln-123",
-          "slug": "rolshoven",
-          "name": "Rolshoven"
+          "id": "pl-gdansk-123",
+          "slug": "osiedle-nowiec",
+          "name": "Osiedle Nowiec"
         },
         {
-          "id": "de-koeln-124",
-          "slug": "rondorf",
-          "name": "Rondorf"
+          "id": "pl-gdansk-124",
+          "slug": "osiedle-planeta",
+          "name": "Osiedle Planeta"
         },
         {
-          "id": "de-koeln-125",
-          "slug": "sechzigviertel",
-          "name": "Sechzigviertel"
+          "id": "pl-gdansk-125",
+          "slug": "osiedle-roosevelta",
+          "name": "Osiedle Roosevelta"
         },
         {
-          "id": "de-koeln-126",
-          "slug": "seeberg",
-          "name": "Seeberg"
+          "id": "pl-gdansk-126",
+          "slug": "osiedle-tysiaclecia",
+          "name": "Osiedle Tysiąclecia"
         },
         {
-          "id": "de-koeln-127",
-          "slug": "severinsviertel",
-          "name": "Severinsviertel"
+          "id": "pl-gdansk-127",
+          "slug": "osiedle-wejhera",
+          "name": "Osiedle Wejhera"
         },
         {
-          "id": "de-koeln-128",
-          "slug": "siedlung-zollstock",
-          "name": "Siedlung Zollstock"
+          "id": "pl-gdansk-128",
+          "slug": "osiedle-xxx-lecia-prl",
+          "name": "Osiedle XXX-lecia PRL"
         },
         {
-          "id": "de-koeln-129",
-          "slug": "stadtwaldviertel",
-          "name": "Stadtwaldviertel"
+          "id": "pl-gdansk-129",
+          "slug": "osiedle-ozy",
+          "name": "Osiedle Łozy"
         },
         {
-          "id": "de-koeln-130",
-          "slug": "stammheim",
-          "name": "Stammheim"
+          "id": "pl-gdansk-130",
+          "slug": "osiek",
+          "name": "Osiek"
         },
         {
-          "id": "de-koeln-131",
-          "slug": "stegerwaldsiedlung",
-          "name": "Stegerwaldsiedlung"
+          "id": "pl-gdansk-131",
+          "slug": "osowa",
+          "name": "Osowa"
         },
         {
-          "id": "de-koeln-132",
-          "slug": "stellwerk-60",
-          "name": "Stellwerk 60"
+          "id": "pl-gdansk-132",
+          "slug": "osowa-gora",
+          "name": "Osowa Góra"
         },
         {
-          "id": "de-koeln-133",
-          "slug": "strunden",
-          "name": "Strunden"
+          "id": "pl-gdansk-133",
+          "slug": "ostrow",
+          "name": "Ostrów"
         },
         {
-          "id": "de-koeln-134",
-          "slug": "studentenviertel",
-          "name": "Studentenviertel"
+          "id": "pl-gdansk-134",
+          "slug": "ostrozek",
+          "name": "Ostróżek"
         },
         {
-          "id": "de-koeln-135",
-          "slug": "sudstadt",
-          "name": "Südstadt"
+          "id": "pl-gdansk-135",
+          "slug": "owczarnia",
+          "name": "Owczarnia"
         },
         {
-          "id": "de-koeln-136",
-          "slug": "sulz",
-          "name": "Sülz"
+          "id": "pl-gdansk-136",
+          "slug": "owczary",
+          "name": "Owczary"
         },
         {
-          "id": "de-koeln-137",
-          "slug": "surth",
-          "name": "Sürth"
+          "id": "pl-gdansk-137",
+          "slug": "oowianka",
+          "name": "Ołowianka"
         },
         {
-          "id": "de-koeln-138",
-          "slug": "thielenbruch",
-          "name": "Thielenbruch"
+          "id": "pl-gdansk-138",
+          "slug": "piaskownia",
+          "name": "Piaskownia"
         },
         {
-          "id": "de-koeln-139",
-          "slug": "thurn",
-          "name": "Thurn"
+          "id": "pl-gdansk-139",
+          "slug": "piecki",
+          "name": "Piecki"
         },
         {
-          "id": "de-koeln-140",
-          "slug": "ungarnsiedlung",
-          "name": "Ungarnsiedlung"
+          "id": "pl-gdansk-140",
+          "slug": "piecki-migowo",
+          "name": "Piecki-Migowo"
         },
         {
-          "id": "de-koeln-141",
-          "slug": "urbach",
-          "name": "Urbach"
+          "id": "pl-gdansk-141",
+          "slug": "pieklisko",
+          "name": "Pieklisko"
         },
         {
-          "id": "de-koeln-142",
-          "slug": "ursulaviertel",
-          "name": "Ursulaviertel"
+          "id": "pl-gdansk-142",
+          "slug": "plebanka",
+          "name": "Plebanka"
         },
         {
-          "id": "de-koeln-143",
-          "slug": "usdorf",
-          "name": "Üsdorf"
+          "id": "pl-gdansk-143",
+          "slug": "polanki",
+          "name": "Polanki"
         },
         {
-          "id": "de-koeln-144",
-          "slug": "vingst",
-          "name": "Vingst"
+          "id": "pl-gdansk-144",
+          "slug": "polski-hak",
+          "name": "Polski Hak"
         },
         {
-          "id": "de-koeln-145",
-          "slug": "vogelsang",
-          "name": "Vogelsang"
+          "id": "pl-gdansk-145",
+          "slug": "port-ponocny",
+          "name": "Port Północny"
         },
         {
-          "id": "de-koeln-146",
-          "slug": "vogelsang-nord",
-          "name": "Vogelsang-Nord"
+          "id": "pl-gdansk-146",
+          "slug": "przegalina",
+          "name": "Przegalina"
         },
         {
-          "id": "de-koeln-147",
-          "slug": "volkhoven",
-          "name": "Volkhoven"
+          "id": "pl-gdansk-147",
+          "slug": "przerobka",
+          "name": "Przeróbka"
         },
         {
-          "id": "de-koeln-148",
-          "slug": "volkhoven-weiler",
-          "name": "Volkhoven/Weiler"
+          "id": "pl-gdansk-148",
+          "slug": "przy-srebrnej",
+          "name": "Przy Srebrnej"
         },
         {
-          "id": "de-koeln-149",
-          "slug": "volksgartenviertel",
-          "name": "Volksgartenviertel"
+          "id": "pl-gdansk-149",
+          "slug": "przymorze-mae",
+          "name": "Przymorze Małe"
         },
         {
-          "id": "de-koeln-150",
-          "slug": "volksparksiedlung-raderthal",
-          "name": "Volksparksiedlung Raderthal"
+          "id": "pl-gdansk-150",
+          "slug": "przymorze-wielkie",
+          "name": "Przymorze Wielkie"
         },
         {
-          "id": "de-koeln-151",
-          "slug": "wahn",
-          "name": "Wahn"
+          "id": "pl-gdansk-151",
+          "slug": "ptaszniki",
+          "name": "Ptaszniki"
         },
         {
-          "id": "de-koeln-152",
-          "slug": "wahnheide",
-          "name": "Wahnheide"
+          "id": "pl-gdansk-152",
+          "slug": "ponia-maa",
+          "name": "Płonia Mała"
         },
         {
-          "id": "de-koeln-153",
-          "slug": "weiden",
-          "name": "Weiden"
+          "id": "pl-gdansk-153",
+          "slug": "ponia-wielka",
+          "name": "Płonia Wielka"
         },
         {
-          "id": "de-koeln-154",
-          "slug": "weidenpesch",
-          "name": "Weidenpesch"
+          "id": "pl-gdansk-154",
+          "slug": "rebiechowo",
+          "name": "Rębiechowo"
         },
         {
-          "id": "de-koeln-155",
-          "slug": "weiler",
-          "name": "Weiler"
+          "id": "pl-gdansk-155",
+          "slug": "rebowo",
+          "name": "Rębowo"
         },
         {
-          "id": "de-koeln-156",
-          "slug": "wei",
-          "name": "Weiß"
+          "id": "pl-gdansk-156",
+          "slug": "reduta-ponska",
+          "name": "Reduta Płońska"
         },
         {
-          "id": "de-koeln-157",
-          "slug": "westend",
-          "name": "Westend"
+          "id": "pl-gdansk-157",
+          "slug": "rudniki",
+          "name": "Rudniki"
         },
         {
-          "id": "de-koeln-158",
-          "slug": "westhoven",
-          "name": "Westhoven"
+          "id": "pl-gdansk-158",
+          "slug": "rudno",
+          "name": "Rudno"
         },
         {
-          "id": "de-koeln-159",
-          "slug": "wichheimer-muhle",
-          "name": "Wichheimer Mühle"
+          "id": "pl-gdansk-159",
+          "slug": "rynarzewo",
+          "name": "Rynarzewo"
         },
         {
-          "id": "de-koeln-160",
-          "slug": "widdersdorf",
-          "name": "Widdersdorf"
+          "id": "pl-gdansk-160",
+          "slug": "saczki",
+          "name": "Sączki"
         },
         {
-          "id": "de-koeln-161",
-          "slug": "wohnpark-bayenthal",
-          "name": "Wohnpark Bayenthal"
+          "id": "pl-gdansk-161",
+          "slug": "siedlce",
+          "name": "Siedlce"
         },
         {
-          "id": "de-koeln-162",
-          "slug": "wohnungen-fur-behinderte",
-          "name": "Wohnungen für Behinderte"
+          "id": "pl-gdansk-162",
+          "slug": "sienna-grobla",
+          "name": "Sienna Grobla"
         },
         {
-          "id": "de-koeln-163",
-          "slug": "worringen",
-          "name": "Worringen"
+          "id": "pl-gdansk-163",
+          "slug": "skady",
+          "name": "Składy"
         },
         {
-          "id": "de-koeln-164",
-          "slug": "zollstock",
-          "name": "Zollstock"
+          "id": "pl-gdansk-164",
+          "slug": "smegorzyno",
+          "name": "Smęgorzyno"
         },
         {
-          "id": "de-koeln-165",
-          "slug": "zollstockhofe",
-          "name": "Zollstockhöfe"
+          "id": "pl-gdansk-165",
+          "slug": "sobieszewko",
+          "name": "Sobieszewko"
         },
         {
-          "id": "de-koeln-166",
-          "slug": "zundorf",
-          "name": "Zündorf"
+          "id": "pl-gdansk-166",
+          "slug": "sobieszewo",
+          "name": "Sobieszewo"
+        },
+        {
+          "id": "pl-gdansk-167",
+          "slug": "sobieszewska-pastwa",
+          "name": "Sobieszewska Pastwa"
+        },
+        {
+          "id": "pl-gdansk-168",
+          "slug": "srebrzysko",
+          "name": "Srebrzysko"
+        },
+        {
+          "id": "pl-gdansk-169",
+          "slug": "srodmiescie",
+          "name": "Śródmieście"
+        },
+        {
+          "id": "pl-gdansk-170",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
+        },
+        {
+          "id": "pl-gdansk-171",
+          "slug": "stare-przedmiescie",
+          "name": "Stare Przedmieście"
+        },
+        {
+          "id": "pl-gdansk-172",
+          "slug": "stare-szkoty",
+          "name": "Stare Szkoty"
+        },
+        {
+          "id": "pl-gdansk-173",
+          "slug": "stary-chem",
+          "name": "Stary Chełm"
+        },
+        {
+          "id": "pl-gdansk-174",
+          "slug": "stocznia-cesarska",
+          "name": "Stocznia Cesarska"
+        },
+        {
+          "id": "pl-gdansk-175",
+          "slug": "stocznia-schichaua",
+          "name": "Stocznia Schichaua"
+        },
+        {
+          "id": "pl-gdansk-176",
+          "slug": "stogi",
+          "name": "Stogi"
+        },
+        {
+          "id": "pl-gdansk-177",
+          "slug": "strzyza",
+          "name": "Strzyża"
+        },
+        {
+          "id": "pl-gdansk-178",
+          "slug": "strzyza-dolna",
+          "name": "Strzyża Dolna"
+        },
+        {
+          "id": "pl-gdansk-179",
+          "slug": "strzyza-gorna",
+          "name": "Strzyża Górna"
+        },
+        {
+          "id": "pl-gdansk-180",
+          "slug": "studzienka",
+          "name": "Studzienka"
+        },
+        {
+          "id": "pl-gdansk-181",
+          "slug": "suchanino",
+          "name": "Suchanino"
+        },
+        {
+          "id": "pl-gdansk-182",
+          "slug": "swibno",
+          "name": "Świbno"
+        },
+        {
+          "id": "pl-gdansk-183",
+          "slug": "swiety-wojciech",
+          "name": "Święty Wojciech"
+        },
+        {
+          "id": "pl-gdansk-184",
+          "slug": "szadoki",
+          "name": "Szadółki"
+        },
+        {
+          "id": "pl-gdansk-185",
+          "slug": "szewce",
+          "name": "Szewce"
+        },
+        {
+          "id": "pl-gdansk-186",
+          "slug": "trzy-lipy",
+          "name": "Trzy Lipy"
+        },
+        {
+          "id": "pl-gdansk-187",
+          "slug": "trzy-norty",
+          "name": "Trzy Norty"
+        },
+        {
+          "id": "pl-gdansk-188",
+          "slug": "ujescisko",
+          "name": "Ujeścisko"
+        },
+        {
+          "id": "pl-gdansk-189",
+          "slug": "ujescisko-ostowice",
+          "name": "Ujeścisko - Łostowice"
+        },
+        {
+          "id": "pl-gdansk-190",
+          "slug": "ujescisko-wschodnie",
+          "name": "Ujeścisko Wschodnie"
+        },
+        {
+          "id": "pl-gdansk-191",
+          "slug": "vii-dwor",
+          "name": "VII Dwór"
+        },
+        {
+          "id": "pl-gdansk-192",
+          "slug": "westerplatte",
+          "name": "Westerplatte"
+        },
+        {
+          "id": "pl-gdansk-193",
+          "slug": "wiadrownia",
+          "name": "Wiadrownia"
+        },
+        {
+          "id": "pl-gdansk-194",
+          "slug": "wielka-olszynka",
+          "name": "Wielka Olszynka"
+        },
+        {
+          "id": "pl-gdansk-195",
+          "slug": "wieniec",
+          "name": "Wieniec"
+        },
+        {
+          "id": "pl-gdansk-196",
+          "slug": "wiszace-ogrody",
+          "name": "Wiszące Ogrody"
+        },
+        {
+          "id": "pl-gdansk-197",
+          "slug": "wisoujscie",
+          "name": "Wisłoujście"
+        },
+        {
+          "id": "pl-gdansk-198",
+          "slug": "wojnowo",
+          "name": "Wojnowo"
+        },
+        {
+          "id": "pl-gdansk-199",
+          "slug": "wrzeszcz-dolny",
+          "name": "Wrzeszcz Dolny"
+        },
+        {
+          "id": "pl-gdansk-200",
+          "slug": "wrzeszcz-gorny",
+          "name": "Wrzeszcz Górny"
+        },
+        {
+          "id": "pl-gdansk-201",
+          "slug": "wysoka",
+          "name": "Wysoka"
+        },
+        {
+          "id": "pl-gdansk-202",
+          "slug": "wyspa-piecewska",
+          "name": "Wyspa Piecewska"
+        },
+        {
+          "id": "pl-gdansk-203",
+          "slug": "wyspa-sobieszewska",
+          "name": "Wyspa Sobieszewska"
+        },
+        {
+          "id": "pl-gdansk-204",
+          "slug": "wyspa-spichrzow",
+          "name": "Wyspa Spichrzów"
+        },
+        {
+          "id": "pl-gdansk-205",
+          "slug": "wzgorze-mickiewicza",
+          "name": "Wzgórze Mickiewicza"
+        },
+        {
+          "id": "pl-gdansk-206",
+          "slug": "zabianka",
+          "name": "Żabianka"
+        },
+        {
+          "id": "pl-gdansk-207",
+          "slug": "zabianka-wejhera-jelitkowo-tysiaclecia",
+          "name": "Żabianka-Wejhera-Jelitkowo-Tysiąclecia"
+        },
+        {
+          "id": "pl-gdansk-208",
+          "slug": "zabornia",
+          "name": "Zabornia"
+        },
+        {
+          "id": "pl-gdansk-209",
+          "slug": "zajaczkowo",
+          "name": "Zajączkowo"
+        },
+        {
+          "id": "pl-gdansk-210",
+          "slug": "zaklesy",
+          "name": "Zaklęsy"
+        },
+        {
+          "id": "pl-gdansk-211",
+          "slug": "zakoniczyn",
+          "name": "Zakoniczyn"
+        },
+        {
+          "id": "pl-gdansk-212",
+          "slug": "zamczysko",
+          "name": "Zamczysko"
+        },
+        {
+          "id": "pl-gdansk-213",
+          "slug": "zaroslak",
+          "name": "Zaroślak"
+        },
+        {
+          "id": "pl-gdansk-214",
+          "slug": "zaspa-myniec",
+          "name": "Zaspa-Młyniec"
+        },
+        {
+          "id": "pl-gdansk-215",
+          "slug": "zaspa-rozstaje",
+          "name": "Zaspa-Rozstaje"
+        },
+        {
+          "id": "pl-gdansk-216",
+          "slug": "zawroty",
+          "name": "Zawroty"
+        },
+        {
+          "id": "pl-gdansk-217",
+          "slug": "zielone-wzgorze",
+          "name": "Zielone Wzgórze"
+        },
+        {
+          "id": "pl-gdansk-218",
+          "slug": "zielony-trojkat",
+          "name": "Zielony Trójkąt"
+        },
+        {
+          "id": "pl-gdansk-219",
+          "slug": "zota-karczma",
+          "name": "Złota Karczma"
+        },
+        {
+          "id": "pl-gdansk-220",
+          "slug": "ostowice",
+          "name": "Łostowice"
+        },
+        {
+          "id": "pl-gdansk-221",
+          "slug": "ostowice-poudniowe",
+          "name": "Łostowice Południowe"
         }
       ]
     },
     {
-      "id": "de-frankfurt",
-      "country_code": "DE",
-      "slug": "frankfurt",
-      "name": "Frankfurt am Main",
-      "region": "Hessen",
-      "description": "Frankfurt am Main: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-poznan",
+      "country_code": "PL",
+      "slug": "poznan",
+      "name": "Poznań",
+      "region": "Wielkopolskie",
+      "description": "Poznań: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-5.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-frankfurt-1",
-          "slug": "adolf-miersch-siedlung",
-          "name": "Adolf-Miersch-Siedlung"
+          "id": "pl-poznan-1",
+          "slug": "agrobex-unii-lubelskiej-4",
+          "name": "Agrobex Unii Lubelskiej 4"
         },
         {
-          "id": "de-frankfurt-2",
-          "slug": "alt-zeilsheim",
-          "name": "Alt-Zeilsheim"
+          "id": "pl-poznan-2",
+          "slug": "antonin",
+          "name": "Antonin"
         },
         {
-          "id": "de-frankfurt-3",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-poznan-3",
+          "slug": "antoninek",
+          "name": "Antoninek"
         },
         {
-          "id": "de-frankfurt-4",
-          "slug": "bahnhofsviertel",
-          "name": "Bahnhofsviertel"
+          "id": "pl-poznan-4",
+          "slug": "antoninek-dolny",
+          "name": "Antoninek Dolny"
         },
         {
-          "id": "de-frankfurt-5",
-          "slug": "bergen",
-          "name": "Bergen"
+          "id": "pl-poznan-5",
+          "slug": "antoninek-zieliniec-kobylepole",
+          "name": "Antoninek-Zieliniec-Kobylepole"
         },
         {
-          "id": "de-frankfurt-6",
-          "slug": "bergen-enkheim",
-          "name": "Bergen-Enkheim"
+          "id": "pl-poznan-6",
+          "slug": "apartamenty-dmowskiego",
+          "name": "Apartamenty Dmowskiego"
         },
         {
-          "id": "de-frankfurt-7",
-          "slug": "berkersheim",
-          "name": "Berkersheim"
+          "id": "pl-poznan-7",
+          "slug": "baraki",
+          "name": "Baraki"
         },
         {
-          "id": "de-frankfurt-8",
-          "slug": "bockenheim",
-          "name": "Bockenheim"
+          "id": "pl-poznan-8",
+          "slug": "biaa-gora",
+          "name": "Biała Góra"
         },
         {
-          "id": "de-frankfurt-9",
-          "slug": "bonames",
-          "name": "Bonames"
+          "id": "pl-poznan-9",
+          "slug": "bonin",
+          "name": "Bonin"
         },
         {
-          "id": "de-frankfurt-10",
-          "slug": "bornheim",
-          "name": "Bornheim"
+          "id": "pl-poznan-10",
+          "slug": "botanika",
+          "name": "Botanika"
         },
         {
-          "id": "de-frankfurt-11",
-          "slug": "bornheim-ostend",
-          "name": "Bornheim/Ostend"
+          "id": "pl-poznan-11",
+          "slug": "bugarska-59",
+          "name": "Bułgarska 59"
         },
         {
-          "id": "de-frankfurt-12",
-          "slug": "bruckenviertel",
-          "name": "Brückenviertel"
+          "id": "pl-poznan-12",
+          "slug": "chartowo",
+          "name": "Chartowo"
         },
         {
-          "id": "de-frankfurt-13",
-          "slug": "city-west",
-          "name": "City West"
+          "id": "pl-poznan-13",
+          "slug": "czarna-rola",
+          "name": "Czarna Rola"
         },
         {
-          "id": "de-frankfurt-14",
-          "slug": "dornbusch",
-          "name": "Dornbusch"
+          "id": "pl-poznan-14",
+          "slug": "czekalskie",
+          "name": "Czekalskie"
         },
         {
-          "id": "de-frankfurt-15",
-          "slug": "eckenheim",
-          "name": "Eckenheim"
+          "id": "pl-poznan-15",
+          "slug": "darzybor",
+          "name": "Darzybór"
         },
         {
-          "id": "de-frankfurt-16",
-          "slug": "enkheim",
-          "name": "Enkheim"
+          "id": "pl-poznan-16",
+          "slug": "debiec",
+          "name": "Dębiec"
         },
         {
-          "id": "de-frankfurt-17",
-          "slug": "eschersheim",
-          "name": "Eschersheim"
+          "id": "pl-poznan-17",
+          "slug": "debina",
+          "name": "Dębina"
         },
         {
-          "id": "de-frankfurt-18",
-          "slug": "europaviertel",
-          "name": "Europaviertel"
+          "id": "pl-poznan-18",
+          "slug": "dolna-wilda",
+          "name": "Dolna Wilda"
         },
         {
-          "id": "de-frankfurt-19",
-          "slug": "fechenheim",
-          "name": "Fechenheim"
+          "id": "pl-poznan-19",
+          "slug": "edwardowo",
+          "name": "Edwardowo"
         },
         {
-          "id": "de-frankfurt-20",
-          "slug": "fechenheim-nord",
-          "name": "Fechenheim-Nord"
+          "id": "pl-poznan-20",
+          "slug": "fabianowo",
+          "name": "Fabianowo"
         },
         {
-          "id": "de-frankfurt-21",
-          "slug": "flughafen",
-          "name": "Flughafen"
+          "id": "pl-poznan-21",
+          "slug": "fabianowo-kotowo",
+          "name": "Fabianowo-Kotowo"
         },
         {
-          "id": "de-frankfurt-22",
-          "slug": "frankfurter-berg",
-          "name": "Frankfurter Berg"
+          "id": "pl-poznan-22",
+          "slug": "franowo",
+          "name": "Franowo"
         },
         {
-          "id": "de-frankfurt-23",
-          "slug": "franky",
-          "name": "Franky"
+          "id": "pl-poznan-23",
+          "slug": "garaszewo",
+          "name": "Garaszewo"
         },
         {
-          "id": "de-frankfurt-24",
-          "slug": "friedrich-ebert-siedlung",
-          "name": "Friedrich-Ebert-Siedlung"
+          "id": "pl-poznan-24",
+          "slug": "garbary",
+          "name": "Garbary"
         },
         {
-          "id": "de-frankfurt-25",
-          "slug": "fritz-kissel-siedlung",
-          "name": "Fritz-Kissel-Siedlung"
+          "id": "pl-poznan-25",
+          "slug": "golecin",
+          "name": "Golęcin"
         },
         {
-          "id": "de-frankfurt-26",
-          "slug": "gallus",
-          "name": "Gallus"
+          "id": "pl-poznan-26",
+          "slug": "gorczyn",
+          "name": "Górczyn"
         },
         {
-          "id": "de-frankfurt-27",
-          "slug": "ginnheim",
-          "name": "Ginnheim"
+          "id": "pl-poznan-27",
+          "slug": "gorczynek",
+          "name": "Górczynek"
         },
         {
-          "id": "de-frankfurt-28",
-          "slug": "griesheim",
-          "name": "Griesheim"
+          "id": "pl-poznan-28",
+          "slug": "gorna-wilda",
+          "name": "Górna Wilda"
         },
         {
-          "id": "de-frankfurt-29",
-          "slug": "gutleutviertel",
-          "name": "Gutleutviertel"
+          "id": "pl-poznan-29",
+          "slug": "grunwald",
+          "name": "Grunwald"
         },
         {
-          "id": "de-frankfurt-30",
-          "slug": "harheim",
-          "name": "Harheim"
+          "id": "pl-poznan-30",
+          "slug": "grunwald-ponoc",
+          "name": "Grunwald Północ"
         },
         {
-          "id": "de-frankfurt-31",
-          "slug": "hausen",
-          "name": "Hausen"
+          "id": "pl-poznan-31",
+          "slug": "grunwald-poudnie",
+          "name": "Grunwald Południe"
         },
         {
-          "id": "de-frankfurt-32",
-          "slug": "heddernheim",
-          "name": "Heddernheim"
+          "id": "pl-poznan-32",
+          "slug": "gowieniec",
+          "name": "Główieniec"
         },
         {
-          "id": "de-frankfurt-33",
-          "slug": "hellerhofsiedlung",
-          "name": "Hellerhofsiedlung"
+          "id": "pl-poznan-33",
+          "slug": "gowna",
+          "name": "Główna"
         },
         {
-          "id": "de-frankfurt-34",
-          "slug": "hochst",
-          "name": "Höchst"
+          "id": "pl-poznan-34",
+          "slug": "guszyna",
+          "name": "Głuszyna"
         },
         {
-          "id": "de-frankfurt-35",
-          "slug": "innenstadt",
-          "name": "Innenstadt"
+          "id": "pl-poznan-35",
+          "slug": "huby",
+          "name": "Huby"
         },
         {
-          "id": "de-frankfurt-36",
-          "slug": "innenstadt-1",
-          "name": "Innenstadt 1"
+          "id": "pl-poznan-36",
+          "slug": "huby-moraskie",
+          "name": "Huby Moraskie"
         },
         {
-          "id": "de-frankfurt-37",
-          "slug": "innenstadt-2",
-          "name": "Innenstadt 2"
+          "id": "pl-poznan-37",
+          "slug": "janikowo",
+          "name": "Janikowo"
         },
         {
-          "id": "de-frankfurt-38",
-          "slug": "innenstadt-3",
-          "name": "Innenstadt 3"
+          "id": "pl-poznan-38",
+          "slug": "jezyce",
+          "name": "Jeżyce"
         },
         {
-          "id": "de-frankfurt-39",
-          "slug": "kalbach",
-          "name": "Kalbach"
+          "id": "pl-poznan-39",
+          "slug": "jezyckie-osiedle",
+          "name": "Jeżyckie Osiedle"
         },
         {
-          "id": "de-frankfurt-40",
-          "slug": "kalbach-riedberg",
-          "name": "Kalbach-Riedberg"
+          "id": "pl-poznan-40",
+          "slug": "junikowo",
+          "name": "Junikowo"
         },
         {
-          "id": "de-frankfurt-41",
-          "slug": "kolonie",
-          "name": "Kolonie"
+          "id": "pl-poznan-41",
+          "slug": "karolin",
+          "name": "Karolin"
         },
         {
-          "id": "de-frankfurt-42",
-          "slug": "kuhwaldsiedlung",
-          "name": "Kuhwaldsiedlung"
+          "id": "pl-poznan-42",
+          "slug": "kasztelanow",
+          "name": "Kasztelanów"
         },
         {
-          "id": "de-frankfurt-43",
-          "slug": "lerchesberg",
-          "name": "Lerchesberg"
+          "id": "pl-poznan-43",
+          "slug": "kiekrz",
+          "name": "Kiekrz"
         },
         {
-          "id": "de-frankfurt-44",
-          "slug": "mainwald-wohnpark",
-          "name": "MainWald Wohnpark"
+          "id": "pl-poznan-44",
+          "slug": "kobylepole",
+          "name": "Kobylepole"
         },
         {
-          "id": "de-frankfurt-45",
-          "slug": "marchensiedlung",
-          "name": "Märchensiedlung"
+          "id": "pl-poznan-45",
+          "slug": "komandoria",
+          "name": "Komandoria"
         },
         {
-          "id": "de-frankfurt-46",
-          "slug": "mertonviertel",
-          "name": "Mertonviertel"
+          "id": "pl-poznan-46",
+          "slug": "komandoria-pomet",
+          "name": "Komandoria-Pomet"
         },
         {
-          "id": "de-frankfurt-47",
-          "slug": "mitte-nord",
-          "name": "Mitte-Nord"
+          "id": "pl-poznan-47",
+          "slug": "kopanina",
+          "name": "Kopanina"
         },
         {
-          "id": "de-frankfurt-48",
-          "slug": "mitte-west",
-          "name": "Mitte-West"
+          "id": "pl-poznan-48",
+          "slug": "kotowo",
+          "name": "Kotowo"
         },
         {
-          "id": "de-frankfurt-49",
-          "slug": "nied",
-          "name": "Nied"
+          "id": "pl-poznan-49",
+          "slug": "krzesinki",
+          "name": "Krzesinki"
         },
         {
-          "id": "de-frankfurt-50",
-          "slug": "nieder-erlenbach",
-          "name": "Nieder-Erlenbach"
+          "id": "pl-poznan-50",
+          "slug": "krzesiny",
+          "name": "Krzesiny"
         },
         {
-          "id": "de-frankfurt-51",
-          "slug": "nieder-eschbach",
-          "name": "Nieder-Eschbach"
+          "id": "pl-poznan-51",
+          "slug": "krzesiny-pokrzywno-garaszewo",
+          "name": "Krzesiny-Pokrzywno-Garaszewo"
         },
         {
-          "id": "de-frankfurt-52",
-          "slug": "niederrad",
-          "name": "Niederrad"
+          "id": "pl-poznan-52",
+          "slug": "krzyzowniki",
+          "name": "Krzyżowniki"
         },
         {
-          "id": "de-frankfurt-53",
-          "slug": "niederursel",
-          "name": "Niederursel"
+          "id": "pl-poznan-53",
+          "slug": "krzyzowniki-smochowice",
+          "name": "Krzyżowniki-Smochowice"
         },
         {
-          "id": "de-frankfurt-54",
-          "slug": "nord",
-          "name": "Nord"
+          "id": "pl-poznan-54",
+          "slug": "kwiatowe",
+          "name": "Kwiatowe"
         },
         {
-          "id": "de-frankfurt-55",
-          "slug": "nord-ost",
-          "name": "Nord-Ost"
+          "id": "pl-poznan-55",
+          "slug": "malta-wokowyska",
+          "name": "Malta Wołkowyska"
         },
         {
-          "id": "de-frankfurt-56",
-          "slug": "nord-west",
-          "name": "Nord-West"
+          "id": "pl-poznan-56",
+          "slug": "maltanskie",
+          "name": "Maltańskie"
         },
         {
-          "id": "de-frankfurt-57",
-          "slug": "nordend-ost",
-          "name": "Nordend Ost"
+          "id": "pl-poznan-57",
+          "slug": "marcelin",
+          "name": "Marcelin"
         },
         {
-          "id": "de-frankfurt-58",
-          "slug": "nordend-west",
-          "name": "Nordend West"
+          "id": "pl-poznan-58",
+          "slug": "marlewo",
+          "name": "Marlewo"
         },
         {
-          "id": "de-frankfurt-59",
-          "slug": "nordweststadt",
-          "name": "Nordweststadt"
+          "id": "pl-poznan-59",
+          "slug": "miasteczko",
+          "name": "Miasteczko"
         },
         {
-          "id": "de-frankfurt-60",
-          "slug": "oberrad",
-          "name": "Oberrad"
+          "id": "pl-poznan-60",
+          "slug": "michaowo",
+          "name": "Michałowo"
         },
         {
-          "id": "de-frankfurt-61",
-          "slug": "ost",
-          "name": "Ost"
+          "id": "pl-poznan-61",
+          "slug": "minikowo",
+          "name": "Minikowo"
         },
         {
-          "id": "de-frankfurt-62",
-          "slug": "ostend",
-          "name": "Ostend"
+          "id": "pl-poznan-62",
+          "slug": "miostowo",
+          "name": "Miłostowo"
         },
         {
-          "id": "de-frankfurt-63",
-          "slug": "praunheim",
-          "name": "Praunheim"
+          "id": "pl-poznan-63",
+          "slug": "morasko",
+          "name": "Morasko"
         },
         {
-          "id": "de-frankfurt-64",
-          "slug": "preungesheim",
-          "name": "Preungesheim"
+          "id": "pl-poznan-64",
+          "slug": "morasko-radojewo",
+          "name": "Morasko-Radojewo"
         },
         {
-          "id": "de-frankfurt-65",
-          "slug": "regenbogenviertel",
-          "name": "Regenbogenviertel"
+          "id": "pl-poznan-65",
+          "slug": "murapol-osiedle-verde",
+          "name": "Murapol Osiedle Verde"
         },
         {
-          "id": "de-frankfurt-66",
-          "slug": "riedberg",
-          "name": "Riedberg"
+          "id": "pl-poznan-66",
+          "slug": "nadolnik",
+          "name": "Nadolnik"
         },
         {
-          "id": "de-frankfurt-67",
-          "slug": "riederwald",
-          "name": "Riederwald"
+          "id": "pl-poznan-67",
+          "slug": "naramowice",
+          "name": "Naramowice"
         },
         {
-          "id": "de-frankfurt-68",
-          "slug": "rodelheim",
-          "name": "Rödelheim"
+          "id": "pl-poznan-68",
+          "slug": "niestachow",
+          "name": "Niestachów"
         },
         {
-          "id": "de-frankfurt-69",
-          "slug": "roter-graben",
-          "name": "Roter Graben"
+          "id": "pl-poznan-69",
+          "slug": "nova-acina",
+          "name": "Nova Łacina"
         },
         {
-          "id": "de-frankfurt-70",
-          "slug": "sachsenhausen",
-          "name": "Sachsenhausen"
+          "id": "pl-poznan-70",
+          "slug": "nove-olendry",
+          "name": "Nove Olendry"
         },
         {
-          "id": "de-frankfurt-71",
-          "slug": "sachsenhausen-nord",
-          "name": "Sachsenhausen Nord"
+          "id": "pl-poznan-71",
+          "slug": "nowa-wies-dolna",
+          "name": "Nowa Wieś Dolna"
         },
         {
-          "id": "de-frankfurt-72",
-          "slug": "sachsenhausen-sud",
-          "name": "Sachsenhausen Süd"
+          "id": "pl-poznan-72",
+          "slug": "nowa-wies-gorna",
+          "name": "Nowa Wieś Górna"
         },
         {
-          "id": "de-frankfurt-73",
-          "slug": "schonhof-viertel",
-          "name": "Schönhof-Viertel"
+          "id": "pl-poznan-73",
+          "slug": "nowe-winogrady-ponoc",
+          "name": "Nowe Winogrady Północ"
         },
         {
-          "id": "de-frankfurt-74",
-          "slug": "schwanheim",
-          "name": "Schwanheim"
+          "id": "pl-poznan-74",
+          "slug": "nowe-winogrady-poudnie",
+          "name": "Nowe Winogrady Południe"
         },
         {
-          "id": "de-frankfurt-75",
-          "slug": "seckbach",
-          "name": "Seckbach"
+          "id": "pl-poznan-75",
+          "slug": "nowe-winogrady-wschod",
+          "name": "Nowe Winogrady Wschód"
         },
         {
-          "id": "de-frankfurt-76",
-          "slug": "siedlung-friedenau",
-          "name": "Siedlung Friedenau"
+          "id": "pl-poznan-76",
+          "slug": "nowe-zegrze",
+          "name": "Nowe Żegrze"
         },
         {
-          "id": "de-frankfurt-77",
-          "slug": "siedlung-taunusblick",
-          "name": "Siedlung Taunusblick"
+          "id": "pl-poznan-77",
+          "slug": "nowy-myn",
+          "name": "Nowy Młyn"
         },
         {
-          "id": "de-frankfurt-78",
-          "slug": "sindlingen",
-          "name": "Sindlingen"
+          "id": "pl-poznan-78",
+          "slug": "ogrody",
+          "name": "Ogrody"
         },
         {
-          "id": "de-frankfurt-79",
-          "slug": "sossenheim",
-          "name": "Sossenheim"
+          "id": "pl-poznan-79",
+          "slug": "olszak",
+          "name": "Olszak"
         },
         {
-          "id": "de-frankfurt-80",
-          "slug": "steinrutsch-siedlung",
-          "name": "Steinrutsch-Siedlung"
+          "id": "pl-poznan-80",
+          "slug": "osiedle-armii-krajowej",
+          "name": "Osiedle Armii Krajowej"
         },
         {
-          "id": "de-frankfurt-81",
-          "slug": "sud",
-          "name": "Süd"
+          "id": "pl-poznan-81",
+          "slug": "osiedle-bajkowe",
+          "name": "Osiedle Bajkowe"
         },
         {
-          "id": "de-frankfurt-82",
-          "slug": "unterliederbach",
-          "name": "Unterliederbach"
+          "id": "pl-poznan-82",
+          "slug": "osiedle-bohaterow-ii-wojny-swiatowej",
+          "name": "Osiedle Bohaterów II Wojny Światowej"
         },
         {
-          "id": "de-frankfurt-83",
-          "slug": "west",
-          "name": "West"
+          "id": "pl-poznan-83",
+          "slug": "osiedle-bolesawa-chrobrego",
+          "name": "Osiedle Bolesława Chrobrego"
         },
         {
-          "id": "de-frankfurt-84",
-          "slug": "westend",
-          "name": "Westend"
+          "id": "pl-poznan-84",
+          "slug": "osiedle-bolesawa-smiaego",
+          "name": "Osiedle Bolesława Śmiałego"
         },
         {
-          "id": "de-frankfurt-85",
-          "slug": "westend-nord",
-          "name": "Westend Nord"
+          "id": "pl-poznan-85",
+          "slug": "osiedle-botaniczna",
+          "name": "Osiedle Botaniczna"
         },
         {
-          "id": "de-frankfurt-86",
-          "slug": "westend-sud",
-          "name": "Westend Süd"
+          "id": "pl-poznan-86",
+          "slug": "osiedle-czecha",
+          "name": "Osiedle Czecha"
         },
         {
-          "id": "de-frankfurt-87",
-          "slug": "zeilsheim",
-          "name": "Zeilsheim"
+          "id": "pl-poznan-87",
+          "slug": "osiedle-cztery-pory-roku",
+          "name": "Osiedle Cztery Pory Roku"
+        },
+        {
+          "id": "pl-poznan-88",
+          "slug": "osiedle-debina",
+          "name": "Osiedle Dębina"
+        },
+        {
+          "id": "pl-poznan-89",
+          "slug": "osiedle-enter",
+          "name": "Osiedle Enter"
+        },
+        {
+          "id": "pl-poznan-90",
+          "slug": "osiedle-hetmanskie",
+          "name": "Osiedle Hetmańskie"
+        },
+        {
+          "id": "pl-poznan-91",
+          "slug": "osiedle-hetmanskie-hcp",
+          "name": "Osiedle Hetmańskie HCP"
+        },
+        {
+          "id": "pl-poznan-92",
+          "slug": "osiedle-jagiellonskie",
+          "name": "Osiedle Jagiellońskie"
+        },
+        {
+          "id": "pl-poznan-93",
+          "slug": "osiedle-jana-iii-sobieskiego",
+          "name": "Osiedle Jana III Sobieskiego"
+        },
+        {
+          "id": "pl-poznan-94",
+          "slug": "osiedle-jasminowe",
+          "name": "Osiedle Jaśminowe"
+        },
+        {
+          "id": "pl-poznan-95",
+          "slug": "osiedle-kosmonautow",
+          "name": "Osiedle Kosmonautów"
+        },
+        {
+          "id": "pl-poznan-96",
+          "slug": "osiedle-kwiatowe",
+          "name": "Osiedle Kwiatowe"
+        },
+        {
+          "id": "pl-poznan-97",
+          "slug": "osiedle-lecha",
+          "name": "Osiedle Lecha"
+        },
+        {
+          "id": "pl-poznan-98",
+          "slug": "osiedle-literackie",
+          "name": "Osiedle Literackie"
+        },
+        {
+          "id": "pl-poznan-99",
+          "slug": "osiedle-lotnictwa-polskiego",
+          "name": "Osiedle Lotnictwa Polskiego"
+        },
+        {
+          "id": "pl-poznan-100",
+          "slug": "osiedle-lotnikow-wielkopolskich",
+          "name": "Osiedle Lotników Wielkopolskich"
+        },
+        {
+          "id": "pl-poznan-101",
+          "slug": "osiedle-maltanskie",
+          "name": "Osiedle Maltańskie"
+        },
+        {
+          "id": "pl-poznan-102",
+          "slug": "osiedle-marysienki",
+          "name": "Osiedle Marysieńki"
+        },
+        {
+          "id": "pl-poznan-103",
+          "slug": "osiedle-mae-naramowice-rynek",
+          "name": "Osiedle Małe Naramowice Rynek"
+        },
+        {
+          "id": "pl-poznan-104",
+          "slug": "osiedle-mikoaja-kopernika",
+          "name": "Osiedle Mikołaja Kopernika"
+        },
+        {
+          "id": "pl-poznan-105",
+          "slug": "osiedle-na-murawie",
+          "name": "Osiedle Na Murawie"
+        },
+        {
+          "id": "pl-poznan-106",
+          "slug": "osiedle-ognik",
+          "name": "Osiedle Ognik"
+        },
+        {
+          "id": "pl-poznan-107",
+          "slug": "osiedle-ora-biaego",
+          "name": "Osiedle Orła Białego"
+        },
+        {
+          "id": "pl-poznan-108",
+          "slug": "osiedle-oswiecenia",
+          "name": "Osiedle Oświecenia"
+        },
+        {
+          "id": "pl-poznan-109",
+          "slug": "osiedle-park-sowinskiego",
+          "name": "Osiedle Park Sowińskiego"
+        },
+        {
+          "id": "pl-poznan-110",
+          "slug": "osiedle-perspektywa",
+          "name": "Osiedle Perspektywa"
+        },
+        {
+          "id": "pl-poznan-111",
+          "slug": "osiedle-piastowskie",
+          "name": "Osiedle Piastowskie"
+        },
+        {
+          "id": "pl-poznan-112",
+          "slug": "osiedle-pod-lipami",
+          "name": "Osiedle Pod Lipami"
+        },
+        {
+          "id": "pl-poznan-113",
+          "slug": "osiedle-polan",
+          "name": "Osiedle Polan"
+        },
+        {
+          "id": "pl-poznan-114",
+          "slug": "osiedle-polanka",
+          "name": "Osiedle Polanka"
+        },
+        {
+          "id": "pl-poznan-115",
+          "slug": "osiedle-powstan-narodowych",
+          "name": "Osiedle Powstań Narodowych"
+        },
+        {
+          "id": "pl-poznan-116",
+          "slug": "osiedle-powstancow-slaskich",
+          "name": "Osiedle Powstańców Śląskich"
+        },
+        {
+          "id": "pl-poznan-117",
+          "slug": "osiedle-powstancow-warszawy",
+          "name": "Osiedle Powstańców Warszawy"
+        },
+        {
+          "id": "pl-poznan-118",
+          "slug": "osiedle-przemysawa",
+          "name": "Osiedle Przemysława"
+        },
+        {
+          "id": "pl-poznan-119",
+          "slug": "osiedle-przy-jeziorach",
+          "name": "Osiedle Przy Jeziorach"
+        },
+        {
+          "id": "pl-poznan-120",
+          "slug": "osiedle-przy-unii-etap-i",
+          "name": "Osiedle Przy Unii Etap I"
+        },
+        {
+          "id": "pl-poznan-121",
+          "slug": "osiedle-przy-unii-etap-ii",
+          "name": "Osiedle Przy Unii Etap II"
+        },
+        {
+          "id": "pl-poznan-122",
+          "slug": "osiedle-przy-unii-etap-iii",
+          "name": "Osiedle Przy Unii Etap III"
+        },
+        {
+          "id": "pl-poznan-123",
+          "slug": "osiedle-przyjazni",
+          "name": "Osiedle Przyjaźni"
+        },
+        {
+          "id": "pl-poznan-124",
+          "slug": "osiedle-rusa",
+          "name": "Osiedle Rusa"
+        },
+        {
+          "id": "pl-poznan-125",
+          "slug": "osiedle-rzeczypospolitej",
+          "name": "Osiedle Rzeczypospolitej"
+        },
+        {
+          "id": "pl-poznan-126",
+          "slug": "osiedle-stare-zegrze",
+          "name": "Osiedle Stare Żegrze"
+        },
+        {
+          "id": "pl-poznan-127",
+          "slug": "osiedle-stefana-batorego",
+          "name": "Osiedle Stefana Batorego"
+        },
+        {
+          "id": "pl-poznan-128",
+          "slug": "osiedle-studenckie",
+          "name": "Osiedle Studenckie"
+        },
+        {
+          "id": "pl-poznan-129",
+          "slug": "osiedle-sowianskie",
+          "name": "Osiedle Słowiańskie"
+        },
+        {
+          "id": "pl-poznan-130",
+          "slug": "osiedle-tysiaclecia",
+          "name": "Osiedle Tysiąclecia"
+        },
+        {
+          "id": "pl-poznan-131",
+          "slug": "osiedle-vesty",
+          "name": "Osiedle Vesty"
+        },
+        {
+          "id": "pl-poznan-132",
+          "slug": "osiedle-wichrowe-wzgorze",
+          "name": "Osiedle Wichrowe Wzgórze"
+        },
+        {
+          "id": "pl-poznan-133",
+          "slug": "osiedle-wilczak-18-serbska-4a-16d",
+          "name": "Osiedle Wilczak 18, Serbska 4A-16D"
+        },
+        {
+          "id": "pl-poznan-134",
+          "slug": "osiedle-wilczak-20",
+          "name": "Osiedle Wilczak 20"
+        },
+        {
+          "id": "pl-poznan-135",
+          "slug": "osiedle-winiary",
+          "name": "Osiedle Winiary"
+        },
+        {
+          "id": "pl-poznan-136",
+          "slug": "osiedle-witaj",
+          "name": "Osiedle Witaj"
+        },
+        {
+          "id": "pl-poznan-137",
+          "slug": "osiedle-wadysawa-jagiey",
+          "name": "Osiedle Władysława Jagiełły"
+        },
+        {
+          "id": "pl-poznan-138",
+          "slug": "osiedle-wadysawa-okietka",
+          "name": "Osiedle Władysława Łokietka"
+        },
+        {
+          "id": "pl-poznan-139",
+          "slug": "osiedle-za-fortem",
+          "name": "Osiedle Za Fortem"
+        },
+        {
+          "id": "pl-poznan-140",
+          "slug": "osiedle-zielona-podkowa",
+          "name": "Osiedle Zielona Podkowa"
+        },
+        {
+          "id": "pl-poznan-141",
+          "slug": "osiedle-zodiak",
+          "name": "Osiedle Zodiak"
+        },
+        {
+          "id": "pl-poznan-142",
+          "slug": "osiedle-zwyciestwa",
+          "name": "Osiedle Zwycięstwa"
+        },
+        {
+          "id": "pl-poznan-143",
+          "slug": "osiedle-zygmunta-starego",
+          "name": "Osiedle Zygmunta Starego"
+        },
+        {
+          "id": "pl-poznan-144",
+          "slug": "ostrorog",
+          "name": "Ostroróg"
+        },
+        {
+          "id": "pl-poznan-145",
+          "slug": "ostrow-tumski",
+          "name": "Ostrów Tumski"
+        },
+        {
+          "id": "pl-poznan-146",
+          "slug": "ostrow-tumski-srodka-zawady-komandoria",
+          "name": "Ostrów Tumski-Śródka-Zawady-Komandoria"
+        },
+        {
+          "id": "pl-poznan-147",
+          "slug": "panoramiqa",
+          "name": "Panoramiqa"
+        },
+        {
+          "id": "pl-poznan-148",
+          "slug": "piatkowo",
+          "name": "Piątkowo"
+        },
+        {
+          "id": "pl-poznan-149",
+          "slug": "piatkowo-ponoc",
+          "name": "Piątkowo Północ"
+        },
+        {
+          "id": "pl-poznan-150",
+          "slug": "piekary",
+          "name": "Piekary"
+        },
+        {
+          "id": "pl-poznan-151",
+          "slug": "piotrowo",
+          "name": "Piotrowo"
+        },
+        {
+          "id": "pl-poznan-152",
+          "slug": "podolany",
+          "name": "Podolany"
+        },
+        {
+          "id": "pl-poznan-153",
+          "slug": "pogodno",
+          "name": "Pogodno"
+        },
+        {
+          "id": "pl-poznan-154",
+          "slug": "pokrzywno",
+          "name": "Pokrzywno"
+        },
+        {
+          "id": "pl-poznan-155",
+          "slug": "przepadek",
+          "name": "Przepadek"
+        },
+        {
+          "id": "pl-poznan-156",
+          "slug": "psarskie",
+          "name": "Psarskie"
+        },
+        {
+          "id": "pl-poznan-157",
+          "slug": "radojewo",
+          "name": "Radojewo"
+        },
+        {
+          "id": "pl-poznan-158",
+          "slug": "raszyn",
+          "name": "Raszyn"
+        },
+        {
+          "id": "pl-poznan-159",
+          "slug": "rataje",
+          "name": "Rataje"
+        },
+        {
+          "id": "pl-poznan-160",
+          "slug": "rozany-myn",
+          "name": "Różany Młyn"
+        },
+        {
+          "id": "pl-poznan-161",
+          "slug": "rozany-potok",
+          "name": "Różany Potok"
+        },
+        {
+          "id": "pl-poznan-162",
+          "slug": "rudnicze",
+          "name": "Rudnicze"
+        },
+        {
+          "id": "pl-poznan-163",
+          "slug": "rybaki",
+          "name": "Rybaki"
+        },
+        {
+          "id": "pl-poznan-164",
+          "slug": "rynek-jezycki",
+          "name": "Rynek Jeżycki"
+        },
+        {
+          "id": "pl-poznan-165",
+          "slug": "rynek-wildecki",
+          "name": "Rynek Wildecki"
+        },
+        {
+          "id": "pl-poznan-166",
+          "slug": "silva-eco-ville",
+          "name": "SILVA Eco Ville"
+        },
+        {
+          "id": "pl-poznan-167",
+          "slug": "smochowice",
+          "name": "Smochowice"
+        },
+        {
+          "id": "pl-poznan-168",
+          "slug": "soacz",
+          "name": "Sołacz"
+        },
+        {
+          "id": "pl-poznan-169",
+          "slug": "spawie",
+          "name": "Spławie"
+        },
+        {
+          "id": "pl-poznan-170",
+          "slug": "srodka",
+          "name": "Śródka"
+        },
+        {
+          "id": "pl-poznan-171",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
+        },
+        {
+          "id": "pl-poznan-172",
+          "slug": "stare-winogrady",
+          "name": "Stare Winogrady"
+        },
+        {
+          "id": "pl-poznan-173",
+          "slug": "staroecka-dolina",
+          "name": "Starołęcka Dolina"
+        },
+        {
+          "id": "pl-poznan-174",
+          "slug": "staroeka",
+          "name": "Starołęka"
+        },
+        {
+          "id": "pl-poznan-175",
+          "slug": "staroeka-maa",
+          "name": "Starołęka Mała"
+        },
+        {
+          "id": "pl-poznan-176",
+          "slug": "staroeka-wielka",
+          "name": "Starołęka Wielka"
+        },
+        {
+          "id": "pl-poznan-177",
+          "slug": "staroeka-minikowo-marlewo",
+          "name": "Starołęka-Minikowo-Marlewo"
+        },
+        {
+          "id": "pl-poznan-178",
+          "slug": "stary-grunwald",
+          "name": "Stary Grunwald"
+        },
+        {
+          "id": "pl-poznan-179",
+          "slug": "strzeszyn",
+          "name": "Strzeszyn"
+        },
+        {
+          "id": "pl-poznan-180",
+          "slug": "strzeszyn-grecki",
+          "name": "Strzeszyn Grecki"
+        },
+        {
+          "id": "pl-poznan-181",
+          "slug": "strzeszynek",
+          "name": "Strzeszynek"
+        },
+        {
+          "id": "pl-poznan-182",
+          "slug": "swierczewo",
+          "name": "Świerczewo"
+        },
+        {
+          "id": "pl-poznan-183",
+          "slug": "swiety-marcin",
+          "name": "Święty Marcin"
+        },
+        {
+          "id": "pl-poznan-184",
+          "slug": "swiety-roch",
+          "name": "Święty Roch"
+        },
+        {
+          "id": "pl-poznan-185",
+          "slug": "swit",
+          "name": "Świt"
+        },
+        {
+          "id": "pl-poznan-186",
+          "slug": "sypniewo",
+          "name": "Sypniewo"
+        },
+        {
+          "id": "pl-poznan-187",
+          "slug": "sytkowo",
+          "name": "Sytkowo"
+        },
+        {
+          "id": "pl-poznan-188",
+          "slug": "szczepankowo",
+          "name": "Szczepankowo"
+        },
+        {
+          "id": "pl-poznan-189",
+          "slug": "szczepankowo-spawie-krzesinki",
+          "name": "Szczepankowo-Spławie-Krzesinki"
+        },
+        {
+          "id": "pl-poznan-190",
+          "slug": "szelag",
+          "name": "Szeląg"
+        },
+        {
+          "id": "pl-poznan-191",
+          "slug": "trojpole",
+          "name": "Trójpole"
+        },
+        {
+          "id": "pl-poznan-192",
+          "slug": "umultowo",
+          "name": "Umultowo"
+        },
+        {
+          "id": "pl-poznan-193",
+          "slug": "unii-lubelskiej-vita",
+          "name": "Unii Lubelskiej Vita"
+        },
+        {
+          "id": "pl-poznan-194",
+          "slug": "warszawskie",
+          "name": "Warszawskie"
+        },
+        {
+          "id": "pl-poznan-195",
+          "slug": "warszawskie-pomet-maltanskie",
+          "name": "Warszawskie-Pomet-Maltańskie"
+        },
+        {
+          "id": "pl-poznan-196",
+          "slug": "wielkie",
+          "name": "Wielkie"
+        },
+        {
+          "id": "pl-poznan-197",
+          "slug": "wierzbiecice",
+          "name": "Wierzbięcice"
+        },
+        {
+          "id": "pl-poznan-198",
+          "slug": "wilczy-myn",
+          "name": "Wilczy Młyn"
+        },
+        {
+          "id": "pl-poznan-199",
+          "slug": "wilda",
+          "name": "Wilda"
+        },
+        {
+          "id": "pl-poznan-200",
+          "slug": "winiary",
+          "name": "Winiary"
+        },
+        {
+          "id": "pl-poznan-201",
+          "slug": "winogrady",
+          "name": "Winogrady"
+        },
+        {
+          "id": "pl-poznan-202",
+          "slug": "wola",
+          "name": "Wola"
+        },
+        {
+          "id": "pl-poznan-203",
+          "slug": "wydmy",
+          "name": "Wydmy"
+        },
+        {
+          "id": "pl-poznan-204",
+          "slug": "zatorze",
+          "name": "Zatorze"
+        },
+        {
+          "id": "pl-poznan-205",
+          "slug": "zawady",
+          "name": "Zawady"
+        },
+        {
+          "id": "pl-poznan-206",
+          "slug": "zegrze",
+          "name": "Żegrze"
+        },
+        {
+          "id": "pl-poznan-207",
+          "slug": "zieliniec",
+          "name": "Zieliniec"
+        },
+        {
+          "id": "pl-poznan-208",
+          "slug": "zielony-debiec",
+          "name": "Zielony Dębiec"
+        },
+        {
+          "id": "pl-poznan-209",
+          "slug": "zielony-zurawiniec",
+          "name": "Zielony Żurawiniec"
+        },
+        {
+          "id": "pl-poznan-210",
+          "slug": "acina",
+          "name": "Łacina"
+        },
+        {
+          "id": "pl-poznan-211",
+          "slug": "aczny-myn",
+          "name": "Łączny Młyn"
+        },
+        {
+          "id": "pl-poznan-212",
+          "slug": "awica",
+          "name": "Ławica"
+        },
+        {
+          "id": "pl-poznan-213",
+          "slug": "azarz",
+          "name": "Łazarz"
+        },
+        {
+          "id": "pl-poznan-214",
+          "slug": "egi-debinskie",
+          "name": "Łęgi Dębińskie"
         }
       ]
     },
     {
-      "id": "de-leipzig",
-      "country_code": "DE",
-      "slug": "leipzig",
-      "name": "Leipzig",
-      "region": "Sachsen",
-      "description": "Leipzig: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-lodz",
+      "country_code": "PL",
+      "slug": "lodz",
+      "name": "Łódź",
+      "region": "Łódzkie",
+      "description": "Łódź: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-6.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-leipzig-1",
-          "slug": "abtnaundorf",
-          "name": "Abtnaundorf"
+          "id": "pl-lodz-1",
+          "slug": "andrzejki",
+          "name": "Andrzejki"
         },
         {
-          "id": "de-leipzig-2",
-          "slug": "althen-kleinposna",
-          "name": "Althen-Kleinpösna"
+          "id": "pl-lodz-2",
+          "slug": "andrzejow",
+          "name": "Andrzejów"
         },
         {
-          "id": "de-leipzig-3",
-          "slug": "altlindenau",
-          "name": "Altlindenau"
+          "id": "pl-lodz-3",
+          "slug": "arturowek",
+          "name": "Arturówek"
         },
         {
-          "id": "de-leipzig-4",
-          "slug": "altwest",
-          "name": "Altwest"
+          "id": "pl-lodz-4",
+          "slug": "augustow",
+          "name": "Augustów"
         },
         {
-          "id": "de-leipzig-5",
-          "slug": "anger",
-          "name": "Anger"
+          "id": "pl-lodz-5",
+          "slug": "bauty",
+          "name": "Bałuty"
         },
         {
-          "id": "de-leipzig-6",
-          "slug": "anger-crottendorf",
-          "name": "Anger-Crottendorf"
+          "id": "pl-lodz-6",
+          "slug": "bauty-zachodnie",
+          "name": "Bałuty Zachodnie"
         },
         {
-          "id": "de-leipzig-7",
-          "slug": "bachviertel",
-          "name": "Bachviertel"
+          "id": "pl-lodz-7",
+          "slug": "bauty-centrum",
+          "name": "Bałuty-Centrum"
         },
         {
-          "id": "de-leipzig-8",
-          "slug": "barneck",
-          "name": "Barneck"
+          "id": "pl-lodz-8",
+          "slug": "bauty-doy",
+          "name": "Bałuty-Doły"
         },
         {
-          "id": "de-leipzig-9",
-          "slug": "bohlitz",
-          "name": "Böhlitz"
+          "id": "pl-lodz-9",
+          "slug": "berlinek",
+          "name": "Berlinek"
         },
         {
-          "id": "de-leipzig-10",
-          "slug": "bohlitz-ehrenberg",
-          "name": "Böhlitz-Ehrenberg"
+          "id": "pl-lodz-10",
+          "slug": "bolesawow",
+          "name": "Bolesławów"
         },
         {
-          "id": "de-leipzig-11",
-          "slug": "burghausen-ruckmarsdorf",
-          "name": "Burghausen-Rückmarsdorf"
+          "id": "pl-lodz-11",
+          "slug": "borowiec",
+          "name": "Borowiec"
         },
         {
-          "id": "de-leipzig-12",
-          "slug": "cleuden",
-          "name": "Cleuden"
+          "id": "pl-lodz-12",
+          "slug": "brus",
+          "name": "Brus"
         },
         {
-          "id": "de-leipzig-13",
-          "slug": "connewitz",
-          "name": "Connewitz"
+          "id": "pl-lodz-13",
+          "slug": "centrum",
+          "name": "Centrum"
         },
         {
-          "id": "de-leipzig-14",
-          "slug": "crottendorf",
-          "name": "Crottendorf"
+          "id": "pl-lodz-14",
+          "slug": "chachuy",
+          "name": "Chachuły"
         },
         {
-          "id": "de-leipzig-15",
-          "slug": "dolitz",
-          "name": "Dölitz"
+          "id": "pl-lodz-15",
+          "slug": "charzew",
+          "name": "Charzew"
         },
         {
-          "id": "de-leipzig-16",
-          "slug": "dolitz-dosen",
-          "name": "Dölitz-Dösen"
+          "id": "pl-lodz-16",
+          "slug": "chocianowice",
+          "name": "Chocianowice"
         },
         {
-          "id": "de-leipzig-17",
-          "slug": "dosen",
-          "name": "Dösen"
+          "id": "pl-lodz-17",
+          "slug": "chojny",
+          "name": "Chojny"
         },
         {
-          "id": "de-leipzig-18",
-          "slug": "ehrenberg",
-          "name": "Ehrenberg"
+          "id": "pl-lodz-18",
+          "slug": "chojny-zatorze",
+          "name": "Chojny Zatorze"
         },
         {
-          "id": "de-leipzig-19",
-          "slug": "eichbergsiedlung",
-          "name": "Eichbergsiedlung"
+          "id": "pl-lodz-19",
+          "slug": "chojny-dabrowa",
+          "name": "Chojny-Dąbrowa"
         },
         {
-          "id": "de-leipzig-20",
-          "slug": "engelsdorf",
-          "name": "Engelsdorf"
+          "id": "pl-lodz-20",
+          "slug": "cyganka",
+          "name": "Cyganka"
         },
         {
-          "id": "de-leipzig-21",
-          "slug": "erla-siedlung",
-          "name": "Erla-Siedlung"
+          "id": "pl-lodz-21",
+          "slug": "dabrowa",
+          "name": "Dąbrowa"
         },
         {
-          "id": "de-leipzig-22",
-          "slug": "eutritzsch",
-          "name": "Eutritzsch"
+          "id": "pl-lodz-22",
+          "slug": "dolina-odki",
+          "name": "Dolina Łódki"
         },
         {
-          "id": "de-leipzig-23",
-          "slug": "gohlis",
-          "name": "Gohlis"
+          "id": "pl-lodz-23",
+          "slug": "doy",
+          "name": "Doły"
         },
         {
-          "id": "de-leipzig-24",
-          "slug": "gohlis-mitte",
-          "name": "Gohlis-Mitte"
+          "id": "pl-lodz-24",
+          "slug": "fabryczna",
+          "name": "Fabryczna"
         },
         {
-          "id": "de-leipzig-25",
-          "slug": "gohlis-nord",
-          "name": "Gohlis-Nord"
+          "id": "pl-lodz-25",
+          "slug": "fabryczna-widzew",
+          "name": "Fabryczna Widzew"
         },
         {
-          "id": "de-leipzig-26",
-          "slug": "gohlis-sud",
-          "name": "Gohlis-Süd"
+          "id": "pl-lodz-26",
+          "slug": "feliksin",
+          "name": "Feliksin"
         },
         {
-          "id": "de-leipzig-27",
-          "slug": "gohliser-hofe",
-          "name": "Gohliser Höfe"
+          "id": "pl-lodz-27",
+          "slug": "gorki-stare",
+          "name": "Górki Stare"
         },
         {
-          "id": "de-leipzig-28",
-          "slug": "grozschocher",
-          "name": "Großzschocher"
+          "id": "pl-lodz-28",
+          "slug": "gorna",
+          "name": "Górna"
         },
         {
-          "id": "de-leipzig-29",
-          "slug": "grunau-mitte",
-          "name": "Grünau-Mitte"
+          "id": "pl-lodz-29",
+          "slug": "gorniak",
+          "name": "Górniak"
         },
         {
-          "id": "de-leipzig-30",
-          "slug": "grunau-nord",
-          "name": "Grünau-Nord"
+          "id": "pl-lodz-30",
+          "slug": "grabieniec",
+          "name": "Grabieniec"
         },
         {
-          "id": "de-leipzig-31",
-          "slug": "grunau-ost",
-          "name": "Grünau-Ost"
+          "id": "pl-lodz-31",
+          "slug": "grembach",
+          "name": "Grembach"
         },
         {
-          "id": "de-leipzig-32",
-          "slug": "grunau-siedlung",
-          "name": "Grünau-Siedlung"
+          "id": "pl-lodz-32",
+          "slug": "grzywienna",
+          "name": "Grzywienna"
         },
         {
-          "id": "de-leipzig-33",
-          "slug": "gundorf",
-          "name": "Gundorf"
+          "id": "pl-lodz-33",
+          "slug": "helenow",
+          "name": "Helenów"
         },
         {
-          "id": "de-leipzig-34",
-          "slug": "hartmannsdorf-knautnaundorf",
-          "name": "Hartmannsdorf-Knautnaundorf"
+          "id": "pl-lodz-34",
+          "slug": "helenowek",
+          "name": "Helenówek"
         },
         {
-          "id": "de-leipzig-35",
-          "slug": "heiterblick",
-          "name": "Heiterblick"
+          "id": "pl-lodz-35",
+          "slug": "henrykow",
+          "name": "Henryków"
         },
         {
-          "id": "de-leipzig-36",
-          "slug": "holzhausen",
-          "name": "Holzhausen"
+          "id": "pl-lodz-36",
+          "slug": "huta-anioow",
+          "name": "Huta Aniołów"
         },
         {
-          "id": "de-leipzig-37",
-          "slug": "kleinzschocher",
-          "name": "Kleinzschocher"
+          "id": "pl-lodz-37",
+          "slug": "huta-jagodnica",
+          "name": "Huta Jagodnica"
         },
         {
-          "id": "de-leipzig-38",
-          "slug": "kleisthof",
-          "name": "Kleisthof"
+          "id": "pl-lodz-38",
+          "slug": "huta-szklana",
+          "name": "Huta Szklana"
         },
         {
-          "id": "de-leipzig-39",
-          "slug": "knautkleeberg-knauthain",
-          "name": "Knautkleeberg-Knauthain"
+          "id": "pl-lodz-39",
+          "slug": "imielnik-nowy",
+          "name": "Imielnik Nowy"
         },
         {
-          "id": "de-leipzig-40",
-          "slug": "krostitz",
-          "name": "Krostitz"
+          "id": "pl-lodz-40",
+          "slug": "imienia-jozefa-montwia-mireckiego",
+          "name": "imienia Józefa Montwiłła-Mireckiego"
         },
         {
-          "id": "de-leipzig-41",
-          "slug": "lausen-grunau",
-          "name": "Lausen-Grünau"
+          "id": "pl-lodz-41",
+          "slug": "jagodnica",
+          "name": "Jagodnica"
         },
         {
-          "id": "de-leipzig-42",
-          "slug": "leutzsch",
-          "name": "Leutzsch"
+          "id": "pl-lodz-42",
+          "slug": "jagodnica-zotno",
+          "name": "Jagodnica-Złotno"
         },
         {
-          "id": "de-leipzig-43",
-          "slug": "liebertwolkwitz",
-          "name": "Liebertwolkwitz"
+          "id": "pl-lodz-43",
+          "slug": "janow",
+          "name": "Janów"
         },
         {
-          "id": "de-leipzig-44",
-          "slug": "lindenau",
-          "name": "Lindenau"
+          "id": "pl-lodz-44",
+          "slug": "janowek",
+          "name": "Janówek"
         },
         {
-          "id": "de-leipzig-45",
-          "slug": "lindenthal",
-          "name": "Lindenthal"
+          "id": "pl-lodz-45",
+          "slug": "jedrzejow",
+          "name": "Jędrzejów"
         },
         {
-          "id": "de-leipzig-46",
-          "slug": "lonig",
-          "name": "Lößnig"
+          "id": "pl-lodz-46",
+          "slug": "jedrzejow-przemysowy",
+          "name": "Jędrzejów Przemysłowy"
         },
         {
-          "id": "de-leipzig-47",
-          "slug": "lutzschena-stahmeln",
-          "name": "Lützschena-Stahmeln"
+          "id": "pl-lodz-47",
+          "slug": "jozefow",
+          "name": "Józefów"
         },
         {
-          "id": "de-leipzig-48",
-          "slug": "marienbrunn",
-          "name": "Marienbrunn"
+          "id": "pl-lodz-48",
+          "slug": "julianow",
+          "name": "Julianów"
         },
         {
-          "id": "de-leipzig-49",
-          "slug": "meusdorf",
-          "name": "Meusdorf"
+          "id": "pl-lodz-49",
+          "slug": "julianow-marysin-rogi",
+          "name": "Julianów-Marysin-Rogi"
         },
         {
-          "id": "de-leipzig-50",
-          "slug": "meyer-sche-hauser-eutritzsch",
-          "name": "Meyer'sche Häuser Eutritzsch"
+          "id": "pl-lodz-50",
+          "slug": "karolew",
+          "name": "Karolew"
         },
         {
-          "id": "de-leipzig-51",
-          "slug": "meyer-sche-hauser-kleinzschocher",
-          "name": "Meyer'sche Häuser Kleinzschocher"
+          "id": "pl-lodz-51",
+          "slug": "karolew-retkinia-wschod",
+          "name": "Karolew-Retkinia Wschód"
         },
         {
-          "id": "de-leipzig-52",
-          "slug": "meyer-sche-hauser-reudnitz",
-          "name": "Meyer'sche Häuser Reudnitz"
+          "id": "pl-lodz-52",
+          "slug": "katedralna",
+          "name": "Katedralna"
         },
         {
-          "id": "de-leipzig-53",
-          "slug": "miltitz",
-          "name": "Miltitz"
+          "id": "pl-lodz-53",
+          "slug": "kay",
+          "name": "Kały"
         },
         {
-          "id": "de-leipzig-54",
-          "slug": "mitte",
-          "name": "Mitte"
+          "id": "pl-lodz-54",
+          "slug": "kochanowka",
+          "name": "Kochanówka"
         },
         {
-          "id": "de-leipzig-55",
-          "slug": "mockau",
-          "name": "Mockau"
+          "id": "pl-lodz-55",
+          "slug": "kolonia-oficerska",
+          "name": "Kolonia Oficerska"
         },
         {
-          "id": "de-leipzig-56",
-          "slug": "mockau-nord",
-          "name": "Mockau-Nord"
+          "id": "pl-lodz-56",
+          "slug": "komorniki",
+          "name": "Komorniki"
         },
         {
-          "id": "de-leipzig-57",
-          "slug": "mockau-sud",
-          "name": "Mockau-Süd"
+          "id": "pl-lodz-57",
+          "slug": "kowalszczyzna",
+          "name": "Kowalszczyzna"
         },
         {
-          "id": "de-leipzig-58",
-          "slug": "mockern",
-          "name": "Möckern"
+          "id": "pl-lodz-58",
+          "slug": "koziny",
+          "name": "Koziny"
         },
         {
-          "id": "de-leipzig-59",
-          "slug": "molkau",
-          "name": "Mölkau"
+          "id": "pl-lodz-59",
+          "slug": "ksiezy-myn",
+          "name": "Księży Młyn"
         },
         {
-          "id": "de-leipzig-60",
-          "slug": "musikviertel",
-          "name": "Musikviertel"
+          "id": "pl-lodz-60",
+          "slug": "kurak",
+          "name": "Kurak"
         },
         {
-          "id": "de-leipzig-61",
-          "slug": "neu-paunsdorf",
-          "name": "Neu-Paunsdorf"
+          "id": "pl-lodz-61",
+          "slug": "kusy-kat",
+          "name": "Kusy Kąt"
         },
         {
-          "id": "de-leipzig-62",
-          "slug": "neulindenau",
-          "name": "Neulindenau"
+          "id": "pl-lodz-62",
+          "slug": "leonow",
+          "name": "Leonów"
         },
         {
-          "id": "de-leipzig-63",
-          "slug": "neuschonefeld",
-          "name": "Neuschönefeld"
+          "id": "pl-lodz-63",
+          "slug": "lublinek",
+          "name": "Lublinek"
         },
         {
-          "id": "de-leipzig-64",
-          "slug": "neustadt",
-          "name": "Neustadt"
+          "id": "pl-lodz-64",
+          "slug": "lublinek-pienista",
+          "name": "Lublinek-Pienista"
         },
         {
-          "id": "de-leipzig-65",
-          "slug": "neustadt-neuschonefeld",
-          "name": "Neustadt-Neuschönefeld"
+          "id": "pl-lodz-65",
+          "slug": "lumumbowo",
+          "name": "Lumumbowo"
         },
         {
-          "id": "de-leipzig-66",
-          "slug": "neutzsch",
-          "name": "Neutzsch"
+          "id": "pl-lodz-66",
+          "slug": "manhattan",
+          "name": "Manhattan"
         },
         {
-          "id": "de-leipzig-67",
-          "slug": "nord",
-          "name": "Nord"
+          "id": "pl-lodz-67",
+          "slug": "mania",
+          "name": "Mania"
         },
         {
-          "id": "de-leipzig-68",
-          "slug": "nordost",
-          "name": "Nordost"
+          "id": "pl-lodz-68",
+          "slug": "marianow",
+          "name": "Marianów"
         },
         {
-          "id": "de-leipzig-69",
-          "slug": "nordwest",
-          "name": "Nordwest"
+          "id": "pl-lodz-69",
+          "slug": "marysin",
+          "name": "Marysin"
         },
         {
-          "id": "de-leipzig-70",
-          "slug": "ost",
-          "name": "Ost"
+          "id": "pl-lodz-70",
+          "slug": "marysin-doy",
+          "name": "Marysin Doły"
         },
         {
-          "id": "de-leipzig-71",
-          "slug": "parkstadt-portitz",
-          "name": "Parkstadt Portitz"
+          "id": "pl-lodz-71",
+          "slug": "mae-agiewniki",
+          "name": "Małe Łagiewniki"
         },
         {
-          "id": "de-leipzig-72",
-          "slug": "paunsdorf",
-          "name": "Paunsdorf"
+          "id": "pl-lodz-72",
+          "slug": "mikoajew",
+          "name": "Mikołajew"
         },
         {
-          "id": "de-leipzig-73",
-          "slug": "pfaffendorf",
-          "name": "Pfaffendorf"
+          "id": "pl-lodz-73",
+          "slug": "mileszki",
+          "name": "Mileszki"
         },
         {
-          "id": "de-leipzig-74",
-          "slug": "plagwitz",
-          "name": "Plagwitz"
+          "id": "pl-lodz-74",
+          "slug": "modrzew",
+          "name": "Modrzew"
         },
         {
-          "id": "de-leipzig-75",
-          "slug": "plauig-portitz",
-          "name": "Plaußig-Portitz"
+          "id": "pl-lodz-75",
+          "slug": "moskule",
+          "name": "Moskule"
         },
         {
-          "id": "de-leipzig-76",
-          "slug": "plosen",
-          "name": "Plösen"
+          "id": "pl-lodz-76",
+          "slug": "moskule-nowe",
+          "name": "Moskule Nowe"
         },
         {
-          "id": "de-leipzig-77",
-          "slug": "podelwitz",
-          "name": "Podelwitz"
+          "id": "pl-lodz-77",
+          "slug": "mynek",
+          "name": "Młynek"
         },
         {
-          "id": "de-leipzig-78",
-          "slug": "probstheida",
-          "name": "Probstheida"
+          "id": "pl-lodz-78",
+          "slug": "nad-nerem",
+          "name": "Nad Nerem"
         },
         {
-          "id": "de-leipzig-79",
-          "slug": "rackwitz",
-          "name": "Rackwitz"
+          "id": "pl-lodz-79",
+          "slug": "nery",
+          "name": "Nery"
         },
         {
-          "id": "de-leipzig-80",
-          "slug": "reudnitz",
-          "name": "Reudnitz"
+          "id": "pl-lodz-80",
+          "slug": "niciarniana",
+          "name": "Niciarniana"
         },
         {
-          "id": "de-leipzig-81",
-          "slug": "reudnitz-thonberg",
-          "name": "Reudnitz-Thonberg"
+          "id": "pl-lodz-81",
+          "slug": "nowe-centrum-odzi",
+          "name": "Nowe Centrum Łodzi"
         },
         {
-          "id": "de-leipzig-82",
-          "slug": "schkeuditz",
-          "name": "Schkeuditz"
+          "id": "pl-lodz-82",
+          "slug": "nowe-gorki",
+          "name": "Nowe Górki"
         },
         {
-          "id": "de-leipzig-83",
-          "slug": "schleuig",
-          "name": "Schleußig"
+          "id": "pl-lodz-83",
+          "slug": "nowe-rokicie",
+          "name": "Nowe Rokicie"
         },
         {
-          "id": "de-leipzig-84",
-          "slug": "schonau",
-          "name": "Schönau"
+          "id": "pl-lodz-84",
+          "slug": "nowe-sady",
+          "name": "Nowe Sady"
         },
         {
-          "id": "de-leipzig-85",
-          "slug": "schonefeld",
-          "name": "Schönefeld"
+          "id": "pl-lodz-85",
+          "slug": "nowe-zotno",
+          "name": "Nowe Złotno"
         },
         {
-          "id": "de-leipzig-86",
-          "slug": "schonefeld-abtnaundorf",
-          "name": "Schönefeld-Abtnaundorf"
+          "id": "pl-lodz-86",
+          "slug": "nowosolna",
+          "name": "Nowosolna"
         },
         {
-          "id": "de-leipzig-87",
-          "slug": "schonefeld-ost",
-          "name": "Schönefeld-Ost"
+          "id": "pl-lodz-87",
+          "slug": "nowy-jozefow",
+          "name": "Nowy Józefów"
         },
         {
-          "id": "de-leipzig-88",
-          "slug": "seeburgviertel",
-          "name": "Seeburgviertel"
+          "id": "pl-lodz-88",
+          "slug": "nr-33",
+          "name": "Nr 33"
         },
         {
-          "id": "de-leipzig-89",
-          "slug": "seehausen",
-          "name": "Seehausen"
+          "id": "pl-lodz-89",
+          "slug": "odzierady",
+          "name": "Odzierady"
         },
         {
-          "id": "de-leipzig-90",
-          "slug": "sellerhausen",
-          "name": "Sellerhausen"
+          "id": "pl-lodz-90",
+          "slug": "olechow",
+          "name": "Olechów"
         },
         {
-          "id": "de-leipzig-91",
-          "slug": "sellerhausen-stunz",
-          "name": "Sellerhausen-Stünz"
+          "id": "pl-lodz-91",
+          "slug": "olechow-janow",
+          "name": "Olechów-Janów"
         },
         {
-          "id": "de-leipzig-92",
-          "slug": "sternsiedlung-ost",
-          "name": "Sternsiedlung Ost"
+          "id": "pl-lodz-92",
+          "slug": "osiedle-1-go-maja",
+          "name": "Osiedle 1-go Maja"
         },
         {
-          "id": "de-leipzig-93",
-          "slug": "stotteritz",
-          "name": "Stötteritz"
+          "id": "pl-lodz-93",
+          "slug": "osiedle-1000-lecia-panstwa-polskiego",
+          "name": "Osiedle 1000-lecia Państwa Polskiego"
         },
         {
-          "id": "de-leipzig-94",
-          "slug": "stunz",
-          "name": "Stünz"
+          "id": "pl-lodz-94",
+          "slug": "osiedle-balonowa",
+          "name": "Osiedle Balonowa"
         },
         {
-          "id": "de-leipzig-95",
-          "slug": "sud",
-          "name": "Süd"
+          "id": "pl-lodz-95",
+          "slug": "osiedle-biskupie",
+          "name": "Osiedle Biskupie"
         },
         {
-          "id": "de-leipzig-96",
-          "slug": "sudost",
-          "name": "Südost"
+          "id": "pl-lodz-96",
+          "slug": "osiedle-bolesawa-chrobrego",
+          "name": "Osiedle Bolesława Chrobrego"
         },
         {
-          "id": "de-leipzig-97",
-          "slug": "sudvorstadt",
-          "name": "Südvorstadt"
+          "id": "pl-lodz-97",
+          "slug": "osiedle-hufcowa",
+          "name": "Osiedle Hufcowa"
         },
         {
-          "id": "de-leipzig-98",
-          "slug": "sudwest",
-          "name": "Südwest"
+          "id": "pl-lodz-98",
+          "slug": "osiedle-im-grazyny-bacewicz",
+          "name": "Osiedle im. Grażyny Bacewicz"
         },
         {
-          "id": "de-leipzig-99",
-          "slug": "thekla",
-          "name": "Thekla"
+          "id": "pl-lodz-99",
+          "slug": "osiedle-im-jozefa-montwia-mireckiego",
+          "name": "Osiedle im. Józefa Montwiłła-Mireckiego"
         },
         {
-          "id": "de-leipzig-100",
-          "slug": "thonberg",
-          "name": "Thonberg"
+          "id": "pl-lodz-100",
+          "slug": "osiedle-im-marii-konopnickiej",
+          "name": "Osiedle im. Marii Konopnickiej"
         },
         {
-          "id": "de-leipzig-101",
-          "slug": "volkmarsdorf",
-          "name": "Volkmarsdorf"
+          "id": "pl-lodz-101",
+          "slug": "osiedle-im-mikoaja-kopernika",
+          "name": "Osiedle im. Mikołaja Kopernika"
         },
         {
-          "id": "de-leipzig-102",
-          "slug": "wahren",
-          "name": "Wahren"
+          "id": "pl-lodz-102",
+          "slug": "osiedle-im-mikoaja-reja",
+          "name": "Osiedle im. Mikołaja Reja"
         },
         {
-          "id": "de-leipzig-103",
-          "slug": "waldstraenviertel",
-          "name": "Waldstraßenviertel"
+          "id": "pl-lodz-103",
+          "slug": "osiedle-im-stefana-czarnieckiego",
+          "name": "Osiedle im. Stefana Czarnieckiego"
         },
         {
-          "id": "de-leipzig-104",
-          "slug": "west",
-          "name": "West"
+          "id": "pl-lodz-104",
+          "slug": "osiedle-im-stefana-zeromskiego",
+          "name": "Osiedle im. Stefana Żeromskiego"
         },
         {
-          "id": "de-leipzig-105",
-          "slug": "wiederitzsch",
-          "name": "Wiederitzsch"
+          "id": "pl-lodz-105",
+          "slug": "osiedle-im-wadysawa-jagiey",
+          "name": "Osiedle im. Władysława Jagiełły"
         },
         {
-          "id": "de-leipzig-106",
-          "slug": "windorf",
-          "name": "Windorf"
+          "id": "pl-lodz-106",
+          "slug": "osiedle-im-wadysawa-reymonta",
+          "name": "Osiedle im. Władysława Reymonta"
         },
         {
-          "id": "de-leipzig-107",
-          "slug": "wohnkomplex-1",
-          "name": "Wohnkomplex 1"
+          "id": "pl-lodz-107",
+          "slug": "osiedle-jarosawa-dabrowskiego",
+          "name": "Osiedle Jarosława Dąbrowskiego"
         },
         {
-          "id": "de-leipzig-108",
-          "slug": "wohnkomplex-2",
-          "name": "Wohnkomplex 2"
+          "id": "pl-lodz-108",
+          "slug": "osiedle-mieszka-pierwszego",
+          "name": "Osiedle Mieszka Pierwszego"
         },
         {
-          "id": "de-leipzig-109",
-          "slug": "wohnkomplex-3",
-          "name": "Wohnkomplex 3"
+          "id": "pl-lodz-109",
+          "slug": "osiedle-na-doku",
+          "name": "Osiedle na Dołku"
         },
         {
-          "id": "de-leipzig-110",
-          "slug": "wohnkomplex-4",
-          "name": "Wohnkomplex 4"
+          "id": "pl-lodz-110",
+          "slug": "osiedle-piaski",
+          "name": "Osiedle Piaski"
         },
         {
-          "id": "de-leipzig-111",
-          "slug": "wohnkomplex-5-1",
-          "name": "Wohnkomplex 5.1"
+          "id": "pl-lodz-111",
+          "slug": "osiedle-pienista",
+          "name": "Osiedle Pienista"
         },
         {
-          "id": "de-leipzig-112",
-          "slug": "wohnkomplex-7",
-          "name": "Wohnkomplex 7"
+          "id": "pl-lodz-112",
+          "slug": "osiedle-pojezierska",
+          "name": "Osiedle Pojezierska"
         },
         {
-          "id": "de-leipzig-113",
-          "slug": "wohnkomplex-8",
-          "name": "Wohnkomplex 8"
+          "id": "pl-lodz-113",
+          "slug": "osiedle-retkinia-ponoc",
+          "name": "Osiedle Retkinia Północ"
         },
         {
-          "id": "de-leipzig-114",
-          "slug": "zentrum",
-          "name": "Zentrum"
+          "id": "pl-lodz-114",
+          "slug": "osiedle-sienkiewiczowskie",
+          "name": "Osiedle Sienkiewiczowskie"
         },
         {
-          "id": "de-leipzig-115",
-          "slug": "zentrum-nord",
-          "name": "Zentrum-Nord"
+          "id": "pl-lodz-115",
+          "slug": "osiedle-stefana-batorego",
+          "name": "Osiedle Stefana Batorego"
         },
         {
-          "id": "de-leipzig-116",
-          "slug": "zentrum-nordwest",
-          "name": "Zentrum-Nordwest"
+          "id": "pl-lodz-116",
+          "slug": "osiedle-sympatyczna",
+          "name": "Osiedle Sympatyczna"
         },
         {
-          "id": "de-leipzig-117",
-          "slug": "zentrum-ost",
-          "name": "Zentrum-Ost"
+          "id": "pl-lodz-117",
+          "slug": "osiedle-sowianskie",
+          "name": "Osiedle Słowiańskie"
         },
         {
-          "id": "de-leipzig-118",
-          "slug": "zentrum-sud",
-          "name": "Zentrum-Süd"
+          "id": "pl-lodz-118",
+          "slug": "osiedle-tor-marysin",
+          "name": "Osiedle TOR Marysin"
         },
         {
-          "id": "de-leipzig-119",
-          "slug": "zentrum-sudost",
-          "name": "Zentrum-Südost"
+          "id": "pl-lodz-119",
+          "slug": "osiedle-wielkopolska",
+          "name": "Osiedle Wielkopolska"
         },
         {
-          "id": "de-leipzig-120",
-          "slug": "zentrum-west",
-          "name": "Zentrum-West"
+          "id": "pl-lodz-120",
+          "slug": "osiedle-zagrodniki",
+          "name": "Osiedle Zagrodniki"
         },
         {
-          "id": "de-leipzig-121",
-          "slug": "zscholkau",
-          "name": "Zschölkau"
+          "id": "pl-lodz-121",
+          "slug": "osiedle-zus-piastow",
+          "name": "Osiedle ZUS - Piastów"
+        },
+        {
+          "id": "pl-lodz-122",
+          "slug": "pabianka",
+          "name": "Pabianka"
+        },
+        {
+          "id": "pl-lodz-123",
+          "slug": "piastow-kurak",
+          "name": "Piastów-Kurak"
+        },
+        {
+          "id": "pl-lodz-124",
+          "slug": "piskowiec",
+          "name": "Piskowiec"
+        },
+        {
+          "id": "pl-lodz-125",
+          "slug": "polesie",
+          "name": "Polesie"
+        },
+        {
+          "id": "pl-lodz-126",
+          "slug": "polesie-widzewskie",
+          "name": "Polesie Widzewskie"
+        },
+        {
+          "id": "pl-lodz-127",
+          "slug": "politechniczna",
+          "name": "Politechniczna"
+        },
+        {
+          "id": "pl-lodz-128",
+          "slug": "popielarnia",
+          "name": "Popielarnia"
+        },
+        {
+          "id": "pl-lodz-129",
+          "slug": "poreby",
+          "name": "Poręby"
+        },
+        {
+          "id": "pl-lodz-130",
+          "slug": "przylesie",
+          "name": "Przylesie"
+        },
+        {
+          "id": "pl-lodz-131",
+          "slug": "radiostacja",
+          "name": "Radiostacja"
+        },
+        {
+          "id": "pl-lodz-132",
+          "slug": "radogoszcz",
+          "name": "Radogoszcz"
+        },
+        {
+          "id": "pl-lodz-133",
+          "slug": "radogoszcz-wschod",
+          "name": "Radogoszcz-Wschód"
+        },
+        {
+          "id": "pl-lodz-134",
+          "slug": "radogoszcz-zachod",
+          "name": "Radogoszcz-Zachód"
+        },
+        {
+          "id": "pl-lodz-135",
+          "slug": "retkinia",
+          "name": "Retkinia"
+        },
+        {
+          "id": "pl-lodz-136",
+          "slug": "retkinia-zachod-smulsko",
+          "name": "Retkinia Zachód-Smulsko"
+        },
+        {
+          "id": "pl-lodz-137",
+          "slug": "rogatka",
+          "name": "Rogatka"
+        },
+        {
+          "id": "pl-lodz-138",
+          "slug": "rogi",
+          "name": "Rogi"
+        },
+        {
+          "id": "pl-lodz-139",
+          "slug": "rokicie",
+          "name": "Rokicie"
+        },
+        {
+          "id": "pl-lodz-140",
+          "slug": "romanow",
+          "name": "Romanów"
+        },
+        {
+          "id": "pl-lodz-141",
+          "slug": "rozki",
+          "name": "Różki"
+        },
+        {
+          "id": "pl-lodz-142",
+          "slug": "ruda",
+          "name": "Ruda"
+        },
+        {
+          "id": "pl-lodz-143",
+          "slug": "ruda-pabianicka",
+          "name": "Ruda Pabianicka"
+        },
+        {
+          "id": "pl-lodz-144",
+          "slug": "sasieczno",
+          "name": "Sąsieczno"
+        },
+        {
+          "id": "pl-lodz-145",
+          "slug": "sikawa",
+          "name": "Sikawa"
+        },
+        {
+          "id": "pl-lodz-146",
+          "slug": "smulsko",
+          "name": "Smulsko"
+        },
+        {
+          "id": "pl-lodz-147",
+          "slug": "sokoka",
+          "name": "Sokółka"
+        },
+        {
+          "id": "pl-lodz-148",
+          "slug": "sokoow",
+          "name": "Sokołów"
+        },
+        {
+          "id": "pl-lodz-149",
+          "slug": "srodmiescie",
+          "name": "Śródmieście"
+        },
+        {
+          "id": "pl-lodz-150",
+          "slug": "srodmiescie-wschod",
+          "name": "Śródmieście-Wschód"
+        },
+        {
+          "id": "pl-lodz-151",
+          "slug": "stare-bauty",
+          "name": "Stare Bałuty"
+        },
+        {
+          "id": "pl-lodz-152",
+          "slug": "stare-chojny",
+          "name": "Stare Chojny"
+        },
+        {
+          "id": "pl-lodz-153",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
+        },
+        {
+          "id": "pl-lodz-154",
+          "slug": "stare-moskule",
+          "name": "Stare Moskule"
+        },
+        {
+          "id": "pl-lodz-155",
+          "slug": "stare-polesie",
+          "name": "Stare Polesie"
+        },
+        {
+          "id": "pl-lodz-156",
+          "slug": "stare-rokicie",
+          "name": "Stare Rokicie"
+        },
+        {
+          "id": "pl-lodz-157",
+          "slug": "stare-zotno",
+          "name": "Stare Złotno"
+        },
+        {
+          "id": "pl-lodz-158",
+          "slug": "stary-widzew",
+          "name": "Stary Widzew"
+        },
+        {
+          "id": "pl-lodz-159",
+          "slug": "stoki",
+          "name": "Stoki"
+        },
+        {
+          "id": "pl-lodz-160",
+          "slug": "stoki-sikawa-podgorze",
+          "name": "Stoki-Sikawa-Podgórze"
+        },
+        {
+          "id": "pl-lodz-161",
+          "slug": "teofilow",
+          "name": "Teofilów"
+        },
+        {
+          "id": "pl-lodz-162",
+          "slug": "teofilow-przemysowy",
+          "name": "Teofilów Przemysłowy"
+        },
+        {
+          "id": "pl-lodz-163",
+          "slug": "teofilow-wielkopolska",
+          "name": "Teofilów-Wielkopolska"
+        },
+        {
+          "id": "pl-lodz-164",
+          "slug": "ustronie",
+          "name": "Ustronie"
+        },
+        {
+          "id": "pl-lodz-165",
+          "slug": "wiaczyn-gorny",
+          "name": "Wiączyń Górny"
+        },
+        {
+          "id": "pl-lodz-166",
+          "slug": "widzew",
+          "name": "Widzew"
+        },
+        {
+          "id": "pl-lodz-167",
+          "slug": "widzew-wschod",
+          "name": "Widzew Wschód"
+        },
+        {
+          "id": "pl-lodz-168",
+          "slug": "widzew-wschod-2",
+          "name": "Widzew-Wschód"
+        },
+        {
+          "id": "pl-lodz-169",
+          "slug": "wilanow",
+          "name": "Wilanów"
+        },
+        {
+          "id": "pl-lodz-170",
+          "slug": "wiskitno",
+          "name": "Wiskitno"
+        },
+        {
+          "id": "pl-lodz-171",
+          "slug": "wiskitno-a-las",
+          "name": "Wiskitno A-Las"
+        },
+        {
+          "id": "pl-lodz-172",
+          "slug": "wiskitno-drugie",
+          "name": "Wiskitno Drugie"
+        },
+        {
+          "id": "pl-lodz-173",
+          "slug": "wrzosowe-wzgorze",
+          "name": "Wrzosowe Wzgórze"
+        },
+        {
+          "id": "pl-lodz-174",
+          "slug": "wzniesien-odzkich",
+          "name": "Wzniesień Łódzkich"
+        },
+        {
+          "id": "pl-lodz-175",
+          "slug": "wzniesienia-odzkie",
+          "name": "Wzniesienia Łódzkie"
+        },
+        {
+          "id": "pl-lodz-176",
+          "slug": "zabieniec",
+          "name": "Żabieniec"
+        },
+        {
+          "id": "pl-lodz-177",
+          "slug": "zabieniec-zielony",
+          "name": "Żabieniec Zielony"
+        },
+        {
+          "id": "pl-lodz-178",
+          "slug": "zarzew",
+          "name": "Zarzew"
+        },
+        {
+          "id": "pl-lodz-179",
+          "slug": "zdrowie",
+          "name": "Zdrowie"
+        },
+        {
+          "id": "pl-lodz-180",
+          "slug": "zdrowie-mania",
+          "name": "Zdrowie-Mania"
+        },
+        {
+          "id": "pl-lodz-181",
+          "slug": "zimna-woda",
+          "name": "Zimna Woda"
+        },
+        {
+          "id": "pl-lodz-182",
+          "slug": "zubardz",
+          "name": "Żubardź"
+        },
+        {
+          "id": "pl-lodz-183",
+          "slug": "zotno",
+          "name": "Złotno"
+        },
+        {
+          "id": "pl-lodz-184",
+          "slug": "agiewniki",
+          "name": "Łagiewniki"
+        },
+        {
+          "id": "pl-lodz-185",
+          "slug": "askowice",
+          "name": "Łaskowice"
+        },
+        {
+          "id": "pl-lodz-186",
+          "slug": "odz-bauty",
+          "name": "Łódź-Bałuty"
+        },
+        {
+          "id": "pl-lodz-187",
+          "slug": "odz-gorna",
+          "name": "Łódź-Górna"
+        },
+        {
+          "id": "pl-lodz-188",
+          "slug": "odz-polesie",
+          "name": "Łódź-Polesie"
+        },
+        {
+          "id": "pl-lodz-189",
+          "slug": "odz-srodmiescie",
+          "name": "Łódź-Śródmieście"
+        },
+        {
+          "id": "pl-lodz-190",
+          "slug": "odz-widzew",
+          "name": "Łódź-Widzew"
+        },
+        {
+          "id": "pl-lodz-191",
+          "slug": "odzianka",
+          "name": "Łodzianka"
+        },
+        {
+          "id": "pl-lodz-192",
+          "slug": "ukaszew",
+          "name": "Łukaszew"
         }
       ]
     },
     {
-      "id": "de-heidelberg",
-      "country_code": "DE",
-      "slug": "heidelberg",
-      "name": "Heidelberg",
-      "region": "Baden-Württemberg",
-      "description": "Heidelberg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-lublin",
+      "country_code": "PL",
+      "slug": "lublin",
+      "name": "Lublin",
+      "region": "Lubelskie",
+      "description": "Lublin: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-7.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-heidelberg-1",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-lublin-1",
+          "slug": "abramowice",
+          "name": "Abramowice"
         },
         {
-          "id": "de-heidelberg-2",
-          "slug": "bahnstadt",
-          "name": "Bahnstadt"
+          "id": "pl-lublin-2",
+          "slug": "bazylianowka",
+          "name": "Bazylianówka"
         },
         {
-          "id": "de-heidelberg-3",
-          "slug": "bergheim",
-          "name": "Bergheim"
+          "id": "pl-lublin-3",
+          "slug": "biakowska-gora",
+          "name": "Białkowska Góra"
         },
         {
-          "id": "de-heidelberg-4",
-          "slug": "boxberg",
-          "name": "Boxberg"
+          "id": "pl-lublin-4",
+          "slug": "bielszczyzna",
+          "name": "Bielszczyzna"
         },
         {
-          "id": "de-heidelberg-5",
-          "slug": "eichendorff-forum",
-          "name": "Eichendorff-Forum"
+          "id": "pl-lublin-5",
+          "slug": "biskupie",
+          "name": "Biskupie"
         },
         {
-          "id": "de-heidelberg-6",
-          "slug": "emmertsgrund",
-          "name": "Emmertsgrund"
+          "id": "pl-lublin-6",
+          "slug": "bronowice",
+          "name": "Bronowice"
         },
         {
-          "id": "de-heidelberg-7",
-          "slug": "handschuhsheim",
-          "name": "Handschuhsheim"
+          "id": "pl-lublin-7",
+          "slug": "bursaki",
+          "name": "Bursaki"
         },
         {
-          "id": "de-heidelberg-8",
-          "slug": "hasenleiser",
-          "name": "Hasenleiser"
+          "id": "pl-lublin-8",
+          "slug": "choinki",
+          "name": "Choinki"
         },
         {
-          "id": "de-heidelberg-9",
-          "slug": "heidelberg-innovation-park",
-          "name": "Heidelberg Innovation Park"
+          "id": "pl-lublin-9",
+          "slug": "choiny",
+          "name": "Choiny"
         },
         {
-          "id": "de-heidelberg-10",
-          "slug": "kirchheim",
-          "name": "Kirchheim"
+          "id": "pl-lublin-10",
+          "slug": "czechow",
+          "name": "Czechów"
         },
         {
-          "id": "de-heidelberg-11",
-          "slug": "kopernikushof",
-          "name": "Kopernikushof"
+          "id": "pl-lublin-11",
+          "slug": "czechow-dolny",
+          "name": "Czechów Dolny"
         },
         {
-          "id": "de-heidelberg-12",
-          "slug": "linden-carree",
-          "name": "Linden-Carrée"
+          "id": "pl-lublin-12",
+          "slug": "czechow-gorny",
+          "name": "Czechów Górny"
         },
         {
-          "id": "de-heidelberg-13",
-          "slug": "marsilius-arkaden",
-          "name": "Marsilius-Arkaden"
+          "id": "pl-lublin-13",
+          "slug": "czechow-ponocny",
+          "name": "Czechów Północny"
         },
         {
-          "id": "de-heidelberg-14",
-          "slug": "meilenstein",
-          "name": "Meilenstein"
+          "id": "pl-lublin-14",
+          "slug": "czechow-poudniowy",
+          "name": "Czechów Południowy"
         },
         {
-          "id": "de-heidelberg-15",
-          "slug": "morgelgewann",
-          "name": "Mörgelgewann"
+          "id": "pl-lublin-15",
+          "slug": "czechow-kolonia",
+          "name": "Czechów-Kolonia"
         },
         {
-          "id": "de-heidelberg-16",
-          "slug": "muhltal",
-          "name": "Mühltal"
+          "id": "pl-lublin-16",
+          "slug": "czechow-wydmuchy",
+          "name": "Czechów-Wydmuchy"
         },
         {
-          "id": "de-heidelberg-17",
-          "slug": "neuenheim",
-          "name": "Neuenheim"
+          "id": "pl-lublin-17",
+          "slug": "czechowka-dolna",
+          "name": "Czechówka Dolna"
         },
         {
-          "id": "de-heidelberg-18",
-          "slug": "neuenheimer-feld",
-          "name": "Neuenheimer Feld"
+          "id": "pl-lublin-18",
+          "slug": "czechowka-gorna",
+          "name": "Czechówka Górna"
         },
         {
-          "id": "de-heidelberg-19",
-          "slug": "ochsenkopf",
-          "name": "Ochsenkopf"
+          "id": "pl-lublin-19",
+          "slug": "czechowka-gorna-kolonia",
+          "name": "Czechówka Górna-Kolonia"
         },
         {
-          "id": "de-heidelberg-20",
-          "slug": "patrick-henry-village",
-          "name": "Patrick-Henry-Village"
+          "id": "pl-lublin-20",
+          "slug": "czuby",
+          "name": "Czuby"
         },
         {
-          "id": "de-heidelberg-21",
-          "slug": "pfaffengrund",
-          "name": "Pfaffengrund"
+          "id": "pl-lublin-21",
+          "slug": "czuby-ponocne",
+          "name": "Czuby Północne"
         },
         {
-          "id": "de-heidelberg-22",
-          "slug": "quartier-am-turm",
-          "name": "Quartier am Turm"
+          "id": "pl-lublin-22",
+          "slug": "czuby-poudniowe",
+          "name": "Czuby Południowe"
         },
         {
-          "id": "de-heidelberg-23",
-          "slug": "rohrbach",
-          "name": "Rohrbach"
+          "id": "pl-lublin-23",
+          "slug": "czwartek",
+          "name": "Czwartek"
         },
         {
-          "id": "de-heidelberg-24",
-          "slug": "rohrbach-sud",
-          "name": "Rohrbach-Süd"
+          "id": "pl-lublin-24",
+          "slug": "dabrowa-las",
+          "name": "Dąbrowa-Las"
         },
         {
-          "id": "de-heidelberg-25",
-          "slug": "schlierbach",
-          "name": "Schlierbach"
+          "id": "pl-lublin-25",
+          "slug": "dzbenin",
+          "name": "Dzbenin"
         },
         {
-          "id": "de-heidelberg-26",
-          "slug": "sudstadt",
-          "name": "Südstadt"
+          "id": "pl-lublin-26",
+          "slug": "dziesiata",
+          "name": "Dziesiąta"
         },
         {
-          "id": "de-heidelberg-27",
-          "slug": "theoretikum",
-          "name": "Theoretikum"
+          "id": "pl-lublin-27",
+          "slug": "dziesiata-pierwsza",
+          "name": "Dziesiąta Pierwsza"
         },
         {
-          "id": "de-heidelberg-28",
-          "slug": "westarkaden",
-          "name": "Westarkaden"
+          "id": "pl-lublin-28",
+          "slug": "dziesiata-stara",
+          "name": "Dziesiąta Stara"
         },
         {
-          "id": "de-heidelberg-29",
-          "slug": "weststadt",
-          "name": "Weststadt"
+          "id": "pl-lublin-29",
+          "slug": "felin",
+          "name": "Felin"
         },
         {
-          "id": "de-heidelberg-30",
-          "slug": "wieblingen",
-          "name": "Wieblingen"
+          "id": "pl-lublin-30",
+          "slug": "firlejowszczyzna",
+          "name": "Firlejowszczyzna"
         },
         {
-          "id": "de-heidelberg-31",
-          "slug": "ziegelhausen",
-          "name": "Ziegelhausen"
+          "id": "pl-lublin-31",
+          "slug": "gajowka-bor",
+          "name": "Gajówka-Bór"
+        },
+        {
+          "id": "pl-lublin-32",
+          "slug": "gusk",
+          "name": "Głusk"
+        },
+        {
+          "id": "pl-lublin-33",
+          "slug": "hajdow",
+          "name": "Hajdów"
+        },
+        {
+          "id": "pl-lublin-34",
+          "slug": "hajdow-zadebie",
+          "name": "Hajdów-Zadębie"
+        },
+        {
+          "id": "pl-lublin-35",
+          "slug": "helenow",
+          "name": "Helenów"
+        },
+        {
+          "id": "pl-lublin-36",
+          "slug": "kalinowszczyzna",
+          "name": "Kalinowszczyzna"
+        },
+        {
+          "id": "pl-lublin-37",
+          "slug": "kolejarz",
+          "name": "Kolejarz"
+        },
+        {
+          "id": "pl-lublin-38",
+          "slug": "kolonia-trzesniow",
+          "name": "Kolonia Trześniów"
+        },
+        {
+          "id": "pl-lublin-39",
+          "slug": "konstantynow",
+          "name": "Konstantynów"
+        },
+        {
+          "id": "pl-lublin-40",
+          "slug": "kosminek",
+          "name": "Kośminek"
+        },
+        {
+          "id": "pl-lublin-41",
+          "slug": "lemszczyzna",
+          "name": "Lemszczyzna"
+        },
+        {
+          "id": "pl-lublin-42",
+          "slug": "majdan-tatarski",
+          "name": "Majdan Tatarski"
+        },
+        {
+          "id": "pl-lublin-43",
+          "slug": "miasteczko-uniwersyteckie",
+          "name": "Miasteczko Uniwersyteckie"
+        },
+        {
+          "id": "pl-lublin-44",
+          "slug": "nowy-kosminek",
+          "name": "Nowy Kośminek"
+        },
+        {
+          "id": "pl-lublin-45",
+          "slug": "osiedle-niepodlegosci",
+          "name": "Osiedle Niepodległości"
+        },
+        {
+          "id": "pl-lublin-46",
+          "slug": "osiedle-sienkiewicza",
+          "name": "Osiedle Sienkiewicza"
+        },
+        {
+          "id": "pl-lublin-47",
+          "slug": "osiedle-unia",
+          "name": "Osiedle Unia"
+        },
+        {
+          "id": "pl-lublin-48",
+          "slug": "piaski",
+          "name": "Piaski"
+        },
+        {
+          "id": "pl-lublin-49",
+          "slug": "poczekajka",
+          "name": "Poczekajka"
+        },
+        {
+          "id": "pl-lublin-50",
+          "slug": "podzamcze",
+          "name": "Podzamcze"
+        },
+        {
+          "id": "pl-lublin-51",
+          "slug": "ponikwoda",
+          "name": "Ponikwoda"
+        },
+        {
+          "id": "pl-lublin-52",
+          "slug": "racawicka-dzielnica-mieszkaniowa",
+          "name": "Racławicka Dzielnica Mieszkaniowa"
+        },
+        {
+          "id": "pl-lublin-53",
+          "slug": "rury",
+          "name": "Rury"
+        },
+        {
+          "id": "pl-lublin-54",
+          "slug": "rury-bonifraterskie",
+          "name": "Rury Bonifraterskie"
+        },
+        {
+          "id": "pl-lublin-55",
+          "slug": "rury-brygidkowskie",
+          "name": "Rury Brygidkowskie"
+        },
+        {
+          "id": "pl-lublin-56",
+          "slug": "rury-jezuickie",
+          "name": "Rury Jezuickie"
+        },
+        {
+          "id": "pl-lublin-57",
+          "slug": "rury-swietoduskie",
+          "name": "Rury Świętoduskie"
+        },
+        {
+          "id": "pl-lublin-58",
+          "slug": "rury-wizytkowskie",
+          "name": "Rury Wizytkowskie"
+        },
+        {
+          "id": "pl-lublin-59",
+          "slug": "semborowka",
+          "name": "Semborówka"
+        },
+        {
+          "id": "pl-lublin-60",
+          "slug": "sierakowszczyzna",
+          "name": "Sierakowszczyzna"
+        },
+        {
+          "id": "pl-lublin-61",
+          "slug": "srodmiescie",
+          "name": "Śródmieście"
+        },
+        {
+          "id": "pl-lublin-62",
+          "slug": "stare-miasto",
+          "name": "Stare Miasto"
+        },
+        {
+          "id": "pl-lublin-63",
+          "slug": "szerokie",
+          "name": "Szerokie"
+        },
+        {
+          "id": "pl-lublin-64",
+          "slug": "sawin",
+          "name": "Sławin"
+        },
+        {
+          "id": "pl-lublin-65",
+          "slug": "sawinek",
+          "name": "Sławinek"
+        },
+        {
+          "id": "pl-lublin-66",
+          "slug": "tatary",
+          "name": "Tatary"
+        },
+        {
+          "id": "pl-lublin-67",
+          "slug": "trzesniow",
+          "name": "Trześniów"
+        },
+        {
+          "id": "pl-lublin-68",
+          "slug": "weglin",
+          "name": "Węglin"
+        },
+        {
+          "id": "pl-lublin-69",
+          "slug": "weglin-ponocny",
+          "name": "Węglin Północny"
+        },
+        {
+          "id": "pl-lublin-70",
+          "slug": "weglin-poudniowy",
+          "name": "Węglin Południowy"
+        },
+        {
+          "id": "pl-lublin-71",
+          "slug": "wieniawa",
+          "name": "Wieniawa"
+        },
+        {
+          "id": "pl-lublin-72",
+          "slug": "wieniawka",
+          "name": "Wieniawka"
+        },
+        {
+          "id": "pl-lublin-73",
+          "slug": "wies-druga",
+          "name": "Wieś Druga"
+        },
+        {
+          "id": "pl-lublin-74",
+          "slug": "wiktoryn",
+          "name": "Wiktoryn"
+        },
+        {
+          "id": "pl-lublin-75",
+          "slug": "wrotkow",
+          "name": "Wrotków"
+        },
+        {
+          "id": "pl-lublin-76",
+          "slug": "wykietowka",
+          "name": "Wykietówka"
+        },
+        {
+          "id": "pl-lublin-77",
+          "slug": "wyscigi",
+          "name": "Wyścigi"
+        },
+        {
+          "id": "pl-lublin-78",
+          "slug": "za-cukrownia",
+          "name": "Za Cukrownią"
+        },
+        {
+          "id": "pl-lublin-79",
+          "slug": "zadebie-drugie",
+          "name": "Zadębie Drugie"
+        },
+        {
+          "id": "pl-lublin-80",
+          "slug": "zadebie-pierwsze",
+          "name": "Zadębie Pierwsze"
+        },
+        {
+          "id": "pl-lublin-81",
+          "slug": "zadebie-stare",
+          "name": "Zadębie Stare"
+        },
+        {
+          "id": "pl-lublin-82",
+          "slug": "zadebie-trzecie",
+          "name": "Zadębie Trzecie"
+        },
+        {
+          "id": "pl-lublin-83",
+          "slug": "zemborzyce",
+          "name": "Zemborzyce"
+        },
+        {
+          "id": "pl-lublin-84",
+          "slug": "zemborzyce-gorne",
+          "name": "Zemborzyce Górne"
+        },
+        {
+          "id": "pl-lublin-85",
+          "slug": "zimne-doy",
+          "name": "Zimne Doły"
+        },
+        {
+          "id": "pl-lublin-86",
+          "slug": "zor-bronowice",
+          "name": "ZOR Bronowice"
         }
       ]
     },
     {
-      "id": "de-freiburg",
-      "country_code": "DE",
-      "slug": "freiburg",
-      "name": "Freiburg",
-      "region": "Baden-Württemberg",
-      "description": "Freiburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "id": "pl-katowice",
+      "country_code": "PL",
+      "slug": "katowice",
+      "name": "Katowice",
+      "region": "Śląskie",
+      "description": "Katowice: Czynsz, opłaty, kaucja, okres i wypowiedzenie.",
       "image": "assets/img/room-1.webp",
       "active": true,
       "districts": [
         {
-          "id": "de-freiburg-1",
-          "slug": "alt-betzenhausen",
-          "name": "Alt-Betzenhausen"
+          "id": "pl-katowice-1",
+          "slug": "bagno",
+          "name": "Bagno"
         },
         {
-          "id": "de-freiburg-2",
-          "slug": "alt-stuhlinger",
-          "name": "Alt-Stühlinger"
+          "id": "pl-katowice-2",
+          "slug": "bogucice",
+          "name": "Bogucice"
         },
         {
-          "id": "de-freiburg-3",
-          "slug": "altstadt",
-          "name": "Altstadt"
+          "id": "pl-katowice-3",
+          "slug": "borki",
+          "name": "Borki"
         },
         {
-          "id": "de-freiburg-4",
-          "slug": "altstadt-mitte",
-          "name": "Altstadt-Mitte"
+          "id": "pl-katowice-4",
+          "slug": "brynow",
+          "name": "Brynów"
         },
         {
-          "id": "de-freiburg-5",
-          "slug": "altstadt-ring",
-          "name": "Altstadt-Ring"
+          "id": "pl-katowice-5",
+          "slug": "brynow-osiedle-zgrzebnioka",
+          "name": "Brynów-Osiedle Zgrzebnioka"
         },
         {
-          "id": "de-freiburg-6",
-          "slug": "betzenhausen",
-          "name": "Betzenhausen"
+          "id": "pl-katowice-6",
+          "slug": "buglowizna",
+          "name": "Buglowizna"
         },
         {
-          "id": "de-freiburg-7",
-          "slug": "betzenhausen-bischofslinde",
-          "name": "Betzenhausen-Bischofslinde"
+          "id": "pl-katowice-7",
+          "slug": "burowiec",
+          "name": "Burowiec"
         },
         {
-          "id": "de-freiburg-8",
-          "slug": "bifange",
-          "name": "Bifänge"
+          "id": "pl-katowice-8",
+          "slug": "cegielnia-murcki",
+          "name": "Cegielnia-Murcki"
         },
         {
-          "id": "de-freiburg-9",
-          "slug": "bruhl",
-          "name": "Brühl"
+          "id": "pl-katowice-9",
+          "slug": "dab",
+          "name": "Dąb"
         },
         {
-          "id": "de-freiburg-10",
-          "slug": "bruhl-beurbarung",
-          "name": "Brühl-Beurbarung"
+          "id": "pl-katowice-10",
+          "slug": "dabrowa",
+          "name": "Dąbrowa"
         },
         {
-          "id": "de-freiburg-11",
-          "slug": "bruhl-guterbahnhof",
-          "name": "Brühl-Güterbahnhof"
+          "id": "pl-katowice-11",
+          "slug": "dabrowka-maa",
+          "name": "Dąbrówka Mała"
         },
         {
-          "id": "de-freiburg-12",
-          "slug": "bruhl-industriegebiet",
-          "name": "Brühl-Industriegebiet"
+          "id": "pl-katowice-12",
+          "slug": "dolina-trzech-stawow",
+          "name": "Dolina Trzech Stawów"
         },
         {
-          "id": "de-freiburg-13",
-          "slug": "carl-sieder-hof",
-          "name": "Carl-Sieder-Hof"
+          "id": "pl-katowice-13",
+          "slug": "drajok",
+          "name": "Drajok"
         },
         {
-          "id": "de-freiburg-14",
-          "slug": "ebnet",
-          "name": "Ebnet"
+          "id": "pl-katowice-14",
+          "slug": "drugie-szopienice",
+          "name": "Drugie Szopienice"
         },
         {
-          "id": "de-freiburg-15",
-          "slug": "gunterstal",
-          "name": "Günterstal"
+          "id": "pl-katowice-15",
+          "slug": "fryderyka",
+          "name": "Fryderyka"
         },
         {
-          "id": "de-freiburg-16",
-          "slug": "haslach",
-          "name": "Haslach"
+          "id": "pl-katowice-16",
+          "slug": "giszowiec",
+          "name": "Giszowiec"
         },
         {
-          "id": "de-freiburg-17",
-          "slug": "haslach-egerten",
-          "name": "Haslach-Egerten"
+          "id": "pl-katowice-17",
+          "slug": "janow",
+          "name": "Janów"
         },
         {
-          "id": "de-freiburg-18",
-          "slug": "haslach-gartenstadt",
-          "name": "Haslach-Gartenstadt"
+          "id": "pl-katowice-18",
+          "slug": "janow-nikiszowiec",
+          "name": "Janów-Nikiszowiec"
         },
         {
-          "id": "de-freiburg-19",
-          "slug": "haslach-haid",
-          "name": "Haslach-Haid"
+          "id": "pl-katowice-19",
+          "slug": "johanka",
+          "name": "Johanka"
         },
         {
-          "id": "de-freiburg-20",
-          "slug": "haslach-schildacker",
-          "name": "Haslach-Schildacker"
+          "id": "pl-katowice-20",
+          "slug": "jozefowiec",
+          "name": "Józefowiec"
         },
         {
-          "id": "de-freiburg-21",
-          "slug": "herdern",
-          "name": "Herdern"
+          "id": "pl-katowice-21",
+          "slug": "karbowa",
+          "name": "Karbowa"
         },
         {
-          "id": "de-freiburg-22",
-          "slug": "herdern-nord",
-          "name": "Herdern-Nord"
+          "id": "pl-katowice-22",
+          "slug": "katowicka-hada",
+          "name": "Katowicka Hałda"
         },
         {
-          "id": "de-freiburg-23",
-          "slug": "herdern-sud",
-          "name": "Herdern-Süd"
+          "id": "pl-katowice-23",
+          "slug": "katy",
+          "name": "Kąty"
         },
         {
-          "id": "de-freiburg-24",
-          "slug": "hochdorf",
-          "name": "Hochdorf"
+          "id": "pl-katowice-24",
+          "slug": "katy-piotrowickie",
+          "name": "Kąty Piotrowickie"
         },
         {
-          "id": "de-freiburg-25",
-          "slug": "kappel",
-          "name": "Kappel"
+          "id": "pl-katowice-25",
+          "slug": "kokociniec",
+          "name": "Kokociniec"
         },
         {
-          "id": "de-freiburg-26",
-          "slug": "kappel-neuhauser",
-          "name": "Kappel-Neuhäuser"
+          "id": "pl-katowice-26",
+          "slug": "kolonia-agnieszki",
+          "name": "Kolonia Agnieszki"
         },
         {
-          "id": "de-freiburg-27",
-          "slug": "landwasser",
-          "name": "Landwasser"
+          "id": "pl-katowice-27",
+          "slug": "kolonia-alfred",
+          "name": "Kolonia Alfred"
         },
         {
-          "id": "de-freiburg-28",
-          "slug": "lehen",
-          "name": "Lehen"
+          "id": "pl-katowice-28",
+          "slug": "kolonia-boze-dary",
+          "name": "Kolonia Boże Dary"
         },
         {
-          "id": "de-freiburg-29",
-          "slug": "littenweiler",
-          "name": "Littenweiler"
+          "id": "pl-katowice-29",
+          "slug": "kolonia-hegenscheidta",
+          "name": "Kolonia Hegenscheidta"
         },
         {
-          "id": "de-freiburg-30",
-          "slug": "mittelwiehre",
-          "name": "Mittelwiehre"
+          "id": "pl-katowice-30",
+          "slug": "kolonia-prezydenta-moscickiego",
+          "name": "Kolonia Prezydenta Mościckiego"
         },
         {
-          "id": "de-freiburg-31",
-          "slug": "molzhofsiedlung",
-          "name": "Molzhofsiedlung"
+          "id": "pl-katowice-31",
+          "slug": "kolonia-swietego-huberta",
+          "name": "Kolonia Świętego Huberta"
         },
         {
-          "id": "de-freiburg-32",
-          "slug": "mooswald",
-          "name": "Mooswald"
+          "id": "pl-katowice-32",
+          "slug": "kolonia-wysockiego",
+          "name": "Kolonia Wysockiego"
         },
         {
-          "id": "de-freiburg-33",
-          "slug": "mooswald-ost",
-          "name": "Mooswald-Ost"
+          "id": "pl-katowice-33",
+          "slug": "kopaniny",
+          "name": "Kopaniny"
         },
         {
-          "id": "de-freiburg-34",
-          "slug": "mooswald-west",
-          "name": "Mooswald-West"
+          "id": "pl-katowice-34",
+          "slug": "kopaniny-lewe",
+          "name": "Kopaniny Lewe"
         },
         {
-          "id": "de-freiburg-35",
-          "slug": "mundenhof",
-          "name": "Mundenhof"
+          "id": "pl-katowice-35",
+          "slug": "kopaniny-prawe",
+          "name": "Kopaniny Prawe"
         },
         {
-          "id": "de-freiburg-36",
-          "slug": "munzingen",
-          "name": "Munzingen"
+          "id": "pl-katowice-36",
+          "slug": "kostuchna",
+          "name": "Kostuchna"
         },
         {
-          "id": "de-freiburg-37",
-          "slug": "neuburg",
-          "name": "Neuburg"
+          "id": "pl-katowice-37",
+          "slug": "koszutka",
+          "name": "Koszutka"
         },
         {
-          "id": "de-freiburg-38",
-          "slug": "oberau",
-          "name": "Oberau"
+          "id": "pl-katowice-38",
+          "slug": "ligota",
+          "name": "Ligota"
         },
         {
-          "id": "de-freiburg-39",
-          "slug": "oberwiehre",
-          "name": "Oberwiehre"
+          "id": "pl-katowice-39",
+          "slug": "ligota-panewniki",
+          "name": "Ligota-Panewniki"
         },
         {
-          "id": "de-freiburg-40",
-          "slug": "opfingen",
-          "name": "Opfingen"
+          "id": "pl-katowice-40",
+          "slug": "muchowiec",
+          "name": "Muchowiec"
         },
         {
-          "id": "de-freiburg-41",
-          "slug": "rieselfeld",
-          "name": "Rieselfeld"
+          "id": "pl-katowice-41",
+          "slug": "murcki",
+          "name": "Murcki"
         },
         {
-          "id": "de-freiburg-42",
-          "slug": "sankt-georgen",
-          "name": "Sankt Georgen"
+          "id": "pl-katowice-42",
+          "slug": "nikiszowiec",
+          "name": "Nikiszowiec"
         },
         {
-          "id": "de-freiburg-43",
-          "slug": "sankt-georgen-nord",
-          "name": "Sankt Georgen Nord"
+          "id": "pl-katowice-43",
+          "slug": "norma",
+          "name": "Norma"
         },
         {
-          "id": "de-freiburg-44",
-          "slug": "sankt-georgen-sud",
-          "name": "Sankt Georgen Süd"
+          "id": "pl-katowice-44",
+          "slug": "nowa-ligota",
+          "name": "Nowa Ligota"
         },
         {
-          "id": "de-freiburg-45",
-          "slug": "sechzehn-jauchert",
-          "name": "Sechzehn Jauchert"
+          "id": "pl-katowice-45",
+          "slug": "nowe-panewniki",
+          "name": "Nowe Panewniki"
         },
         {
-          "id": "de-freiburg-46",
-          "slug": "sternenhof",
-          "name": "Sternenhof"
+          "id": "pl-katowice-46",
+          "slug": "nowy-czekaj",
+          "name": "Nowy Czekaj"
         },
         {
-          "id": "de-freiburg-47",
-          "slug": "stuhlinger",
-          "name": "Stühlinger"
+          "id": "pl-katowice-47",
+          "slug": "obroki",
+          "name": "Obroki"
         },
         {
-          "id": "de-freiburg-48",
-          "slug": "stuhlinger-eschholz",
-          "name": "Stühlinger-Eschholz"
+          "id": "pl-katowice-48",
+          "slug": "ochojec",
+          "name": "Ochojec"
         },
         {
-          "id": "de-freiburg-49",
-          "slug": "tiengen",
-          "name": "Tiengen"
+          "id": "pl-katowice-49",
+          "slug": "osiedle-adama",
+          "name": "Osiedle Adama"
         },
         {
-          "id": "de-freiburg-50",
-          "slug": "uffhausen",
-          "name": "Uffhausen"
+          "id": "pl-katowice-50",
+          "slug": "osiedle-bohdanowicza",
+          "name": "Osiedle Bohdanowicza"
         },
         {
-          "id": "de-freiburg-51",
-          "slug": "uni-carre",
-          "name": "Uni-Carré"
+          "id": "pl-katowice-51",
+          "slug": "osiedle-ducha",
+          "name": "Osiedle Ducha"
         },
         {
-          "id": "de-freiburg-52",
-          "slug": "unterwiehre-nord",
-          "name": "Unterwiehre-Nord"
+          "id": "pl-katowice-52",
+          "slug": "osiedle-franciszka-scigay",
+          "name": "Osiedle Franciszka Ścigały"
         },
         {
-          "id": "de-freiburg-53",
-          "slug": "unterwiehre-sud",
-          "name": "Unterwiehre-Süd"
+          "id": "pl-katowice-53",
+          "slug": "osiedle-janasa-ondraszka",
+          "name": "Osiedle Janasa-Ondraszka"
         },
         {
-          "id": "de-freiburg-54",
-          "slug": "vauban",
-          "name": "Vauban"
+          "id": "pl-katowice-54",
+          "slug": "osiedle-jerzego-kukuczki",
+          "name": "Osiedle Jerzego Kukuczki"
         },
         {
-          "id": "de-freiburg-55",
-          "slug": "waldsee",
-          "name": "Waldsee"
+          "id": "pl-katowice-55",
+          "slug": "osiedle-konstantego-michalskiego",
+          "name": "Osiedle Konstantego Michalskiego"
         },
         {
-          "id": "de-freiburg-56",
-          "slug": "waltershofen",
-          "name": "Waltershofen"
+          "id": "pl-katowice-56",
+          "slug": "osiedle-morawa",
+          "name": "Osiedle Morawa"
         },
         {
-          "id": "de-freiburg-57",
-          "slug": "weingarten",
-          "name": "Weingarten"
+          "id": "pl-katowice-57",
+          "slug": "osiedle-modych",
+          "name": "Osiedle Młodych"
         },
         {
-          "id": "de-freiburg-58",
-          "slug": "welchental",
-          "name": "Welchental"
+          "id": "pl-katowice-58",
+          "slug": "osiedle-na-alpach",
+          "name": "Osiedle Na Alpach"
         },
         {
-          "id": "de-freiburg-59",
-          "slug": "wendlingen",
-          "name": "Wendlingen"
+          "id": "pl-katowice-59",
+          "slug": "osiedle-nowa-soneczna",
+          "name": "Osiedle Nowa Słoneczna"
         },
         {
-          "id": "de-freiburg-60",
-          "slug": "wiehre",
-          "name": "Wiehre"
+          "id": "pl-katowice-60",
+          "slug": "osiedle-odrodzenia",
+          "name": "Osiedle Odrodzenia"
         },
         {
-          "id": "de-freiburg-61",
-          "slug": "wonnhalde",
-          "name": "Wonnhalde"
+          "id": "pl-katowice-61",
+          "slug": "osiedle-orkana",
+          "name": "Osiedle Orkana"
         },
         {
-          "id": "de-freiburg-62",
-          "slug": "zahringen",
-          "name": "Zähringen"
+          "id": "pl-katowice-62",
+          "slug": "osiedle-paderewskiego",
+          "name": "Osiedle Paderewskiego"
+        },
+        {
+          "id": "pl-katowice-63",
+          "slug": "osiedle-paderewskiego-muchowiec",
+          "name": "Osiedle Paderewskiego-Muchowiec"
+        },
+        {
+          "id": "pl-katowice-64",
+          "slug": "osiedle-przedwiosnie",
+          "name": "Osiedle Przedwiośnie"
+        },
+        {
+          "id": "pl-katowice-65",
+          "slug": "osiedle-rolna-wodospady",
+          "name": "Osiedle Rolna-Wodospady"
+        },
+        {
+          "id": "pl-katowice-66",
+          "slug": "osiedle-tysiaclecia",
+          "name": "Osiedle Tysiąclecia"
+        },
+        {
+          "id": "pl-katowice-67",
+          "slug": "osiedle-tysiaclecia-dolne",
+          "name": "Osiedle Tysiąclecia Dolne"
+        },
+        {
+          "id": "pl-katowice-68",
+          "slug": "osiedle-tysiaclecia-gorne",
+          "name": "Osiedle Tysiąclecia Górne"
+        },
+        {
+          "id": "pl-katowice-69",
+          "slug": "osiedle-ulica-styczniowa",
+          "name": "Osiedle Ulica Styczniowa"
+        },
+        {
+          "id": "pl-katowice-70",
+          "slug": "osiedle-wincentego-wajdy",
+          "name": "Osiedle Wincentego Wajdy"
+        },
+        {
+          "id": "pl-katowice-71",
+          "slug": "osiedle-wincentego-witosa",
+          "name": "Osiedle Wincentego Witosa"
+        },
+        {
+          "id": "pl-katowice-72",
+          "slug": "osiedle-witosa",
+          "name": "Osiedle Witosa"
+        },
+        {
+          "id": "pl-katowice-73",
+          "slug": "osiedle-zgrzebnioka",
+          "name": "Osiedle Zgrzebnioka"
+        },
+        {
+          "id": "pl-katowice-74",
+          "slug": "panewniki",
+          "name": "Panewniki"
+        },
+        {
+          "id": "pl-katowice-75",
+          "slug": "piotrowice",
+          "name": "Piotrowice"
+        },
+        {
+          "id": "pl-katowice-76",
+          "slug": "piotrowice-ochojec",
+          "name": "Piotrowice-Ochojec"
+        },
+        {
+          "id": "pl-katowice-77",
+          "slug": "pniaki",
+          "name": "Pniaki"
+        },
+        {
+          "id": "pl-katowice-78",
+          "slug": "pod-mynem",
+          "name": "Pod Młynem"
+        },
+        {
+          "id": "pl-katowice-79",
+          "slug": "podgruba",
+          "name": "Podgruba"
+        },
+        {
+          "id": "pl-katowice-80",
+          "slug": "podlesie",
+          "name": "Podlesie"
+        },
+        {
+          "id": "pl-katowice-81",
+          "slug": "rozdzien",
+          "name": "Roździeń"
+        },
+        {
+          "id": "pl-katowice-82",
+          "slug": "srodmiescie",
+          "name": "Śródmieście"
+        },
+        {
+          "id": "pl-katowice-83",
+          "slug": "stara-ligota",
+          "name": "Stara Ligota"
+        },
+        {
+          "id": "pl-katowice-84",
+          "slug": "stare-panewniki",
+          "name": "Stare Panewniki"
+        },
+        {
+          "id": "pl-katowice-85",
+          "slug": "stary-czekaj",
+          "name": "Stary Czekaj"
+        },
+        {
+          "id": "pl-katowice-86",
+          "slug": "stary-tartak",
+          "name": "Stary Tartak"
+        },
+        {
+          "id": "pl-katowice-87",
+          "slug": "stawiska",
+          "name": "Stawiska"
+        },
+        {
+          "id": "pl-katowice-88",
+          "slug": "strefa-kultury",
+          "name": "Strefa Kultury"
+        },
+        {
+          "id": "pl-katowice-89",
+          "slug": "szadok",
+          "name": "Szadok"
+        },
+        {
+          "id": "pl-katowice-90",
+          "slug": "szopienice",
+          "name": "Szopienice"
+        },
+        {
+          "id": "pl-katowice-91",
+          "slug": "szopienice-burowiec",
+          "name": "Szopienice-Burowiec"
+        },
+        {
+          "id": "pl-katowice-92",
+          "slug": "wenowiec",
+          "name": "Wełnowiec"
+        },
+        {
+          "id": "pl-katowice-93",
+          "slug": "wenowiec-jozefowiec",
+          "name": "Wełnowiec-Józefowiec"
+        },
+        {
+          "id": "pl-katowice-94",
+          "slug": "wilhelmina",
+          "name": "Wilhelmina"
+        },
+        {
+          "id": "pl-katowice-95",
+          "slug": "wymysow",
+          "name": "Wymysłów"
+        },
+        {
+          "id": "pl-katowice-96",
+          "slug": "zadole",
+          "name": "Zadole"
+        },
+        {
+          "id": "pl-katowice-97",
+          "slug": "zaopusta",
+          "name": "Zaopusta"
+        },
+        {
+          "id": "pl-katowice-98",
+          "slug": "zarzecze",
+          "name": "Zarzecze"
+        },
+        {
+          "id": "pl-katowice-99",
+          "slug": "zawodzie",
+          "name": "Zawodzie"
+        },
+        {
+          "id": "pl-katowice-100",
+          "slug": "zaeska-hada",
+          "name": "Załęska Hałda"
+        },
+        {
+          "id": "pl-katowice-101",
+          "slug": "zaeska-hada-brynow",
+          "name": "Załęska Hałda-Brynow"
+        },
+        {
+          "id": "pl-katowice-102",
+          "slug": "zaeskie-przedmiescie",
+          "name": "Załęskie Przedmieście"
+        },
+        {
+          "id": "pl-katowice-103",
+          "slug": "zaeze",
+          "name": "Załęże"
         }
       ]
     }
   ],
   "listings": [
     {
-      "id": "2109d231-6b59-5224-8da5-d22e95246816",
-      "country_code": "DE",
-      "city_id": "de-berlin",
-      "district_id": "adlershof",
-      "district_name": "Adlershof",
-      "title": "Möbliertes Zimmer nahe der Hochschule",
-      "type": "Einzelzimmer",
-      "arrangement": "In einer WG",
-      "price": 690,
-      "currency": "EUR",
+      "id": "6e7aa194-993b-513d-a577-05cd1a9f3870",
+      "country_code": "PL",
+      "city_id": "pl-warszawa",
+      "district_id": "aleksandrow",
+      "district_name": "Aleksandrów",
+      "title": "Umeblowany pokój blisko uczelni",
+      "type": "Pokój jednoosobowy",
+      "arrangement": "W mieszkaniu współdzielonym",
+      "price": 2400,
+      "currency": "PLN",
       "expenses_included": true,
-      "expenses_amount": 70,
-      "deposit": 690,
+      "expenses_amount": 380,
+      "deposit": 2400,
       "available_from": "2026-09-01",
-      "minimum_stay": "6 Monate",
+      "minimum_stay": "6 miesięcy",
       "status": "published",
       "email_verified": true,
-      "description": "Möblierter Wohnraum für Studierende mit klar ausgewiesenen Kosten und Bedingungen. Kontaktdaten bleiben bis zur E-Mail-Verifizierung geschützt.",
+      "description": "Umeblowane zakwaterowanie dla studentów z jasno opisanymi kosztami i warunkami. Dane kontaktowe są chronione do czasu potwierdzenia emaila.",
       "image": "assets/img/room-1.webp",
       "images": [
         "assets/img/room-1.webp",
@@ -7784,24 +8594,24 @@ window.STUDENTBNB_DATA = {
       ]
     },
     {
-      "id": "90093017-e4fe-52e3-8bbc-ff35272e8d1e",
-      "country_code": "DE",
-      "city_id": "de-muenchen",
-      "district_id": "8-2",
-      "district_name": "8.2",
-      "title": "Helles WG-Zimmer",
-      "type": "Platz im Mehrbettzimmer",
-      "arrangement": "In einer WG",
-      "price": 780,
-      "currency": "EUR",
+      "id": "01261abd-b071-565e-8751-9bb935fcdef9",
+      "country_code": "PL",
+      "city_id": "pl-krakow",
+      "district_id": "azory",
+      "district_name": "Azory",
+      "title": "Jasny pokój we wspólnym mieszkaniu",
+      "type": "Miejsce w pokoju współdzielonym",
+      "arrangement": "W mieszkaniu współdzielonym",
+      "price": 2900,
+      "currency": "PLN",
       "expenses_included": false,
-      "expenses_amount": 70,
-      "deposit": 780,
+      "expenses_amount": 380,
+      "deposit": 2900,
       "available_from": "2026-010-01",
-      "minimum_stay": "6 Monate",
+      "minimum_stay": "6 miesięcy",
       "status": "published",
       "email_verified": true,
-      "description": "Möblierter Wohnraum für Studierende mit klar ausgewiesenen Kosten und Bedingungen. Kontaktdaten bleiben bis zur E-Mail-Verifizierung geschützt.",
+      "description": "Umeblowane zakwaterowanie dla studentów z jasno opisanymi kosztami i warunkami. Dane kontaktowe są chronione do czasu potwierdzenia emaila.",
       "image": "assets/img/room-2.webp",
       "images": [
         "assets/img/room-1.webp",
@@ -7814,24 +8624,24 @@ window.STUDENTBNB_DATA = {
       ]
     },
     {
-      "id": "8a46d546-2228-5e34-a744-aba5edc7c3a9",
-      "country_code": "DE",
-      "city_id": "de-hamburg",
-      "district_id": "allermohe",
-      "district_name": "Allermöhe",
-      "title": "Bezugsfertiges Studio",
-      "type": "Studio",
-      "arrangement": "Ganze Wohnung",
-      "price": 940,
-      "currency": "EUR",
+      "id": "a493bc1e-86ab-59f8-bf98-3169490471fe",
+      "country_code": "PL",
+      "city_id": "pl-wroclaw",
+      "district_id": "bartoszowice",
+      "district_name": "Bartoszowice",
+      "title": "Gotowa do zamieszkania kawalerka",
+      "type": "Kawalerka",
+      "arrangement": "Całe mieszkanie",
+      "price": 3600,
+      "currency": "PLN",
       "expenses_included": true,
-      "expenses_amount": 70,
-      "deposit": 940,
+      "expenses_amount": 380,
+      "deposit": 3600,
       "available_from": "2026-011-01",
-      "minimum_stay": "6 Monate",
+      "minimum_stay": "6 miesięcy",
       "status": "published",
       "email_verified": true,
-      "description": "Möblierter Wohnraum für Studierende mit klar ausgewiesenen Kosten und Bedingungen. Kontaktdaten bleiben bis zur E-Mail-Verifizierung geschützt.",
+      "description": "Umeblowane zakwaterowanie dla studentów z jasno opisanymi kosztami i warunkami. Dane kontaktowe są chronione do czasu potwierdzenia emaila.",
       "image": "assets/img/room-3.webp",
       "images": [
         "assets/img/room-1.webp",
@@ -7846,47 +8656,47 @@ window.STUDENTBNB_DATA = {
   ],
   "studentRequests": [
     {
-      "id": "1f557696-0888-54e8-9bfd-3f7f839c52d1",
-      "country_code": "DE",
-      "city_id": "de-berlin",
-      "name": "Anna",
-      "course": "Psychologie",
-      "type": "Einzelzimmer",
-      "budget_max": 621,
-      "currency": "EUR",
+      "id": "08fa4ba1-19ae-5e7f-9abe-9715f7000629",
+      "country_code": "PL",
+      "city_id": "pl-warszawa",
+      "name": "Zofia",
+      "course": "Psychologia",
+      "type": "Pokój jednoosobowy",
+      "budget_max": 2160,
+      "currency": "PLN",
       "available_from": "2026-09-01",
-      "languages": "Englisch + Landessprache",
-      "bio": "Finde ein Angebot oder veröffentliche dein Gesuch.",
+      "languages": "Angielski + język lokalny",
+      "bio": "Znajdź ofertę albo opublikuj, czego szukasz.",
       "status": "published",
       "email_verified": true
     },
     {
-      "id": "a1097916-6ba7-5a82-aca6-fd6e57fb6fe3",
-      "country_code": "DE",
-      "city_id": "de-muenchen",
-      "name": "Jonas",
-      "course": "Maschinenbau",
-      "type": "Einzelzimmer",
-      "budget_max": 702,
-      "currency": "EUR",
+      "id": "0087d1ae-5969-54b6-b52c-7aa3b95a7ac6",
+      "country_code": "PL",
+      "city_id": "pl-krakow",
+      "name": "Jakub",
+      "course": "Informatyka",
+      "type": "Pokój jednoosobowy",
+      "budget_max": 2610,
+      "currency": "PLN",
       "available_from": "2026-09-01",
-      "languages": "Englisch + Landessprache",
-      "bio": "Finde ein Angebot oder veröffentliche dein Gesuch.",
+      "languages": "Angielski + język lokalny",
+      "bio": "Znajdź ofertę albo opublikuj, czego szukasz.",
       "status": "published",
       "email_verified": true
     },
     {
-      "id": "082e4d68-333c-5ab4-8a88-7f4b99d045df",
-      "country_code": "DE",
-      "city_id": "de-hamburg",
-      "name": "Maja",
-      "course": "Erasmus - Sprachen",
-      "type": "Einzelzimmer",
-      "budget_max": 846,
-      "currency": "EUR",
+      "id": "bcec2ea0-29af-5442-b00d-9aebebdbbffe",
+      "country_code": "PL",
+      "city_id": "pl-wroclaw",
+      "name": "Marta",
+      "course": "Erasmus - Filologia",
+      "type": "Pokój jednoosobowy",
+      "budget_max": 3240,
+      "currency": "PLN",
       "available_from": "2026-09-01",
-      "languages": "Englisch + Landessprache",
-      "bio": "Finde ein Angebot oder veröffentliche dein Gesuch.",
+      "languages": "Angielski + język lokalny",
+      "bio": "Znajdź ofertę albo opublikuj, czego szukasz.",
       "status": "published",
       "email_verified": true
     }

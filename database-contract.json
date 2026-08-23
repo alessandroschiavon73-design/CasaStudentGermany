@@ -2,10 +2,10 @@
   "schemaVersion": "1.2",
   "scope": "EU",
   "countryFrontend": {
-    "domain": "student-bnb.de",
-    "countryCode": "DE",
-    "locale": "de-DE",
-    "currency": "EUR"
+    "domain": "studentbnb.pl",
+    "countryCode": "PL",
+    "locale": "pl-PL",
+    "currency": "PLN"
   },
   "recordIsolation": "Every market record requires country_code; access policies and analytics must filter by it.",
   "entities": {
@@ -122,10 +122,10 @@
     "POST /api/v1/auth/email/start",
     "POST /api/v1/auth/email/confirm",
     "GET /api/v1/countries/{countryCode}/cities",
-    "GET /api/v1/listings?country=DE&city_id={cityId}",
+    "GET /api/v1/listings?country=PL&city_id={cityId}",
     "GET /api/v1/listings/{id}",
     "POST /api/v1/listings",
-    "GET /api/v1/student-requests?country=DE",
+    "GET /api/v1/student-requests?country=PL",
     "POST /api/v1/student-requests",
     "POST /api/v1/reports",
     "POST /api/v1/events"

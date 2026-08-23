@@ -1,11 +1,11 @@
-STUDENTBNB DEUTSCHLAND - DB READY 1.2
+STUDENTBNB POLSKA - DB READY 1.2
 ============================================================
 
 Pacchetto statico localizzato sulla stessa logica grafica delle versioni italiana e spagnola.
 
 CONTENUTO
 - 10 pagine HTML responsive: home, città, annuncio, pubblicazione, ricerca, studenti, alloggio solidale, privacy, conferma email e 404.
-- Dati demo separati con countryCode = DE e valuta = EUR.
+- Dati demo separati con countryCode = PL e valuta = PLN.
 - Contratto dati comune in database-contract.json.
 - Procedura di pubblicazione predisposta per registrazione/verifica email.
 - Footer europeo centralizzato in assets/js/config.js.

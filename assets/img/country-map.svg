@@ -1,1 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1073 1272"><defs><clipPath id="country"><polygon points="461.4,38.2 590.1,89.0 643.8,178.1 751.1,203.5 826.2,305.3 922.8,394.3 879.8,508.8 955.0,636.0 879.8,737.8 858.4,877.7 729.6,954.0 676.0,1144.8 558.0,1221.1 450.7,1170.2 354.1,1233.8 311.2,1119.4 225.3,1043.0 236.0,890.4 161.0,801.4 225.3,686.9 161.0,572.4 225.3,445.2 257.5,305.3 364.8,241.7 375.6,114.5"/></clipPath><filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-opacity=".18"/></filter></defs><rect width="100%" height="100%" fill="#f7f4eb"/><g opacity=".35" stroke="#8bb2c5" stroke-width="2.1" fill="none"><path d="M42.9,229.0 q42.9,-25.4 85.8,0 t85.8,0"/><path d="M836.9,178.1 q42.9,-25.4 85.8,0 t85.8,0"/><path d="M879.9,992.2 q42.9,-25.4 85.8,0 t85.8,0"/></g><g clip-path="url(#country)" filter="url(#shadow)"><circle cx="300.4" cy="254.4" r="375.6" fill="#eadfbd" opacity=".96"/><circle cx="558.0" cy="229.0" r="375.6" fill="#d9e5c5" opacity=".96"/><circle cx="804.8" cy="356.2" r="375.6" fill="#e8c8b2" opacity=".96"/><circle cx="268.2" cy="572.4" r="375.6" fill="#cbd9e9" opacity=".96"/><circle cx="558.0" cy="610.6" r="375.6" fill="#e2d1e8" opacity=".96"/><circle cx="836.9" cy="699.6" r="375.6" fill="#f1df9c" opacity=".96"/><circle cx="375.6" cy="915.8" r="375.6" fill="#c9e1dc" opacity=".96"/><circle cx="729.6" cy="992.2" r="375.6" fill="#e5c6c6" opacity=".96"/><polyline points="214.6,407.0 890.6,432.5" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/><polyline points="193.1,699.6 901.3,699.6" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/><polyline points="386.3,127.2 429.2,1144.8" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/><polyline points="665.3,114.5 633.1,1157.5" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/><polyline points="236.0,915.8 836.9,254.4" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/><polyline points="300.4,229.0 826.2,966.7" fill="none" stroke="#ffffff" stroke-width="2.7" opacity=".6"/></g><polygon points="461.4,38.2 590.1,89.0 643.8,178.1 751.1,203.5 826.2,305.3 922.8,394.3 879.8,508.8 955.0,636.0 879.8,737.8 858.4,877.7 729.6,954.0 676.0,1144.8 558.0,1221.1 450.7,1170.2 354.1,1233.8 311.2,1119.4 225.3,1043.0 236.0,890.4 161.0,801.4 225.3,686.9 161.0,572.4 225.3,445.2 257.5,305.3 364.8,241.7 375.6,114.5" fill="none" stroke="#9b968b" stroke-width="4.9" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1120">
+<defs>
+  <filter id="paper"><feTurbulence baseFrequency=".012" numOctaves="3" seed="8" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="7" stdDeviation="6" flood-opacity=".18"/></filter>
+  <style>
+    .stroke{stroke:#4e4436;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}
+    .land{fill:#745f47}
+    .gold{fill:#c79c54}
+    .snow{fill:#fff;opacity:.75}
+    .road{stroke:#fbf3e7;stroke-width:5;opacity:.68}
+    .sea{stroke:#a7c8d4;stroke-width:3;fill:none;opacity:.8}
+  </style>
+  <clipPath id="de"><path d="M420 45L548 88l54 78 111 28 87 91 85 108-39 103 58 104-69 89-13 116-111 70-48 153-106 48-98-47-91 49-38-102-78-63 8-113-58-79 55-101-58-105 56-116 24-118 95-55 15-102z"/></clipPath>
+  <g id="gate">
+    <rect x="-42" y="6" width="84" height="40" class="land stroke"/>
+    <rect x="-28" y="-20" width="56" height="26" class="land stroke"/>
+    <rect x="-18" y="20" width="10" height="26" fill="#8d7658" class="stroke"/>
+    <rect x="-5" y="20" width="10" height="26" fill="#8d7658" class="stroke"/>
+    <rect x="8" y="20" width="10" height="26" fill="#8d7658" class="stroke"/>
+    <circle cx="0" cy="-8" r="6" class="gold stroke"/>
+  </g>
+  <g id="cathedral">
+    <rect x="-36" y="4" width="72" height="42" rx="3" class="land stroke"/>
+    <path d="M-25 4l9-42 9 42M7 4l9-42 9 42" class="land stroke"/>
+    <rect x="-7" y="19" width="14" height="27" fill="#8d7658" class="stroke"/>
+    <circle cx="0" cy="-3" r="5" class="gold stroke"/>
+  </g>
+  <g id="castle">
+    <rect x="-40" y="6" width="80" height="38" class="land stroke"/>
+    <rect x="-32" y="-8" width="16" height="14" class="land stroke"/>
+    <rect x="16" y="-8" width="16" height="14" class="land stroke"/>
+    <rect x="-5" y="-2" width="10" height="46" fill="#8d7658" class="stroke"/>
+    <path d="M-32 -8l8-12 8 12M16 -8l8-12 8 12" class="land stroke"/>
+  </g>
+  <g id="tower">
+    <rect x="-14" y="-6" width="28" height="58" class="land stroke"/>
+    <path d="M-18-6L0-42 18-6z" class="land stroke"/>
+    <rect x="-4" y="16" width="8" height="36" fill="#8d7658" class="stroke"/>
+  </g>
+  <g id="skyline">
+    <rect x="-30" y="16" width="14" height="30" class="land stroke"/>
+    <rect x="-14" y="4" width="18" height="42" class="land stroke"/>
+    <rect x="6" y="-4" width="18" height="50" class="land stroke"/>
+    <path d="M15-4V-24" class="stroke" stroke="#745f47" fill="none"/>
+    <path d="M9 8h12" class="stroke" stroke="#8d7658" fill="none"/>
+  </g>
+</defs>
+<rect width="1000" height="1120" fill="#fbf8ef"/>
+<path d="M55 170q55-32 110 0t110 0" class="sea"/><path d="M725 115q55-32 110 0t110 0" class="sea"/><path d="M755 940q55-32 110 0t110 0" class="sea"/>
+<g clip-path="url(#de)" filter="url(#paper)">
+  <rect x="120" y="30" width="780" height="1050" fill="#e8dfbd"/>
+  <circle cx="300" cy="235" r="285" fill="#cedcbc"/>
+  <circle cx="690" cy="270" r="280" fill="#e4c6b4"/>
+  <circle cx="270" cy="610" r="305" fill="#b9c8db"/>
+  <circle cx="640" cy="620" r="315" fill="#e1cf88"/>
+  <circle cx="355" cy="900" r="275" fill="#b8d0cc"/>
+  <circle cx="690" cy="930" r="280" fill="#cfbad0"/>
+  <path d="M205 330L825 355" class="road"/><path d="M180 570L840 590" class="road"/><path d="M205 790L805 770" class="road"/><path d="M390 85L410 1030" class="road"/><path d="M620 90L605 1025" class="road"/><path d="M230 930L760 170" class="road"/>
+</g>
+<path d="M420 45L548 88l54 78 111 28 87 91 85 108-39 103 58 104-69 89-13 116-111 70-48 153-106 48-98-47-91 49-38-102-78-63 8-113-58-79 55-101-58-105 56-116 24-118 95-55 15-102z" fill="none" stroke="#92897a" stroke-width="6" stroke-linejoin="round" filter="url(#shadow)"/>
+<g filter="url(#shadow)">
+  <g transform="translate(446 225) scale(.84)"><use href="#gate"/></g>
+  <g transform="translate(760 360) scale(.84)"><use href="#gate"/></g>
+  <g transform="translate(650 522) scale(.78)"><use href="#cathedral"/></g>
+  <g transform="translate(282 560) scale(.8)"><use href="#cathedral"/></g>
+  <g transform="translate(430 690) scale(.74)"><use href="#skyline"/></g>
+  <g transform="translate(410 804) scale(.78)"><use href="#castle"/></g>
+  <g transform="translate(335 970) scale(.8)"><use href="#cathedral"/></g>
+  <g transform="translate(670 955) scale(.82)"><use href="#cathedral"/></g>
+</g>
+<path d="M620 950c38-45 55-94 69-136 16 50 48 96 82 131-45 8-103 9-151 5z" fill="#9aa4a5" opacity=".55"/>
+<g transform="translate(760 90)"><path d="M0 45C-30 15-26-28 0-43C26-28 30 15 0 45z" fill="#c99755" class="stroke"/><path d="M0-43v88" stroke="#7c603d" stroke-width="3"/><rect x="-9" y="45" width="18" height="12" fill="#c99755" class="stroke"/></g>
+<g transform="translate(160 165)"><path d="M-30 12h60l-8 8h-44z" fill="#c7a86b" class="stroke"/><path d="M0 12V-28l32 28z" fill="#e7dfcc" class="stroke"/></g>
+</svg>

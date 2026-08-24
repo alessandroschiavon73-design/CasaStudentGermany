@@ -31,12 +31,6 @@ window.STUDENTBNB_CONFIG = {
       "url": "https://studentbnb.es/"
     },
     {
-      "code": "PT",
-      "label": "Portugal",
-      "flag": "🇵🇹",
-      "url": "https://studentbnb.pt/"
-    },
-    {
       "code": "FR",
       "label": "France",
       "flag": "🇫🇷",

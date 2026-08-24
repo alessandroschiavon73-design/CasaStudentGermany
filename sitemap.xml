@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://student-bnb.de/index.html</loc></url>
+  <url><loc>https://student-bnb.de/</loc></url>
   <url><loc>https://student-bnb.de/stadt.html</loc></url>
-  <url><loc>https://student-bnb.de/anzeige.html</loc></url>
   <url><loc>https://student-bnb.de/inserieren.html</loc></url>
   <url><loc>https://student-bnb.de/ich-suche.html</loc></url>
   <url><loc>https://student-bnb.de/studierende.html</loc></url>
   <url><loc>https://student-bnb.de/wohnen-mit-hilfe.html</loc></url>
   <url><loc>https://student-bnb.de/datenschutz.html</loc></url>
-  <url><loc>https://student-bnb.de/email-bestaetigen.html</loc></url>
 </urlset>

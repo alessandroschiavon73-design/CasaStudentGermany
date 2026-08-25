@@ -1,0 +1,71 @@
+/* Germany home-map alignment with the Italy / Spain / France visual language — 2026-08-25 */
+.country-market-map{
+  width:100%;
+  max-width:none;
+  height:auto!important;
+  min-height:0!important;
+  margin-top:0;
+  padding:0;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  overflow:visible;
+  isolation:auto;
+}
+.country-market-map::before{display:none!important}
+.market-map-top{padding:0 4px 4px}
+.market-map-canvas{
+  flex:none;
+  display:grid;
+  place-items:center;
+  padding:8px 0 12px!important;
+  overflow:visible;
+}
+.market-map-visual{
+  position:relative;
+  width:100%!important;
+  height:auto!important;
+  max-width:760px!important;
+  max-height:none!important;
+  margin-inline:auto;
+  overflow:visible;
+  background:#fff;
+  isolation:isolate;
+}
+.market-map-image{
+  display:block;
+  width:100%!important;
+  height:auto!important;
+  min-height:0!important;
+  object-fit:contain!important;
+  object-position:center!important;
+  filter:none!important;
+  user-select:none;
+}
+/* Fade the rectangular image edge into the white page, like France/Spain/Italy. */
+.market-map-visual::after{
+  content:"";
+  position:absolute;
+  inset:-3px;
+  z-index:3;
+  pointer-events:none;
+  background:
+    linear-gradient(to right,#fff 0,rgba(255,255,255,.97) 1%,rgba(255,255,255,.58) 4%,transparent 10%,transparent 90%,rgba(255,255,255,.58) 96%,rgba(255,255,255,.97) 99%,#fff 100%),
+    linear-gradient(to bottom,#fff 0,rgba(255,255,255,.96) 1%,rgba(255,255,255,.5) 4%,transparent 9%,transparent 91%,rgba(255,255,255,.5) 96%,rgba(255,255,255,.96) 99%,#fff 100%);
+}
+/* City selection remains available from the complete dropdown; remove the old yellow-dot layer. */
+.map-city-marker{display:none!important}
+.market-map-note{margin-top:2px}
+@media(max-width:1050px){.market-map-visual{max-width:720px!important}}
+@media(max-width:820px){
+  .country-market-map{max-width:700px;margin:12px auto 0}
+  .market-map-top{padding-inline:0}
+  .market-map-canvas{padding:8px 0 12px!important}
+  .market-map-visual{max-width:640px!important}
+}
+@media(max-width:590px){
+  .country-market-map{padding:0}
+  .market-map-canvas{padding:6px 0 10px!important}
+  .market-map-visual{max-width:100%!important}
+}

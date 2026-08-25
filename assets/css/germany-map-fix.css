@@ -1,4 +1,4 @@
-/* Germany home-map alignment with the Italy / Spain / France visual language — 2026-08-25 */
+/* Germany home-map mobile/desktop alignment — verified against iPhone screenshot, 2026-08-25 */
 .country-market-map{
   width:100%;
   max-width:none;
@@ -11,40 +11,46 @@
   border-radius:0;
   background:transparent;
   box-shadow:none;
-  overflow:visible;
+  overflow:visible!important;
   isolation:auto;
+  display:block!important;
 }
 .country-market-map::before{display:none!important}
 .market-map-top{padding:0 4px 4px}
 .market-map-canvas{
-  flex:none;
-  display:grid;
-  place-items:center;
-  padding:8px 0 12px!important;
-  overflow:visible;
+  display:block!important;
+  width:100%;
+  height:auto!important;
+  min-height:0!important;
+  padding:8px 0 16px!important;
+  overflow:visible!important;
 }
 .market-map-visual{
   position:relative;
-  width:100%!important;
+  width:min(100%,650px)!important;
   height:auto!important;
+  min-height:0!important;
   max-width:650px!important;
   max-height:none!important;
-  margin-inline:auto;
-  overflow:visible;
+  aspect-ratio:auto!important;
+  margin:0 auto;
+  overflow:visible!important;
   background:#fff;
   isolation:isolate;
 }
 .market-map-image{
-  display:block;
+  position:static!important;
+  display:block!important;
   width:100%!important;
   height:auto!important;
   min-height:0!important;
+  max-height:none!important;
+  aspect-ratio:auto!important;
   object-fit:contain!important;
   object-position:center!important;
   filter:none!important;
   user-select:none;
 }
-/* Fade the rectangular image edge into the white page, like France/Spain/Italy. */
 .market-map-visual::after{
   content:"";
   position:absolute;
@@ -55,18 +61,24 @@
     linear-gradient(to right,#fff 0,rgba(255,255,255,.97) 1%,rgba(255,255,255,.58) 4%,transparent 10%,transparent 90%,rgba(255,255,255,.58) 96%,rgba(255,255,255,.97) 99%,#fff 100%),
     linear-gradient(to bottom,#fff 0,rgba(255,255,255,.96) 1%,rgba(255,255,255,.5) 4%,transparent 9%,transparent 91%,rgba(255,255,255,.5) 96%,rgba(255,255,255,.96) 99%,#fff 100%);
 }
-/* City selection remains available from the complete dropdown; remove the old yellow-dot layer. */
 .map-city-marker{display:none!important}
 .market-map-note{margin-top:2px}
-@media(max-width:1050px){.market-map-visual{max-width:620px!important}}
+.value-strip{clear:both!important}
+
+@media(max-width:1050px){
+  .market-map-visual{width:min(100%,620px)!important;max-width:620px!important}
+}
 @media(max-width:820px){
   .country-market-map{max-width:700px;margin:12px auto 0}
   .market-map-top{padding-inline:0}
-  .market-map-canvas{padding:8px 0 12px!important}
-  .market-map-visual{max-width:560px!important}
+  .market-map-canvas{padding:8px 0 16px!important}
+  .market-map-visual{width:min(88%,560px)!important;max-width:560px!important}
 }
 @media(max-width:590px){
-  .country-market-map{padding:0;margin-top:4px}
-  .market-map-canvas{padding:6px 0 14px!important}
-  .market-map-visual{width:84%!important;max-width:84%!important}
+  .country-market-map{padding:0!important;margin:4px auto 0!important;width:100%!important}
+  .market-map-canvas{padding:2px 0 20px!important}
+  .market-map-visual{width:76%!important;max-width:76%!important;margin:0 auto!important}
+  .market-map-image{width:100%!important;height:auto!important}
+  .market-map-note{display:none!important}
+  .value-strip{margin-top:10px!important;position:relative!important;z-index:1!important}
 }

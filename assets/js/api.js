@@ -4,6 +4,54 @@
   const cfg = window.STUDENTBNB_CONFIG;
   const storagePrefix = `studentbnb:${cfg.countryCode}:`;
 
+  // Keep the complete geographic dataset, but expose a shorter student-friendly
+  // district list in the UI when imported source data is excessively granular.
+  // The full list is preserved on city.districtsAll for future refinement.
+  (function curateDistrictsForStudents() {
+    const data = window.STUDENTBNB_DATA;
+    if (!data || !Array.isArray(data.cities)) return;
+
+    const listings = Array.isArray(data.listings) ? data.listings : [];
+    const normalize = value => String(value || "").toLocaleLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+    data.cities.forEach(city => {
+      if (!Array.isArray(city.districts) || city.districts.length <= 22) return;
+
+      city.districtsAll = city.districts.slice();
+      const referenced = new Set();
+      listings.forEach(listing => {
+        const listingCity = listing.city_id || listing.cityId || listing.city || listing.city_slug || listing.citySlug;
+        if (listingCity && ![city.id, city.slug, city.name].map(normalize).includes(normalize(listingCity))) return;
+        [listing.district_id, listing.districtId, listing.district, listing.zone].filter(Boolean).forEach(value => referenced.add(normalize(value)));
+      });
+
+      const target = city.districts.length > 100 ? 20 : city.districts.length > 45 ? 18 : 16;
+      const scored = city.districts.map((district, index) => {
+        const name = district && typeof district === "object" ? district.name : String(district);
+        const id = district && typeof district === "object" ? district.id : name;
+        const n = normalize(name);
+        let score = 0;
+        if (referenced.has(normalize(id)) || referenced.has(n)) score += 100;
+        if (/(mitte|zentrum|zentrum|innenstadt|altstadt|univers|campus|student|zentrum|city|centre|centro)/i.test(n)) score += 18;
+        if (/(kreuzberg|neukolln|prenzlauer|charlottenburg|friedrichshain|moabit|wedding|schoneberg|steglitz|dahlem|adlershof)/i.test(n)) score += 12;
+        if (/\d/.test(name)) score -= 12;
+        if (/\b(i|ii|iii|iv|v|vi|vii|viii|ix|x)\b/i.test(name)) score -= 10;
+        if ((name.match(/[-–/]/g) || []).length > 1) score -= 5;
+        if (name.length > 30) score -= 4;
+        if (/^(alt-|siedlung|kolonie|wohnpark)/i.test(n)) score -= 3;
+        return { district, index, score };
+      });
+
+      const selected = scored
+        .sort((a, b) => b.score - a.score || a.index - b.index)
+        .slice(0, target)
+        .sort((a, b) => a.index - b.index)
+        .map(item => item.district);
+
+      city.districts = selected;
+    });
+  })();
+
   async function apiRequest(path, options = {}) {
     const response = await fetch(`${cfg.apiBaseUrl}${path}`, {
       credentials: "include",

@@ -1,4 +1,4 @@
-/* Germany home-map mobile/desktop alignment — verified against iPhone screenshot, 2026-08-25 */
+/* StudentBnB Germany — map alignment shared across desktop, tablet and mobile. */
 .country-market-map{
   width:100%;
   max-width:none;
@@ -47,7 +47,7 @@
   max-height:none!important;
   aspect-ratio:auto!important;
   object-fit:contain!important;
-  object-position:center!important;
+  object-position:center center!important;
   filter:none!important;
   user-select:none;
 }
@@ -61,29 +61,9 @@
     linear-gradient(to right,#fff 0,rgba(255,255,255,.97) 1%,rgba(255,255,255,.58) 4%,transparent 10%,transparent 90%,rgba(255,255,255,.58) 96%,rgba(255,255,255,.97) 99%,#fff 100%),
     linear-gradient(to bottom,#fff 0,rgba(255,255,255,.96) 1%,rgba(255,255,255,.5) 4%,transparent 9%,transparent 91%,rgba(255,255,255,.5) 96%,rgba(255,255,255,.96) 99%,#fff 100%);
 }
-.map-city-marker{display:none!important}
 .market-map-note{margin-top:2px}
 .value-strip{clear:both!important}
 
-@media(max-width:1050px){
-  .market-map-visual{width:min(100%,620px)!important;max-width:620px!important}
-}
-@media(max-width:820px){
-  .country-market-map{max-width:700px;margin:12px auto 0}
-  .market-map-top{padding-inline:0}
-  .market-map-canvas{padding:8px 0 16px!important}
-  .market-map-visual{width:min(88%,560px)!important;max-width:560px!important}
-}
-@media(max-width:590px){
-  .country-market-map{padding:0!important;margin:4px auto 0!important;width:100%!important}
-  .market-map-canvas{padding:2px 0 20px!important}
-  .market-map-visual{width:76%!important;max-width:76%!important;margin:0 auto!important}
-  .market-map-image{width:100%!important;height:auto!important}
-  .market-map-note{display:none!important}
-  .value-strip{margin-top:10px!important;position:relative!important;z-index:1!important}
-}
-
-/* Germany city labels aligned to France — 2026-08-26 */
 .map-city-marker{
   display:block!important;
   position:absolute;
@@ -124,6 +104,31 @@
 }
 .map-city-marker.label-left span{left:auto;right:8px}
 .map-city-marker:focus-visible span,.map-city-marker:hover span{background:#ffc400}
-@media(max-width:1050px){.map-city-marker span{font-size:9px;padding:4px 6px}}
-@media(max-width:820px){.map-city-marker span{font-size:8px;padding:5px 7px;left:6px}.map-city-marker.label-left span{left:auto;right:6px}}
-@media(max-width:520px){.map-city-marker span{font-size:8px;padding:6px 8px;max-width:88px;overflow:hidden;text-overflow:ellipsis;left:5px}.map-city-marker.label-left span{left:auto;right:5px}}
+
+@media(max-width:1050px){
+  .market-map-visual{width:min(100%,620px)!important;max-width:620px!important}
+  .map-city-marker span{font-size:9px;padding:4px 6px}
+}
+@media(max-width:820px){
+  .country-market-map{max-width:700px;margin:12px auto 0}
+  .market-map-top{padding-inline:0}
+  .market-map-canvas{padding:8px 0 16px!important}
+  .market-map-visual{width:min(90%,560px)!important;max-width:560px!important}
+  .map-city-marker span{font-size:8px;padding:5px 7px;left:6px}
+  .map-city-marker.label-left span{left:auto;right:6px}
+}
+@media(max-width:590px){
+  .country-market-map{padding:0!important;margin:6px auto 0!important;width:100%!important}
+  .market-map-top{padding-inline:0}
+  .market-map-canvas{padding:4px 0 18px!important}
+  .market-map-visual{width:84%!important;max-width:520px!important;margin:0 auto!important}
+  .market-map-image{width:100%!important;height:auto!important}
+  .market-map-note{display:none!important}
+  .value-strip{margin-top:10px!important;position:relative!important;z-index:1!important}
+  .map-city-marker span{font-size:8px;padding:6px 8px;max-width:92px;overflow:hidden;text-overflow:ellipsis;left:5px}
+  .map-city-marker.label-left span{left:auto;right:5px}
+}
+@media(max-width:390px){
+  .market-map-visual{width:88%!important}
+  .map-city-marker span{font-size:7.5px;padding:5px 6px;max-width:82px}
+}

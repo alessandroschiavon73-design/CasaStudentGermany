@@ -3,7 +3,7 @@ window.STUDENTBNB_CONFIG = {
   "countryName": "Deutschland",
   "locale": "de-DE",
   "currency": "EUR",
-  "domain": "student-bnb.de",
+  "domain": "casastudent.de",
   "apiBaseUrl": "/api/v1",
   "apiEnabled": false,
   "analyticsEnabled": false,
@@ -22,19 +22,19 @@ window.STUDENTBNB_CONFIG = {
       "code": "IT",
       "label": "Italia",
       "flag": "🇮🇹",
-      "url": "https://studentbnb.it/"
+      "url": "https://casastudent.it/"
     },
     {
       "code": "ES",
       "label": "España",
       "flag": "🇪🇸",
-      "url": "https://studentbnb.es/"
+      "url": "https://casastudent.es/"
     },
     {
       "code": "FR",
       "label": "France",
       "flag": "🇫🇷",
-      "url": "https://studentbnb.fr/"
+      "url": "https://casastudent.fr/"
     },
     {
       "code": "DE",
@@ -46,7 +46,7 @@ window.STUDENTBNB_CONFIG = {
       "code": "PL",
       "label": "Polska",
       "flag": "🇵🇱",
-      "url": "https://studentbnb.pl/"
+      "url": "https://casastudent.pl/"
     }
   ],
   "ui": {

@@ -43,3 +43,14 @@
 .map-city-marker span,.map-city-marker:after{display:none!important}
 .map-city-marker:focus-visible{outline:3px solid rgba(255,196,0,.72);outline-offset:2px}
 @media(max-width:590px){.market-map-top{display:none}.country-market-map{margin-top:4px}.market-map-canvas{padding-top:0}.market-map-note{margin-top:4px}.map-city-marker{width:48px;height:48px}}
+
+/* City imagery: the photo is rendered by the image element, not twice as a card background. */
+.city-grid .city-card{
+  background-image:none!important;
+}
+.city-grid .city-card>img{
+  opacity:1!important;
+}
+.city-grid .city-card:before{
+  display:none!important;
+}

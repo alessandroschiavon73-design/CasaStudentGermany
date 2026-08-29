@@ -7263,6 +7263,26 @@ window.STUDENTBNB_DATA = {
       ]
     },
     {
+      "id": "de-dresden",
+      "country_code": "DE",
+      "slug": "dresden",
+      "name": "Dresden",
+      "region": "Sachsen",
+      "description": "Dresden: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
+      "image": "https://images.unsplash.com/photo-1658448358154-8fa612d8e5f3?auto=format&fit=crop&w=1400&q=82",
+      "active": true,
+      "districts": [
+        {"id": "de-dresden-1", "slug": "altstadt", "name": "Altstadt"},
+        {"id": "de-dresden-2", "slug": "neustadt", "name": "Neustadt"},
+        {"id": "de-dresden-3", "slug": "blasewitz", "name": "Blasewitz"},
+        {"id": "de-dresden-4", "slug": "cotta", "name": "Cotta"},
+        {"id": "de-dresden-5", "slug": "pieschen", "name": "Pieschen"},
+        {"id": "de-dresden-6", "slug": "plauen", "name": "Plauen"},
+        {"id": "de-dresden-7", "slug": "leuben", "name": "Leuben"},
+        {"id": "de-dresden-8", "slug": "loschwitz", "name": "Loschwitz"}
+      ]
+    },
+    {
       "id": "de-heidelberg",
       "country_code": "DE",
       "slug": "heidelberg",

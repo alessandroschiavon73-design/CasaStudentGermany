@@ -7,7 +7,7 @@ window.STUDENTBNB_DATA = {
       "name": "Berlin",
       "region": "Berlin",
       "description": "Berlin: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-1.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brandenburger%20Tor%20abends.jpg",
       "active": true,
       "districts": [
         {
@@ -3354,7 +3354,7 @@ window.STUDENTBNB_DATA = {
       "name": "München",
       "region": "Bayern",
       "description": "München: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-2.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Munich%20-%20Marienplatz.jpg",
       "active": true,
       "districts": [
         {
@@ -4546,7 +4546,7 @@ window.STUDENTBNB_DATA = {
       "name": "Hamburg",
       "region": "Hamburg",
       "description": "Hamburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-3.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Speicherstadt%20%28Hamburg-HafenCity%29.1.hf.phb.ajb.jpg",
       "active": true,
       "districts": [
         {
@@ -5363,7 +5363,7 @@ window.STUDENTBNB_DATA = {
       "name": "Köln",
       "region": "Nordrhein-Westfalen",
       "description": "Köln: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-4.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cologne%20Germany%20Exterior-view-of-Cologne-Cathedral-01.jpg",
       "active": true,
       "districts": [
         {
@@ -6205,7 +6205,7 @@ window.STUDENTBNB_DATA = {
       "name": "Frankfurt am Main",
       "region": "Hessen",
       "description": "Frankfurt am Main: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-5.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frankfurt%20Skyline%20%2816259801511%29.jpg",
       "active": true,
       "districts": [
         {
@@ -6652,7 +6652,7 @@ window.STUDENTBNB_DATA = {
       "name": "Leipzig",
       "region": "Sachsen",
       "description": "Leipzig: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-6.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leipzig%20-%20Augustusplatz.jpg",
       "active": true,
       "districts": [
         {
@@ -7289,7 +7289,7 @@ window.STUDENTBNB_DATA = {
       "name": "Heidelberg",
       "region": "Baden-Württemberg",
       "description": "Heidelberg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-7.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Heidelberg-Schlo%C3%9F.JPG",
       "active": true,
       "districts": [
         {
@@ -7456,7 +7456,7 @@ window.STUDENTBNB_DATA = {
       "name": "Freiburg",
       "region": "Baden-Württemberg",
       "description": "Freiburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-1.webp",
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Exterior%20of%20Freiburg%20Minster.JPG",
       "active": true,
       "districts": [
         {

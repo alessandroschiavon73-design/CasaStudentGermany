@@ -7,7 +7,7 @@ window.STUDENTBNB_DATA = {
       "name": "Berlin",
       "region": "Berlin",
       "description": "Berlin: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-1.webp",
+      "image": "https://images.unsplash.com/photo-1570862687812-8b841fad0733?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -3354,7 +3354,7 @@ window.STUDENTBNB_DATA = {
       "name": "München",
       "region": "Bayern",
       "description": "München: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-2.webp",
+      "image": "https://images.unsplash.com/photo-1724011513498-562fff9edf2b?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -4546,7 +4546,7 @@ window.STUDENTBNB_DATA = {
       "name": "Hamburg",
       "region": "Hamburg",
       "description": "Hamburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-3.webp",
+      "image": "https://images.unsplash.com/photo-1745053316250-6158bf3a984c?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -5363,7 +5363,7 @@ window.STUDENTBNB_DATA = {
       "name": "Köln",
       "region": "Nordrhein-Westfalen",
       "description": "Köln: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-4.webp",
+      "image": "https://images.unsplash.com/photo-1745183698367-544097498354?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -6205,7 +6205,7 @@ window.STUDENTBNB_DATA = {
       "name": "Frankfurt am Main",
       "region": "Hessen",
       "description": "Frankfurt am Main: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-5.webp",
+      "image": "https://images.unsplash.com/photo-1602521879205-9e43bd841b1a?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -6652,7 +6652,7 @@ window.STUDENTBNB_DATA = {
       "name": "Leipzig",
       "region": "Sachsen",
       "description": "Leipzig: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-6.webp",
+      "image": "https://images.unsplash.com/photo-1696486461891-2938f3a3433d?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -7269,7 +7269,7 @@ window.STUDENTBNB_DATA = {
       "name": "Heidelberg",
       "region": "Baden-Württemberg",
       "description": "Heidelberg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-7.webp",
+      "image": "https://images.unsplash.com/photo-1777376115895-24d66237b5e4?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {
@@ -7436,7 +7436,7 @@ window.STUDENTBNB_DATA = {
       "name": "Freiburg",
       "region": "Baden-Württemberg",
       "description": "Freiburg: Miete, Nebenkosten, Kaution, Dauer und Kündigungsfrist.",
-      "image": "assets/img/room-1.webp",
+      "image": "https://images.unsplash.com/photo-1691166461542-3746cd5a46e3?auto=format&fit=crop&w=1400&q=82",
       "active": true,
       "districts": [
         {

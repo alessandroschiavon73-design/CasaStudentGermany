@@ -1,8 +1,33 @@
-STUDENTBNB DE - CREDITI CARTOGRAFICI
+STUDENTBNB DE - CREDITI CARTOGRAFICI E FOTOGRAFICI
 
 Cartina nazionale: https://commons.wikimedia.org/wiki/File:Germany_location_map.svg
 Autore: NordNordWest / Wikimedia Commons
 Licenza: CC BY-SA 3.0 / GFDL, secondo la pagina sorgente.
 Utilizzo nel portale: file country-map.svg visualizzato con indicatori HTML separati per le città universitarie.
 
-Le bandiere nazionali sono icone SVG geometriche realizzate per l'interfaccia StudentBnB.
+FOTO RAPPRESENTATIVE DELLE CITTÀ - UNSPLASH
+Berlin — Brandenburger Tor — Claudio Schwarz
+https://unsplash.com/photos/brandenburg-gate-berlin-cQ41AMy31Zw
+
+München — Marienplatz — Elisa Chircop
+https://unsplash.com/photos/a-crowd-of-people-walking-around-a-large-building-SZCrhTRD5ws
+
+Hamburg — Speicherstadt — Wolfgang Weiser
+https://unsplash.com/de/fotos/rote-backsteingebaude-saumen-einen-ruhigen-kanal-in-hamburg-o1H8nfeP3dI
+
+Köln — Kölner Dom — Vidar Nordli-Mathisen
+https://unsplash.com/photos/cologne-cathedral-illuminated-at-night-with-a-low-angle-view-zd0Ie1fxEGA
+
+Frankfurt am Main — Skyline — Hert Niks
+https://unsplash.com/de/fotos/skyline-der-stadt-bei-sonnenuntergang-mit-brucke-eQWsZ-Peu-8
+
+Leipzig — Stadtzentrum — Aoi
+https://unsplash.com/photos/a-view-of-a-city-from-the-top-of-a-building-azd0qseNpdo
+
+Heidelberg — Schloss und Altstadt — Markus McKay
+https://unsplash.com/photos/heidelberg-castle-overlooks-a-scenic-german-town-and-river-7RONYDHu4OQ
+
+Freiburg — Münster — Greg Willson
+https://unsplash.com/photos/a-very-tall-building-with-a-clock-on-its-side-uA8hnppPtaY
+
+Le bandiere nazionali sono icone SVG geometriche realizzate per l'interfaccia CasaStudent.

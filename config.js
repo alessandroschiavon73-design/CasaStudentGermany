@@ -4,8 +4,11 @@ window.STUDENTBNB_CONFIG = {
   "locale": "de-DE",
   "currency": "EUR",
   "domain": "casastudent.de",
+  "supabaseUrl": "https://etyvaugscofodkhklqqz.supabase.co",
+  "supabasePublishableKey": "sb_publishable_MJiby1pof0ghYnw1UMx-jQ_bpQKyd0L",
+  "apiMode": "supabase",
   "apiBaseUrl": "/api/v1",
-  "apiEnabled": false,
+  "apiEnabled": true,
   "analyticsEnabled": false,
   "routes": {
     "city": "stadt.html",
